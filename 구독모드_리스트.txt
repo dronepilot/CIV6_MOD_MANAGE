@@ -10,6 +10,8 @@ Better Espionage Screen
 Enhanced Mod Manager
 Better Trade Screen
 Great Works Viewer
+Sukritact's Civ Selection Screen (가끔 클릭이 안되는 버그있음)
+
 =========================================
 =========================================
 * Plus Function
