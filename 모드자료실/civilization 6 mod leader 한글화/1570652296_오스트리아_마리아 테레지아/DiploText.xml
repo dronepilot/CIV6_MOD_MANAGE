@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- DiploText -->
+<!-- Author: Richard -->
+<!-- DateCreated: 12/3/2017 6:10:28 PM -->
+<GameData>
+	<LocalizedText>
+	<!--Pedia-->
+		<Row Tag="LOC_CIVINFO_MER_AUSTRIA_LOCATION" Language="en_US">
+			<Text>오스트리아</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_MER_AUSTRIA_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>996년 신성로마제국의 오토 3세가 처음 기록한 고대 고지 독일어 "Ostarrichi"가 어원인 오스트리아는 육지로 둘러싸인 작은 나라이지만, 유럽 대륙을 뒤흔든 정치적/군사적 사건에 빠짐없이 등장하는 영향력 있는 나라다. 13세기부터 거의 650년 동안 강력한 합스부르크 왕가의 지배를 받은 오스트리아는 강력한 동맹국과 대륙 전체에 영향을 주는 무역 협정을 맺는 등 유럽 강국의 면모를 보이기 시작했다. 후에 헝가리와 단일제국이 되어 두 나라에 안정을 가져왔지만 1차 세계대전 발발로 분리되고 2차 세계대전에서 독일에 점령당하는 수모를 겪는다. 두 번에 걸친 세계대전으로 국경선이 바뀐 오스트리아는 오늘날 중립과 안정을 자랑하는 민주주의 공화국이 되었다.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_MER_AUSTRIA_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>초기 오스트리아 역사는 켈트족 이주민과 팽창주의 노선을 채택한 로마제국과의 갈등이 주를 이룬다. 기원전에서 기원후로 넘어가는 마지막 몇백 년 동안 우리가 오스트리아라고 부르는 지역을 흐르는 다뉴브 강 북쪽 지역에 켈트족이 살았다. 이들 고대 켈트족이 속한 문화권은 대부분의 유물이 출토된 오스트리아의 할슈타트 마을 이름을 따 할슈타트 문화권이라고 한다. 기원전 200년경 로마인이 이 지역에 진출해 주변 부족들을 재빨리 평정하고 지배권을 확보하자 켈트족은 쇠퇴하기 시작했다. 고대 켈트족 거주지였던 빈도보나가 점령당해 로마군의 전초기지로 바뀐 것이 바로 이 시기이다. 로마군의 주둔지 중 하나였던 빈도보나는 다뉴브 강을 낀 무역 중심지로 발전했으며 나중에는 오스트리아의 수도 빈이 된다. 오스트리아 남부 지역은 수백 년 동안 로마인의 통치를 받았으나 3세기에 이르자 점점 세력이 커진 게르만 부족이 북쪽에서 밀고 내려왔다. 5세기에 이르자 쇠퇴일로였던 로마제국에는 이러한 영토 축소 문제보다 더 큰 문제가 산적해 있었다. 로마제국이 쇠퇴함에 따라 오스트리아 지역이 걷잡을 수 없는 혼란에 빠지자 바바리아나 주변 지역에서 온 이주민들이 마음대로 정착할 수 있게 되었다. 630년에 유목민족이었던 아바르 족이 빈도보나를 점령했으나 8세기 말에 샤를마뉴 대제에게 패했다.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_MER_AUSTRIA_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>훗날 독일인이 오스트마크 또는 "동쪽 지방"이라고 부르게 될 오스트리아 제국의 영토 대부분은 976년에 형성되었다. 국경지대라는 말은 중세 유럽에서 다른 영토와 맞닿은 전방 지역을 가리키는 말이었다. 신성로마제국의 황제 오토 2세가 정한 오스트리아 국경선은 8세기에 샤를마뉴 대제가 정한 아바르 국경선을 대체하게 되었다. 이 지역은 훗날 오토 2세의 아들 오토 3세가 Ostarrichi라고 부르게 된다. 오스트리아 지역의 첫 영주는 신성로마제국의 황제 오토 2세의 명령으로 권력을 잡은 바벤베르크 가문에서 배출되었다. 레오폴드 1세는 바바리아 봉기 사건에서 오토를 굳게 지지한 대가로 976년에 오스트리아 후작이 되었다. 신성로마제국의 "후작"은 보통 제국의 변방을 지키는 영주에게 하사되는 작위로, 군사적인 성격이 강했다. 바벤베르크 가문은 오스트리아가 배출한 가장 강력한 지배 가문인 합스부르크 가문이 권력의 중심에 까지 300년 동안 오스트리아를 지배했다.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_MER_AUSTRIA_CHAPTER_HISTORY_PARA_4" Language="en_US">
+			<Text>13세기에 루돌프 1세가 독일의 왕좌를 차지한 것으로 시작된 합스부르크 왕조는 유럽에서 가장 강력한 왕가가 되었다. 1246년에 오스트리아 공작 프레데릭 2세가 세상을 떠나 바벤베르크 가문의 대가 끊기자 합스부르크 가문에 기회가 찾아왔다. 신성로마제국의 황제가 된 루돌프는 보헤미아의 왕자 오타카르 2세와의 계승 다툼에서 승리하고 오스트리아를 차지했다. 루돌프는 곧 자신의 아들 루돌프 2세와 알베르트 1세를 오스트리아로 보내 그 지역을 공동으로 통치하게 했는데, 이들이 바로 오스트리아 쪽 합스부르크 분가의 시조이다. 이후 합스부르크 가문은 1452년 교황 니콜라스 5세가 프레데릭 3세를 신성로마제국의 황제로 지명하는 등 600년 동안 유럽에서 위세를 떨치게 된다. 프레데릭의 황위 등극에 힘입은 합스부르크 가문은 19세기 초까지 오스트리아와 신성로마제국을 지배하게 된다.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_MER_AUSTRIA_CHAPTER_HISTORY_PARA_5" Language="en_US">
+			<Text>합스부르크 가문은 그 긴 통치기간 동안 권력의 중심부였던 오스트리아를 중심으로 세력권을 확장했는데, 심지어는 헝가리도 이들의 지배를 받았다. 헝가리 대부분을 차지한 오스만투르크와 인접한 합스부르크 가문은 헝가리를 무대로 자주 전쟁을 벌였으나 빈 전투에서 합스부르크 가문이 완승을 거둔 결과 1699년 대투르크전쟁에 종지부를 찍고 헝가리는 합스부르크 가문의 영토가 되었다. 오스트리아를 지배한 합스부르크 가문의 마지막 통치자였던 마리아 테레지아는 아버지가 세상을 떠나자 계승권 문제로 전쟁을 치른다. 합스부르크 가문 최초로 여성이 수장에 오르자 유럽 강국이었던 프랑스와 경쟁국 프러시아가 오스트리아를 차지하려는 욕심에 오스트리아왕위계승전쟁을 일으킨 것이다. 마리아 테레지아는 9년에 걸친 전쟁 끝에 정식으로 오스트리아 여왕이 되었지만, 그 대가로 귀중한 지역인 실레지아를 프로이센에 양도해야 했다. 마리아 테레지아는 신중한 정치/경제 정책 덕분에 오스트리아를 안정시킬 수 있었다. 세금을 늘려 재정 균형을 잡고 지출을 줄여 약화된 오스트리아군을 재건하는 동시에 교육과 의료 시설을 늘려 복지에도 신경 썼다.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_MER_AUSTRIA_CHAPTER_HISTORY_PARA_6" Language="en_US">
+			<Text>18세기 후반에 나폴레옹전쟁이 발발하자 대프랑스동맹이 여럿 형성되었다. 오스트리아는 1793년 나폴레옹에게 대항한 첫 동맹에 가담해 다른 유럽 국가들과 프랑스 영토를 동시다발적으로 침략했으나 격퇴당했다. 그러나 이 패배에도 불구하고 이후 나폴레옹에 대항한 7번의 동맹 대부분에 참가해 프랑스에 대항하였다. 그러나 불운하게도 전쟁 초기 오스트리아는 연패의 고배를 마셔야 했으며 1804년에는 신성로마제국의 황제 프란츠 2세가 오스트리아 지역에 있던 자신의 영토를 합쳐 오스트리아 제국을 세웠다. 신성로마제국의 황제 자리를 포기한 프란츠는 1805년 프레스부르크화약에 서명해 라인 연방을 세워 나폴레옹이 전쟁의 구실로 이용한 독일 영토 분쟁 문제 자체를 없앴다. 그러나 1813년 나폴레옹이 패하자 나폴레옹에 대항할 목적으로 만든 라인 연방은 해체되었으며 곧 독일 연방이 뒤를 이었다. 독일어를 사용하는 유럽 지역이 뭉친 독일 연방은 금세 와해되고 마는데, 이는 역사상 경쟁국이었던 오스트리아와 프로이센의 유력자들로 구성된 탓이었다. 1866년 프러시아와 우방국 이탈리아가 홀스타인을 침략해 시작된 오스트리아와 짧은 전쟁에서 대승을 거두자 독일 연방은 자연히 붕괴되었다.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_MER_AUSTRIA_CHAPTER_HISTORY_PARA_7" Language="en_US">
+			<Text>1848년 프랑스혁명, 즉 노동자들이 전통 군주제에 대항해 일으켜 근대 국가의 기틀을 마련하는 계기가 된 혁명이 유럽을 휩쓸자 오스트리아도 무사할 수 없었다. 오스트리아의 노동자들도 이 혁명에 가담했으나 성공하지는 못했다. 이 사건으로 헝가리 국민의 민족주의가 싹트고 오스트리아 내정에 대한 불만이 증가한 결과 오스트리아-헝가리 제국의 탄생에 직접적인 영향을 주었다. 1867년 오스트리아의 황제 조셉 프란츠가 명목상 헝가리를 통치하되 헝가리는 독립된 의회와 정부 구조를 유지한다는 대타협을 체결해 오스트리아-헝가리 제국이 탄생했다. 오스트리아와 헝가리의 연합으로 헝가리 국민의 지지를 다시 얻은 오스트리아는 내정을 안정시킬 수 있었고 헝가리는 더 많은 자주권을 회복할 수 있었다. 오스트리아는 이 연합으로 지난 세기에 나폴레옹을 상대로 치른 격전의 결과 크게 약해진 경제와 군대를 어느 정도 회복할 수 있었다. 1차 세계대전의 도화선이 된 사라예보 사건은 발칸 반도를 두고 오스트리아-헝가리 제국과 러시아, 세르비아가 벌인 발칸전쟁이 그 원인이었다. 오스트리아-헝가리 제국이 발칸 반도에 진출하려는 러시아를 저지하려고 보스니아를 점령하자 발칸 반도 전역에서 이에 반대하는 민족주의 운동이 일어났고, 이것이 도화선이 되어 유럽 전체가 전화에 휩싸이게 된 것이다.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_MER_AUSTRIA_CHAPTER_HISTORY_PARA_8" Language="en_US">
+			<Text>1914년 오스트리아-헝가리 제국의 왕위 계승자였던 페르디난드 프란츠 대공이 세르비아 민족주의 비밀결사단의 일원이었던 프린시프 가브릴로에게 암살당하자 1차 세계대전이 발발했다. 이 사건을 외교적으로 해결하려는 노력이 있었지만 결국 오스트리아-헝가리 제국은 같은 해 세르비아에 선전포고를 한다. 전쟁이 발발하자 여러 동맹과 조약으로 복잡하게 얽힌 유럽 국가들이 일제히 참전해 결국 오스트리아와 우방국 독일이 세르비아 방어를 위해 참전한 러시아, 러시아와 이전에 동맹 관계였던 프랑스 그리고 독일의 벨기에 침략으로 참전한 영국을 상대로 싸우는 큰 전쟁으로 번졌다. 복잡하게 얽힌 군사 동맹 때문에 오스트리아와 세르비아 사이의 분쟁이 삽시간에 유럽 전체로 번진 것이다. 1차 세계대전은 수년 동안 끔찍한 소모전의 양상을 보이다 1919년 베르사유조약으로 종전되었다. 오스트리아는 이 전쟁으로 엄청난 피해를 당했다.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_MER_AUSTRIA_CHAPTER_HISTORY_PARA_9" Language="en_US">
+			<Text>오스트리아는 헝가리 제국의 일부였으나 1919년 연합군의 승리로 헝가리와 분리되어 그 전신이었던 독일령 오스트리아 공화국 국경선으로 개편되었다. 오스트리아는 1차 세계대전 후 체결된 상제르만조약에 따라 독일과의 연합이 엄격하게 금지되었다. 그러나 오스트리아 출신 지도자 아돌프 히틀러가 이끄는 나치 독일이 등장하자 이 조약은 무시되었다.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_MER_AUSTRIA_CHAPTER_HISTORY_PARA_10" Language="en_US">
+			<Text>1938년, 히틀러가 이끄는 독일군이 독일과 오스트리아를 제삼제국이라는 이름으로 합병하기 위해 오스트리아 영토에 들어왔다. 오스트리아 지도층은 이에 저항했으나 국민 대부분의 지지를 얻은 히틀러는 괴뢰정부를 수립하고 오스트리아를 합병하는 데 성공했다. "오스트리아 합병"으로 알려진 이 사건으로 오스트리아 공화국은 독일에 흡수되고 오스트마르크 또는 동쪽 지방으로 불리게 된다.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_MER_AUSTRIA_CHAPTER_HISTORY_PARA_11" Language="en_US">
+			<Text>2차 세계 대전에서 나치 독일이 패전하자 오스트리아는 1955년에 오스트리아국가조약을 체결하고 중립 선언을 할 때까지 거의 10년 동안 연합군의 지배를 받았다. 오스트리아국가조약에 따라 독립 공화국이 된 오스트리아는 앞으로 군사적으로 중립을 지키기로 했다.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_MER_AUSTRIA_CHAPTER_HISTORY_PARA_12" Language="en_US">
+			<Text>두 번째 공화국이 된 이후 오스트리아는 중립을 지키며 민주주의 체제하에 번영을 누리고 있다. 2차 세계대전이 끝나고 독립을 얻은 오스트리아는 1955년에 70번째 UN 회원국이 되었다. 수도인 빈에는 UN 본부 중 하나가 있으며 UN 인간개발지수로 보면 세계에서 생활 수준이 가장 높은 나라이다. 오스트리아는 1955년 투표를 통해 UN에 가입하기로 했으며 1999년에는 통화를 유로로 바꾸기로 동의했다. 오스트리아는 UN과의 긴밀한 협조를 통해 국제 분쟁에 대한 정책 대부분을 결정하며 전 세계 국가와 평화를 유지하고 있다.</Text>
+		</Row>
+	<!--DOM-->
+	<Row Tag="LOC_LOADING_INFO_LEADER_MER_MARIA_THERESA" Language="en_US">
+		<Text>합스부르크의 가문의 상속자이신 마리아 테레지아 황후여. 그대는 오스트리아를 그 어떤 세상보다도 아름답게 만들 능력을 가지고 계십니다. 당신은 문화에 조예가 깊기에 허름한 커피 하우스에서도 문화를 위한 글과 음악이 써내려가지고 있습니다. 충성스러운 그렌저들은 오스트리아의 문화를 지키는 수호자의 임무를 다하고있습니다. 당신의 영광은 곧 오스트리아의 영광이고 음악가들은 당신의 업적을 기리는 노래가 지어질것입니다.</Text>
+	</Row>
+	<!--Agenda-->
+	<Row Tag="LOC_AGENDA_MER_THERESA_AGENDA_NAME" Language="en_US">
+		<Text>합스부르크 가문</Text>
+	</Row>
+	<Row Tag="LOC_AGENDA_MER_THERESA_AGENDA_DESCRIPTION" Language="en_US">
+		<Text>자신과 같은 정부와 종교를 가진 문명을 좋아하며, 다른 정부형태와 다른 종교를 가진 문명을 싫어합니다.</Text>
+	</Row>
+	<Row Tag="LOC_DIPLO_KUDOS_LEADER_MER_MARIA_THERESA_REASON_RELIGION" Language="en_US">
+		<Text>(마리아 테레지아와 같은 정부와 종교를 채택하고 있습니다.)</Text>
+	</Row>
+	<Row Tag="LOC_DIPLO_MODIFIER_MER_MARIA_THERESA_THERESA_AGENDA_SAME_REL_GOV" Language="en_US">
+		<Text>마리아 테레지아는 당신의 정부와 종교에 찬사를 보냅니다.</Text>
+	</Row>
+	<Row Tag="LOC_DIPLO_WARNING_LEADER_MER_MARIA_THERESA_REASON_NO_RELIGION" Language="en_US">
+		<Text>(마리아 테레지아와 다른 정부와 정부를 채택하고 있습니다.)</Text>
+	</Row>
+	<Row Tag="LOC_DIPLO_MODIFIER_MER_MARIA_THERESA_THERESA_AGENDA_DIFF_REL_GOV" Language="en_US">
+		<Text>마리아 테레지아는 당신의 정부와 종교를 싫어합니다.</Text>
+	</Row>
+	<!--Civilopedia-->
+	<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MER_MARIA_THERESA_TITLE" Language="en_US">
+		<Text>마리아 테레지아</Text>
+	</Row>
+	<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MER_MARIA_THERESA_SUBTITLE" Language="en_US">
+		<Text>신성로마제국의 여황제, 오스트리아의 여대공, 헝가리와 크로아티아의 여왕</Text>
+	</Row>
+	<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MER_MARIA_THERESA_QUOTE" Language="en_US">
+		<Text>역사 속에서 나보다 더 좋지 않은 상황에서 나라를 떠맡게 된 군주의 사례를 찾기는 힘들 것이다. 하지만 나의 백성들은 내 마지막 아이들이 될 것이다.</Text>
+	</Row>
+	<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MER_MARIA_THERESA_CHAPTER_HISTORY_PARA_1" Language="en_US">
+		<Text>마리아 테레지아는 18세기의 신성로마제국 및 강력한 합스부르크 가문이 지배하던 오스트리아를 통치하던 지도자이다. 그녀는 자신의 권위에 대적하는 다른 유럽 세력들을 평정하고 용감하게 왕국을 이끌었다. 650년에 걸친 합스부르크 가문의 통치 중, 마리아 테레지아는 지도자의 자리에 오른 처음이자 마지막 여성이었고, 그녀는 또한 합스부르크의 역사 중 가장 성공적인 지도자였다는 평가를 받는다.</Text>
+	</Row>
+	<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MER_MARIA_THERESA_CHAPTER_HISTORY_PARA_2" Language="en_US">
+		<Text>마리아 테레지아가 합스부르크의 지도자가 되자 많은 논란과 혼란이 일어났다. 그녀의 아버지인 카를 6세 왕에게는 아들이 없었으므로 당시의 법률에 따라 왕위를 계승할 수 있는 정당한 후계자가 없었다. 따라서 그는 마리아 테레지아가 왕위에 올라 왕가의 혈통을 잇게 하려고 1713년에 딸에게도 왕위를 넘길 수 있다는 조칙을 발표한다. 그의 이러한 조칙은 한동안은 인정받았지만, 1740년 카를 왕이 죽은 후 프랑스와 프로이센 왕국은 그녀의 왕위 계승에 이의를 제기하며 오스트리아왕위계승전쟁을 일으켰다. 마리아 테레지아는 영국의 지원을 받아 왕위와 영토를 지키기 위해 저항했다. 불행하게도, 그녀가 왕위를 계승할 당시 나라의 정세는 매우 불안했고, 고갈된 예산으로는 군대를 충분히 무장시키고 강화할 수 없었다. 8여 년에 걸친 전쟁 동안 오스트리아군은 몇 번의 참패를 당했고, 광물 자원이 풍부한 지역인 슐레지엔을 프로이센에게 빼앗기기도 했다. 이 전쟁은 엑스라샤펠 조약의 체결과 함께 끝났다. 마리아 테레지아는 합스부르크 가문의 왕위를 지켜냈지만, 프로이센과의 갈등은 아직 시작일 뿐이었고 앞으로 더 많은 전쟁이 그녀를 기다리고 있었다.</Text>
+	</Row>
+	<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MER_MARIA_THERESA_CHAPTER_HISTORY_PARA_3" Language="en_US">
+		<Text>전통적으로 오스트리아 합스부르크 가문의 지도자는 교황의 위임을 받아 신성로마제국도 함께 통치했다. 그러나 마리아 테레지아가 왕위를 계승할 때와 마찬가지로, 여성은 신성로마제국의 황제가 될 수 없다는 법이 그녀를 가로막았다. 이러한 법을 피해 가기 위해, 마리아 테레지아는 그녀의 남편인 프란츠 슈테판을 오스트리아와 헝가리의 공동 통치자로 임명하고 그를 신성로마제국의 황제로 만든 뒤 자신이 황후가 되었다. 일반적으로 황후는 황제보다 권력관계에서 아래에 있으나, 마리아 테레지아는 실질적으로 모든 문제를 자신이 처리했으며 프란츠 슈테판은 단지 그녀의 지혜로운 조언을 따를 뿐이었다.</Text>
+	</Row>
+	<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MER_MARIA_THERESA_CHAPTER_HISTORY_PARA_4" Language="en_US">
+		<Text>1756년, 새로운 갈등 국면을 맞이하게 된 오스트리아와 프로이센 사이에서 7년전쟁이 발발했다. 이번 전쟁에는 양국의 동맹국도 바뀌어 전쟁에 큰 영향을 줬다. 7년 전쟁 중 '외교적 혁명'으로 알려진 사건으로 인해 영국은 프로이센의 편에 서고, 프랑스는 오스트리아의 편에 서게 되었다. 영국이 적국인 프랑스에 대항할 수 있는 더 강한 동맹국으로 프로이센을 선택했던 것이다. 이번 전쟁의 중심은 실레지아 지역이었다. 마리아 테레지아는 왕위 계승 전쟁에서 잃었던, 천연자원이 풍부한 지역인 실레지아를 되찾기 위해 필사적으로 노력했다. 그녀의 노력에도 불구하고, 오스트리아는 이번에도 실레지아를 되찾는 데 실패했다. 결국, 1763년 후베르투스베르크 조약이 체결되며 전쟁은 끝나고, 프로이센은 계속해서 실레지아의 통치권을 유지하였다.</Text>
+	</Row>
+	<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MER_MARIA_THERESA_CHAPTER_HISTORY_PARA_5" Language="en_US">
+		<Text>마리아 테레지아의 왕위 계승 때부터 오스트리아의 재정은 거의 바닥난 상태였다. 그녀의 아버지는 국내 정세를 돌보기보다는 국사 조칙을 세우는 것에만 힘을 쏟았기 때문이다. 왕위 계승 후 마리아 테레지아의 첫 번째 임무는 세금 징수와 적절한 지출을 통해 오스트리아의 재정을 강화하는 것이었다. 이전에는 세금이 면제되었던 귀족과 성직자 계층에도 세금을 부과하면서, 재정 안정을 위한 마리아의 노력은 빛을 발하기 시작했다. 경제가 안정되면서, 마리아는 수상 프리드리히 빌헬름 폰 하우비츠에게 명해 오스트리아 군대의 근대화와 대규모화를 꾀한다. 군대를 100,000명 규모로 늘린 하우비츠는 군대의 전문성을 높이기 위해 군대의 규율도 더욱 체계적으로 만들었다. 마리아는 또한 강력한 교육 시스템의 재구성을 이끌었던 것으로도 유명하다. 그녀는 성별, 가정 교육 여부과 상관없이 모든 6~12세의 아이들을 학교에 보내는 체계를 만들었다.</Text>
+	</Row>
+	<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MER_MARIA_THERESA_CHAPTER_HISTORY_PARA_6" Language="en_US">
+		<Text>왕위 계승 중 발생했던 다양한 문제들을 해결한 뒤, 마리아 테레지아는 약 20년에 걸쳐 16명의 아이를 낳았다. 적합한 남성 후계자를 통해 왕가의 혈통을 지속하고자 한 그녀는, 넷째 아이 요제프에게 오스트리아 왕위와 신성로마제국의 황제 자리를 물려주었다. 그녀의 자손 중 가장 유명한 사람은 흔히 마리 앙투아네트로 알려진 마리 안토니아일 것이다. 그녀는 1774년 프랑스의 여왕이 되었고, 이후 프랑스 혁명 중 반역죄로 사형당했다.</Text>
+	</Row>
+	<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MER_MARIA_THERESA_CHAPTER_HISTORY_PARA_7" Language="en_US">
+		<Text>마리아 테레지아는 보수적인 정책과 신중한 결정을 통해 합스부르크 가문의 지배력을 강화시키고 국민 복지를 향상한 현명하고 신중한 지도자로 평가받는다. 그녀는 혼란에 빠져있는 나라를 물려받아, 정치적 경험이 거의 없었음에도 40여 년간 권좌를 지키고 합스부르크 가문의 군주제를 이어나갔다.</Text>
+	</Row>
+	<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MER_MARIA_THERESA_CHAPTER_CAPSULE_BODY" Language="en_US">
+		<Text>오스트리아는 도시 개발과 도시국가 외교에 집중을 합니다.</Text>
+	</Row>
+	<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MER_MARIA_THERESA_CHAPTER_DETAILED_BODY" Language="en_US">
+		<Text>마리아 테레지아의 오스트리아는 도시를 개발하여 보너스를 제공을 받는데 초점을 맞추고 있습니다. 이러한 보너스를 통해 위인들을 쉽게 영입할수있으며 문화승리또는 외교승리에 유리하게 할수있습니다.</Text>
+	</Row>
+	<!--Diplomacy-->
+	<!--FIRST MEET-->
+	<!--First AI line-->
+	<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_MER_MARIA_THERESA_ANY" Language="en_US">
+		<Text>오스트리아의 대공비가 공의 방문을... 오, 인사치레는 이쯤에서 끝내지요. 4시에 오찬이 있어요.</Text>
+	</Row>
+	<!--AI invitation to visit nearby City-->
+	<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_MER_MARIA_THERESA_ANY" Language="en_US">
+		<Text>오셔서 우리의 아름다운 도시를 방문해보세요, 슈니첼을 드시면서 오페라하우스에서 클래식을 들으실수있답니다.</Text>
+	</Row>
+	<!--AI accepts Human invitation-->
+	<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_MER_MARIA_THERESA_ANY" Language="en_US">
+		<Text>저도 방문해보고 싶지만, 제 궁전을 너무 오래 비워서는 안 되요.</Text>
+	</Row>
+	<!--AI invitation to exchange Capital Information-->
+	<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_MER_MARIA_THERESA_ANY" Language="en_US">
+		<Text>우리는 정보교환을 해야 합니다. 당신의 가문과 합스부르크가문의 긴밀한 관계를 위해서 꼭 필요하답니다.</Text>
+	</Row>
+	<!--GREETINGS-->
+	<Row Tag="LOC_DIPLO_GREETING_LEADER_MER_MARIA_THERESA_ANY" Language="en_US">
+		<Text>듣고 있어요. </Text>
+	</Row>
+	<!--DELEGATION-->
+	<!--AI Accepts-->
+	<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_MER_MARIA_THERESA_ANY" Language="en_US">
+		<Text>감사합니다. 아주 멋지네요</Text>
+	</Row>
+	<!--AI Rejects-->
+	<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_MER_MARIA_THERESA_ANY" Language="en_US">
+		<Text>지금은 어떤 방문자도 알현을 허가하지 않습니다.</Text>
+	</Row>
+	<!--AI Requests-->
+	<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_MER_MARIA_THERESA_ANY" Language="en_US">
+		<Text>가장 맛있는 커피와 스트루들과 함께 대표단을 파견했습니다. 멋진 에피타이저가 될 거예요,즐겨주세요.</Text>
+	</Row>
+	<!--OPEN BORDERS-->
+	<!--AI accepts from human-->
+	<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_MER_MARIA_THERESA_ANY" Language="en_US">
+		<Text>동의합니다.</Text>
+	</Row>
+	<!--AI rejects from human-->
+	<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_MER_MARIA_THERESA_ANY" Language="en_US">
+		<Text>동의할 수 없습니다.</Text>
+	</Row>
+	<!--AI requests from human-->
+	<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_MER_MARIA_THERESA_ANY" Language="en_US">
+		<Text>국경의 공유는 우리 국민이 함께 성장할 수 있도록 해주고, 우리의 문화를 발전시키는데 기여할 것입니다.</Text>
+	</Row>
+	<!--DECLARE FRIENDSHIP-->
+	<!--AI accepts from human-->
+	<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_MER_MARIA_THERESA_ANY" Language="en_US">
+		<Text>우리의 우호은 양국에 도움이 될 것입니다.</Text>
+	</Row>
+	<!--AI Rejects from human-->
+	<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_MER_MARIA_THERESA_ANY" Language="en_US">
+		<Text>안타깝지만 신성로마제국의 황후는 허가 할 수 없습니다.</Text>
+	</Row>
+	<!--AI Requests friendship from human-->
+	<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_MER_MARIA_THERESA_ANY" Language="en_US">
+		<Text>저희 가문에서 우호를 선포하고싶은데 어떤가요? 더나아가 정략결혼까지 생각했답니다.</Text>
+	</Row>
+	<!--Human accepts AI requests, AI responds-->
+	<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_MER_MARIA_THERESA_ANY" Language="en_US">
+		<Text>이것이 최선이라고 생각합니다.</Text>
+	</Row>
+	<!--Human rejects AI requests, AI responds-->
+	<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_MER_MARIA_THERESA_ANY" Language="en_US">
+		<Text>네?!</Text>
+	</Row>
+	<!--ALLIANCE-->
+	<!--AI Requests an alliance from human-->
+	<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_MER_MARIA_THERESA_ANY" Language="en_US">
+		<Text>누구도 내가 불공평한 여자라고 말 할 순 없어요. 합의하죠.</Text>
+	</Row>
+	<!--KUDOS & WARNINGS-->
+	<!--AI Kudos-->
+	<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_MER_MARIA_THERESA_ANY" Language="en_US">
+		<Text>당신이 믿는 신앙과 이끄는 정부는 모두 저와 공유하고있습니다. 웬드마크의 여왕은 당신에게 존경을 표합니다.</Text>
+	</Row>
+	<!--AI Warnings-->
+	<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_MER_MARIA_THERESA_ANY" Language="en_US">
+		<Text>저희와 다른 길을 걷는건 추천드리지않습니다. 당신의 신하들도 새로운 통치를 바랄수도있답니다.</Text>
+	</Row>
+	<!--AI warns player for border troops-->
+	<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_MER_MARIA_THERESA_ANY" Language="en_US">
+		<Text>전쟁을 원하시나요?, 당신의 군대를 이동시키세요!</Text>
+	</Row>
+	<!--TRADE-->
+	<!--AI Accepts Deal-->
+	<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_MER_MARIA_THERESA_ANY" Language="en_US">
+		<Text>동의합니다.</Text>
+	</Row>
+	<!-- AI Rejects Deal -->
+	<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_MER_MARIA_THERESA_ANY" Language="en_US">
+		<Text>정말 어리석군요.</Text>
+	</Row>
+	<!--DENOUNCE-->
+	<!--From Human-->
+	<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_MER_MARIA_THERESA_ANY" Language="en_US">
+		<Text>이런 일을 저지르고도 편안하게 잠을 청할 수 있는 자는 냉혈한뿐이에요.</Text>
+	</Row>
+	<!--From AI-->
+	<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_MER_MARIA_THERESA_ANY" Language="en_US">
+		<Text>당신의 제국은 훨씬 더 강력한 결정을 내릴 수 있는 통치자가 필요합니다. 당신은 그렇지 못하군요. (당신을 비난함).</Text>
+	</Row>
+	<!--Rationale-->
+	<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_MER_MARIA_THERESA_THERESA_AGENDA_DIFF_REL_GOV" Language="en_US">
+		<Text>(You have not a different religion and/or government)</Text>
+	</Row>
+	<!--DECLARE WAR-->
+	<!--Human Declares War-->
+	<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_MER_MARIA_THERESA_ANY" Language="en_US">
+		<Text>난 그림이나 그리고 몽상에 잠겨 하루를 보내는 단순한 아녀자가 아닙니다. 신성로마제국의 황후란 말입니다.</Text>
+	</Row>
+	<!--AI Declares War-->
+	<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_MER_MARIA_THERESA_ANY" Language="en_US">
+		<Text>내가 남편에게서 작위와 영토를 상속받았을 뿐인 귀부인이라고 생각했나요? 이제 무대의 막을 내릴시간입니다.</Text>
+	</Row>
+	<!--MAKE PEACE-->
+	<!--AI accepts from human-->
+	<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_MER_MARIA_THERESA_ANY" Language="en_US">
+		<Text>지금 스스로에게 만족하시길 바라요. 그렇게 어리석은 자세를 취했는데도 그것을 뒷받침할 수 있는 것은 아무것도 없는 것 같네요.</Text>
+	</Row>
+	<!--AI refuses human-->
+	<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_MER_MARIA_THERESA_ANY" Language="en_US">
+		<Text>절대로 안 됩니다!</Text>
+	</Row>
+	<!--AI requests from human-->
+	<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_MER_MARIA_THERESA_ANY" Language="en_US">
+		<Text>정말 지긋지긋네요.</Text>
+	</Row>
+	<!--DEFEAT-->
+	<!--AI is Defeated-->
+	<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_MER_MARIA_THERESA_ANY" Language="en_US">
+		<Text>아름다움도 없고, 지혜도 없다니! 참 끔찍한 세상이로군요. 이런 세상이라면 떠나도 아쉬울 게 없어요. </Text>
+	</Row>
+	<!--Human is Defeated (will see this in hotseat)-->
+	<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_MER_MARIA_THERESA_ANY" Language="en_US">
+		<Text>세계는 당신 없이 더 좋은 방향으로 계속 진보할 것입니다.</Text>
+	</Row>
+	</LocalizedText>
+</GameData>

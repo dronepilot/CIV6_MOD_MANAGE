@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Replace Language="ko_KR" Tag="LOC_LEADER_CVS_DARIUS_NAME">
+			<Text>다리우스 1세</Text>
+		</Replace>
+		<Replace Language="ko_KR" Tag="LOC_TRAIT_LEADER_CVS_DARIUS_UA_NAME">
+			<Text>왕의 길</Text>
+		</Replace>
+		<Replace Language="ko_KR" Tag="LOC_TRAIT_LEADER_CVS_DARIUS_UA_DESCRIPTION">
+			<Text>시설물 건설 시 주변 타일에 도로를 생성합니다. 도시는 [ICON_Governor] 총독 및 총독 진급마다 5%의 [ICON_Gold] 골드와 [ICON_Amenities] 쾌적도 1을 얻습니다, 또한 [ICON_GreatMerchant] 위대한 상인을 활성화 하면 [ICON_Governor] 총독 진급을 하나 얻습니다.</Text>
+		</Replace>
+
+		<!--DOM-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_CVS_DARIUS" Language="ko_KR">
+			<Text>위대한 페르시아의 샤한샤 다리우스 1세시여. 당신은 아케메네스의 유산을 이어 받았습니다. 페르시아의 왕도는 제국을 위대하게 만들것이며 당신을 지키는 불멸자들은 당신의 뜻에 따라 움직일것입니다. 당신의 제국에 황금기를 열 준비가 되어있습니다. 전진하십시오. 아후라 마즈다, 아나히타와 미트라의 은총으로 페르시아를 위대하게 만드십시오.</Text>
+		</Row>
+
+		<!--Civilopedia-->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CVS_DARIUS_TITLE" Language="ko_KR">
+			<Text>다리우스 1세</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CVS_DARIUS_SUBTITLE" Language="ko_KR">
+			<Text>다리우스 대왕</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CVS_DARIUS_QUOTE" Language="ko_KR">
+			<Text>
+				아후라 마즈다께서 내게 왕국을 내렸으니 아후라 마즈다의 은혜로 나는 왕이니라.
+			</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CVS_DARIUS_CHAPTER_HISTORY_PARA_1" Language="ko_KR">
+			<Text>파르티아 사트라프의 아들이었던 다리우스 1세는 기원전 522년 캄비세스 2세가 죽자 힘으로 페르시아 왕좌를 차지했다. 행정의 천재였던 다리우스는 통치 기간에 이리저리 퍼져 있던 페르시아 제국을 재정비하고 국부와 국력을 크게 신장했다. 다리우스는 또한 페르시아 전역에 수많은 건축물을 지었다.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CVS_DARIUS_CHAPTER_HISTORY_PARA_2" Language="ko_KR">
+			<Text>다리우스 1세에 대한 지식 대부분은 그리스 초기 역사가 헤로도토스의 저서와 다리우스 본인의 명령으로 지은 페르시아어 비문에서 비롯한다. 헤로도토스를 따르면 페르시아의 키로스 대왕이 젊은 다리우스가 반역을 꾸미고 있다고 의심했다고 한다. 다리우스는 이 위기를 잘 넘기고 훗날 키로스의 아들이자 후계자인 캄비세스 2세가 즉위하자 다리우스는 그의 경호원 겸 장군이 되었다. 기원전 522년 캄비세스가 이집트에서 죽자 다리우스는 메디아로 돌아가 왕의 형제 바르디야는 바르디야 본인이 아니라 왕위를 노리고 왕의 형제인 척하는 사기꾼이라며 그를 처형한다.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CVS_DARIUS_CHAPTER_HISTORY_PARA_3" Language="ko_KR">
+			<Text>다리우스의 고발이 사실이든 허위든 바르디야가 죽자 다리우스는 페르시아 왕좌를 차지했다. 하지만 다리우스를 왕으로 받아들이기를 거부하는 지방이 많았다. 바빌론, 수시아나, 메디아, 사갈디아, 마르기아나 지역에서 큰 봉기가 일어났다. 사실 바빌론은 두 차례 봉기했으며 수시아나는 세 차례나 봉기했다. 그러나 조직적인 반란은 아니었으므로 다리우스는 이들 도시를 하나씩 진압할 수 있었다. 다리우스의 비문을 따르면 기원전 518년 나라가 안정되기까지 반란군과의 크고 작은 전투가 19번 있었으며 이들 전투에서 물리친 반란군 두목만 9명이라고 한다.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CVS_DARIUS_CHAPTER_HISTORY_PARA_4" Language="ko_KR">
+			<Text>왕좌를 공고히 하고 난 다리우스는 페르시아 국경을 확장하고 지키기 위한 전쟁을 시작했다. 기원전 519년에 카스피 해 동쪽에 있는 스키타이를 공격하고 곧이어 인더스 계곡을 정복했다. 다리우스는 후에 소아시아 북서쪽을 공격하여 트라키아와 마케도니아를 차례로 정복했다. 다리우스는 다뉴브 강 건너 북쪽에 있는 유럽 진출의 교두보를 확장하려 했지만 스키타이 유목민이 거세게 저항한 탓에 물러나야 했다. 마지막으로 다리우스는 에게 해에 있는 렘노스와 임브로스 섬을 확보했다. 페르시아는 소아시아 지역의 그리스인 식민지, 흑해의 관문이라 불리는 보스포루스 해협, 북쪽으로 그리스와 국경을 맞댄 마케도니아는 물론 에게 해에서 전략적으로 중요한 섬을 다수 차지했다. 강력하지만 분열된 그리스 도시 국가들은 페르시아가 이처럼 세력을 확장하자 질투하고 우려했으므로 이들 도시 국가와의 전쟁은 피할 수 없었다.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CVS_DARIUS_CHAPTER_HISTORY_PARA_5" Language="ko_KR">
+			<Text>이웃 국가와 전쟁을 치르지 않을 때면 다리우스는 제국을 통합하고 행정구조를 개선하는 데 주력했다. 다리우스는 제국을 여러 총독령으로 분할하고 각 총독에게 연공을 받았다. 도로망을 정비하고 화폐 및 도량형을 표준화하는 등 제국 내 무역을 진흥하는 한편, 인도에서 이집트까지 원정 탐험대를 지원하고 이집트 나일 강에서 홍해로 이어지는 운하를 완성했다. 다리우스는 페르시아 아케메네스 왕조를 통틀어 가장 건설적인 왕이었으며, 요새와 궁전은 물론 수사라는 도시를 행정 수도로 정해 그곳에 수많은 행정 건물을 지었다. 다리우스의 고향 페르세폴리스에는 새로운 궁성, 의회, 국고가 들어섰으며 더욱 요새화되었다.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CVS_DARIUS_CHAPTER_HISTORY_PARA_6" Language="ko_KR">
+			<Text>다리우스는 페르시아 내 반란 세력을 단호하게 진압했지만 종교 문제에서만큼은 아량이 넓었다. 이집트 신들을 기리는 다수의 사원이 그의 명에 따라 건설되었으며, 이집트 총독에게는 사제 계급과 협의하여 이집트 법을 성문화하라는 명이 전해졌다. 다리우스는 또한 기원전 519년에 유대인이 예루살렘에 사원을 재건하도록 허락했다. 다리우스 자신은 후에 페르시아 국교로 지정한 조로아스터교를 믿었다.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CVS_DARIUS_CHAPTER_HISTORY_PARA_7" Language="ko_KR">
+			<Text>기원전 499년 소아시아에 있는 그리스 식민지들이 그리스 도시국가 아테네와 에리트레아의 지원을 받아 페르시아에 반기를 드는 사건이 발생했다. 반란을 진압한 다리우스는 배후 세력을 없애고자 그리스 원정을 계획했다. 기원전 492년 다리우스의 양자 마르도니우스가 그리스 원정대를 이끌고 페르시아를 떠났으나 아토스 산 근처에서 만난 폭풍으로 함대 태반을 잃어 실패로 돌아갔다. 기원전 490년에 또 다른 페르시아 군대가 그리스를 침략해 에리트레아를 파괴하고 주민을 노예로 삼았으나 이 군대는 후에 마라톤에서 아테네군에게 패배한다. 기원전 486년, 다리우스는 세 번째 그리스 원정을 준비하다 세상을 떠났다.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CVS_DARIUS_CHAPTER_HISTORY_PARA_8" Language="ko_KR">
+			<Text>권력 계승의 정당성 논란을 제쳐놓고 보면(경쟁자나 정통 계승자를 제거하고 권력을 차지하는 것은 시대를 불문하고 으레 써먹는 수법이므로) 다리우스는 훌륭한 지도자였다. 도로를 건설했고, 지방 주와 정부를 재정비했으며, 국경을 확정했고, 당시 기준으로 보면 백성을 잘 대우했다. 비록 다리우스는 전투지휘관으로 명성을 얻지는 않았지만 내 외적을 상대로 수차례 승리를 거두었다. 다만 그리스 정복은 다리우스의 아들 크세르크세스 1세에게는 벅찬 임무였다. 종합적으로 평가하자면 다리우스는 페르시아 제국을 처음보다 발전시켰으므로 꽤 훌륭한 지도자였다.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CVS_DARIUS_CHAPTER_HISTORY_PARA_9" Language="ko_KR">
+			<Text>그는 언덕의 벽면에 베히스툰 비문(비시툰 비문)을 새겼는데, 이는 현대 언어학에서 중요한 위치를 차지하고 있다고 한다.</Text>
+		</Row>
+
+		<!--Diplomacy-->
+		<!--FIRST MEET-->
+		<!--First AI line-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_CVS_DARIUS_ANY" Language="ko_KR">
+			<Text>나는 위대한 아케메네스 페르시아의 샤한샤 다리우스라고 하오. 물론 그대도 익히 알고 있었겠지만...</Text>
+		</Row>
+		<!--AI invitation to visit nearby City-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_CVS_DARIUS_ANY" Language="ko_KR">
+			<Text>이리 와서 위대한 페르시아 도시의 웅장함을 느껴보게! 나는 그대가 이때까지 이런걸 본적이 없었으리라 장담하지.</Text>
+		</Row>
+		<!--AI accepts Human invitation-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_CVS_DARIUS_ANY" Language="ko_KR">
+			<Text>좋네.</Text>
+		</Row>
+		<!--AI invitation to exchange Capital Information-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_CVS_DARIUS_ANY" Language="ko_KR">
+			<Text>페르시아는 유구한 역사만큼이나 수도가 여럿 있지, 지도가 최신것인지 확인해 봐야겠군. 그대가 어디에서 왔는지 알고싶단 말이야...</Text>
+		</Row>
+
+		<!--GREETINGS-->
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_CVS_DARIUS_ANY" Language="ko_KR">
+			<Text>좋은 날이오.</Text>
+		</Row>
+
+		<!--DELEGATION-->
+		<!--AI Accepts-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_CVS_DARIUS_ANY" Language="ko_KR">
+			<Text>그대의 사절과 공물을 받아들이지.</Text>
+		</Row>
+		<!--AI Rejects-->
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_CVS_DARIUS_ANY" Language="ko_KR">
+			<Text>그대의 사절과 공물들은 이 신성한 홀을 더럽히기만 하는구나. 받지 않는게 낫겠군!</Text>
+		</Row>
+		<!--AI Requests -->
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_CVS_DARIUS_ANY" Language="ko_KR">
+			<Text>나의 외교관들이 페르시아의 고급 원단과 카페트, 그리고 새롭게 발행한 동전 몇가지를 가지고 방문할 예정이지. 그 동전들은 다릭스라고 하는데, 그게 누구의 이름에서 따 온건지 맞춰보겠소?</Text>
+		</Row>
+
+		<!--OPEN BORDERS-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_CVS_DARIUS_ANY" Language="ko_KR">
+			<Text>나는 그대의 백성들이 이 땅에 들어오는걸 허락하겠다. 그러나 주의깊게 살펴볼것이야.</Text>
+		</Row>
+		<!--AI rejects from human-->
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_CVS_DARIUS_ANY" Language="ko_KR">
+			<Text>페르시아의 땅은 자격없는 이들에겐 열려있지 않지</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_CVS_DARIUS_ANY" Language="ko_KR">
+			<Text>페르시아는 위대함으로 가득 차 있지. 이들이 당신 땅에 들어갈 수 있도록 허락해주게. 아마도 그 중 일부는 당신사람들에게 좋은 영향을 주리라 생각하는데.</Text>
+		</Row>
+
+		<!--DECLARE FRIENDSHIP-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_CVS_DARIUS_ANY" Language="ko_KR">
+			<Text>나 왕중의 왕 다리우스 대왕이 그대와의 친분을 받아들이지.</Text>
+		</Row>
+		<!--AI Rejects from human -->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_CVS_DARIUS_ANY" Language="ko_KR">
+			<Text>상상이 되는가? 사자와 쥐새끼가 친하게 지내는 모습이? 하!</Text>
+		</Row>
+		<!--AI Requests friendship from human-->
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_CVS_DARIUS_ANY" Language="ko_KR">
+			<Text>나 왕중의 왕 다리우스가 우정의 손길을 내미네. 받아주게! 그대를 친구중의 친구라 알리고 싶네!</Text>
+		</Row>
+		<!--Human accepts AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_CVS_DARIUS_ANY" Language="ko_KR">
+			<Text>그대는 절대 이 선택을 후회하지 않을것이야.</Text>
+		</Row>
+		<!--Human rejects AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_CVS_DARIUS_ANY" Language="ko_KR">
+			<Text>쯧... 그대는 이 다리우스에게 등돌린 날을 후회하게 될것이야</Text>
+		</Row>
+
+		<!--ALLIANCE-->
+		<!--AI Requests an alliance from human-->
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_CVS_DARIUS_ANY" Language="ko_KR">
+			<Text>나는 자네와 뜻을 함께한다고 선포하고 싶은데. 자네는 어떤가? 나와 동맹이 되어주겠나?</Text>
+		</Row>
+		<!--AI warns player for border troops-->
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_CVS_DARIUS_ANY" Language="ko_KR">
+			<Text>내가 페르시아 땅 근처로 벼룩들이 몰려든단 보고를 들었는데, 알고보니 그대의 군사들이더군. 그들을 내 눈앞에서 치우는게 좋을것이야, 안그러면 내가 직접 할테니.</Text>
+		</Row>
+
+		<!--TRADE-->
+		<!--AI Accepts Deal-->
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_CVS_DARIUS_ANY" Language="ko_KR">
+			<Text>마음에 드는군</Text>
+		</Row>
+		<!--AI Rejects Deal-->
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_CVS_DARIUS_ANY" Language="ko_KR">
+			<Text>물론...안되지!</Text>
+		</Row>
+
+		<!--DENOUNCE-->
+		<!--From Human-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_CVS_DARIUS_ANY" Language="ko_KR">
+			<Text>아? 미안하지만 뭐라 지껄였는지 못들었어. 나는 겁쟁이 코흘리개가 짖어대는건 무시하는 버릇이 있거든</Text>
+		</Row>
+		<!--From AI-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_CVS_DARIUS_ANY" Language="ko_KR">
+			<Text>네놈의 비참할정도로 무능함이 세상을 더럽히는구나! 네놈이 사막의 열기에 녹아내리는 눈송이처럼 사라진다면 이 세계가 기뻐할 것이다!(공개 비난)</Text>
+		</Row>
+
+		<!--DECLARE WAR-->
+		<!--Human Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_CVS_DARIUS_ANY" Language="ko_KR">
+			<Text>은혜도 모르는 놈같으니! 페르시아의 대군은 네놈을 맞이할것이며 곧 누굴 건드렸는지 알게될것이다!</Text>
+		</Row>
+		<!--AI Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_CVS_DARIUS_ANY" Language="ko_KR">
+			<Text>네놈의 존재 자체는 페르시아는 물론 세상 모든곳의 수치나 다름없지. 내 직접 수치를 없애주마.</Text>
+		</Row>
+
+		<!--MAKE PEACE-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_CVS_DARIUS_ANY" Language="ko_KR">
+			<Text>좋아, 이정도면 무승부라 할만하지. 안 그런가? </Text>
+		</Row>
+		<!--AI refuses human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_CVS_DARIUS_ANY" Language="ko_KR">
+			<Text>그런 비겁함이 내 마음에 다시한번 불씨를 지피는군. 곧 네놈의 땅은 모조리 잿더미로 화할것이다!</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_CVS_DARIUS_ANY" Language="ko_KR">
+			<Text>이정도면 피차 이 분쟁에서 충분히 목표를 달성했다 보는데 어떻게 생각하나? 어쩌면 이앞에 서로 피할수 없는 재대결이 있더라도 지금은 잠시 휴식을 취할때라고 보는데...</Text>
+		</Row>
+
+		<!--DEFEAT-->
+		<!--AI is Defeated-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_CVS_DARIUS_ANY" Language="ko_KR">
+			<Text>저주를 받아라! 그대의 손에 묻은 것은 역사상 가장 위대한 지도자의 피로다!</Text>
+		</Row>
+		<!--Human is Defeated (will see this in hotseat)-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_CVS_DARIUS_ANY" Language="ko_KR">
+			<Text>저주를 받아라! 그대의 손에 묻은 것은 역사상 가장 위대한 지도자의 피로다!</Text>
+		</Row>
+
+
+		<!--LEADER AGENDA-->
+		<Row Tag="LOC_AGENDA_CVS_DARIUS_NAME" Language="ko_KR">
+			<Text>샤한샤</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_CVS_DARIUS_DESCRIPTION" Language="ko_KR">
+			<Text>황금기에 들어선 이를 존중합니다. 암흑기를 겪는 이를 무시합니다.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_CVS_DARIUS_REASON_GOLDEN_SHOWERS" Language="ko_KR">
+			<Text>(당신이 암흑기에 들어섰습니다.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_CVS_DARIUS_GOLDEN_SHOWERS" Language="ko_KR">
+			<Text>다리우스는 당신의 문명이 암흑기에 들어선것을 경멸합니다.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_CVS_DARIUS_REASON_GOLDEN_AGE" Language="ko_KR">
+			<Text>(당신이 황금기에 들어섰습니다.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_CVS_DARIUS_GOLDEN_AGE" Language="ko_KR">
+			<Text>다리우스는 당신이 황금기에 들어선것에 인상깊게 바라봅니다.</Text>
+		</Row>
+
+		<!--AI Kudos-->
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_CVS_DARIUS_ANY" Language="ko_KR">
+			<Text>그대의 문명이 이토록 놀라운 모습을 보여주다니! 진실로 감탄스럽군! 그대만의 규칙이 그대의 사람들에게 번영을 불러왔군!.</Text>
+		</Row>
+		<!--AI Warnings-->
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_CVS_DARIUS_ANY" Language="ko_KR">
+			<Text>네 무능함이 백성들에게 불러온 결과를 좀 돌아봐라! 네 문명은 실패의 그림자 속에서 허덕이고 있지 않은가!</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

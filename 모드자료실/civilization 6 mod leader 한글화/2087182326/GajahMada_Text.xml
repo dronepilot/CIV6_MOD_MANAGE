@@ -1,0 +1,531 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+    <LocalizedText>
+        <Replace Language="ko_KR" Tag="LOC_LEADER_CVS_GAJAH_MADA_NAME">
+            <Text>가자 마다</Text>
+        </Replace>
+        <Replace Language="ko_KR" Tag="LOC_TRAIT_LEADER_CVS_GAJAH_MADA_UA_NAME">
+            <Text>숨파 팔라파</Text>
+        </Replace>
+        <Replace Language="ko_KR" Tag="LOC_TRAIT_LEADER_CVS_GAJAH_MADA_UA_DESCRIPTION">
+            <Text>
+		군사 유닛이 고향 대륙의 특수 지구를 공격시 [ICON_Strength] 전투력 +5을 획득합니다. 궁전이 고향 대륙에서 발견한 도시 당 [ICON_Food] 식량 +1, 정복한 도시 당 [ICON_Production] 생산력 +1을 생산합니다.
+	</Text>
+        </Replace>
+
+				<!--DOM-->
+				<Row Tag="LOC_LOADING_INFO_LEADER_CVS_GAJAH_MADA" Language="ko_KR">
+					<Text>위대한 가자 마다여, 당신의 눈앞에는 가능성이 넘쳐나는 영토들이 있습니다. 당신은 지략이 많고 현명하기에 전쟁을 현명하게 이끌것입니다. 당신휘하의 쳇방은 무서운 소리를 내며 적들을 공포에 질리게 할것입니다. 위대한 코끼리 장군이시여, 마자파히트의 해가 떠오르기 시작했습니다. 이제 당신을 가로막는 적들을 굴복시켜 누산타라의 이름아래 모든 군도를 통일시키십시오.</Text>
+				</Row>
+
+				<!--Civilopedia-->
+				<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CVS_GAJAH_MADA_TITLE" Language="ko_KR">
+					<Text>가자 마다</Text>
+				</Row>
+				<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CVS_GAJAH_MADA_SUBTITLE" Language="ko_KR">
+					<Text>마자파히트 제국의 재상</Text>
+				</Row>
+				<Row Tag="LOC_PEDIA_LEADERS_PAGE_CVS_GAJAH_MADA_QUOTE" Language="ko_KR">
+					<Text>
+						누산타라를 정복하기 전까진 어떤 음식도 먹지 않겠다.
+					</Text>
+				</Row>
+				<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CVS_GAJAH_MADA_CHAPTER_HISTORY_PARA_1" Language="ko_KR">
+					<Text>
+						14세기 전반에 걸쳐 마자파히트 제국의 수상으로 활동했던 가자 마다(대략 "코끼리 장군"이라는 뜻이다)는 인도네시아의 영웅이었으며 자존심과 애국심의 표상이다. 가자 마다의 유년기에 대한 기록이 없어 자세히는 알 수 없지만, 그는 평민 출신이었으며 자신의 지능과 계략, 전사로서의 자질만으로 수상이 된 인물이었다. 왕실 수호자의 지위에 있던 가자 마다는 반란 세력을 효과적으로 제압했고, 공로를 인정받아 지배 계급의 일원이 되었다. 마침내 인도네시아의 수상 자리에 오른 가자 마다는 마자파히트 제국을 다스리며 주변 섬들을 정복하여 인도네시아의 위상을 높이고 오늘날의 인도네시아 영토 대부분을 규합했다.
+					</Text>
+				</Row>
+				<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CVS_GAJAH_MADA_CHAPTER_HISTORY_PARA_2" Language="ko_KR">
+					<Text>
+						가자 마다의 생애를 기록한 문서는 그가 성년이 되고 난 후의 일밖에 없는데, 그가 마자파히트 제국의 황제 자야나가라(1309년 ~ 1328년)를 호위하는 정예 부대의 사령관이 되고 나서부터의 업적이 기록으로 남아있다. 이 시기에 고위 관리였던 라크리안 쿠티가 세력을 모아 반란을 일으켰는데, 그가 수도로 침공할 계획임을 알아챈 가자 마다는 수도가 함락되기 전에 왕을 호위해 인근 도시 바단데르로 피신했다. 왕의 신병을 확보한 가자 마다는 왕이 죽었다는 거짓 소문을 퍼뜨려 반군 세력을 약화하는 한편 군대를 모아 수도를 탈환하고 왕이 자신의 지위를 되찾도록 했다고 한다. 왕이 죽었다는 소문에 군대가 동요하고 쿠티가 민심을 잃자 이를 틈타 역정변을 주도한 가자 마다는 쿠티를 살해한 공로로 지배 집단에서 최고의 위치를 차지하게 된다.
+					</Text>
+				</Row>
+				<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CVS_GAJAH_MADA_CHAPTER_HISTORY_PARA_3" Language="ko_KR">
+					<Text>
+						전설에 따르면, 그로부터 몇 년 후 왕이 가자 마다의 부인을 후궁으로 취하자 충성심을 잃었다고 한다. 그 이야기에서 가자 마다는 한때 쿠티를 지지했던 왕의 주치의를 설득해 왕의 건강이 악화하자 그를 살해했다. 그리고 왕이 죽자마자 주치의를 체포해 처형했다는 것이다. 진실이야 어쨌든, 자야나가라 왕이 죽자 가자 마다의 이복누이 트리후와나 위자야툰가데위(기타르자)가 왕위에 올라 제국의 영토를 확장하려는 야심을 보였다. 영토 확장 계획에 가자 마다가 중추적인 역할을 담당했으므로 가자 마다는 1329년 수상의 지위에 오르게 되었다. 권력과 권세가 늘어난 가자 마다는 인도네시아의 국익을 책임지겠다는 유명한 선서를 했다. 숨파 팔라파라고 알려진 이 선서는, 번역에 따라 내용이 조금씩 다르지만, 대개 "본인은 마자파히트 제국이 세상 모든 섬을 정복할 때까지 과일이나 향료, 쾌락을 멀리하겠다."라는 내용이다.
+					</Text>
+				</Row>
+				<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CVS_GAJAH_MADA_CHAPTER_HISTORY_PARA_4" Language="ko_KR">
+					<Text>사뎅(자바 섬 동부)에서 일어난 반란을 진압하고 1331년 수도로 돌아온 가자 마다는 1342년 발리와 롬보크를 시작으로 인도네시아 근방의 섬을 차례로 정복하기 시작했다. 가자 마다는 마자파히트 왕국의 영광을 위해 인도네시아 주변 섬과 도시를 정복했다. 팔렘방의 불교 국가 스리위자야도 정복한 것도, 서 수마트라에 있는 소왕국들을 점령해 마자파히트 왕조의 왕자를 섭정으로 앉힌 것도 이때였다. 코끼리 장군은 이어서 인도네시아 역사상 첫 이슬람교 술탄국이었던 수마트라의 사무드라 파사이를 점령했다. 연이은 승리에 고양된 마자파히트 군은 2년에 걸쳐 여러 도시와 왕국을 정복했는데, 테메세크(오늘날의 싱가포르)도 여기에 포함된다. </Text>
+				</Row>
+				<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CVS_GAJAH_MADA_CHAPTER_HISTORY_PARA_5" Language="ko_KR">
+					<Text>기타르자는 1350년에 마자파히트 왕가의 왕을 퇴위시키고 후일 마자파히트 왕조 최고의 왕으로 칭송받게 될 자기 아들 하얌 우룩을 왕좌에 앉혔다. 그의 재위 기간 제국은 인도네시아 전역을 지배하며 최고의 번영을 누렸다. 무역과 예술이 특히 발전했는데, 우룩이 내정은 가자 마다에게 일임하고 자신은 예술과 과학 장려에 힘을 쏟았기 때문이었다. 왕의 암묵적인 허락을 받은 가자 마다는 오늘날의 말레이시아와 필리핀 남부에 이르는 광활한 지역에서 영토를 개척했다.</Text>
+				</Row>
+				<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CVS_GAJAH_MADA_CHAPTER_HISTORY_PARA_6" Language="ko_KR">
+					<Text>1357년, 인도네시아 주변국 수십 개를 평정한 가자 마다는 어려움에 봉착했는데, 남은 독립 왕국이 서 자바에 있는 순다였기 때문이었다. 순다의 공주를 하얌 우룩과 결혼시키려는 계획이 수립되었지만, 가자 마다는 순다를 더 몰아붙이고 싶었다. 이에 가자 마다는 순다 공주를 마자파히트 왕국의 정실이 아니라 일개 후궁으로 들이길 원했고, 이는 순다 왕국의 분노를 샀다. 부바트에서 열린 결혼 축하 파티에서 협상을 진행한 양측은 공공연한 적대감을 드러냈고, 소규모 접전이 발생했다. 이에 가자 마다는 병력을 풀어 파티에 참석한 순다 왕족과 호위병을 몰살시켰다.</Text>
+				</Row>
+				<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CVS_GAJAH_MADA_CHAPTER_HISTORY_PARA_7" Language="ko_KR">
+					<Text>그동안의 공적을 무색하게 할만한 이 무모하고 잔인한 사건 때문에 가자 마다는 모든 명예를 잃었다. 마자파히트 정계와 외국 사절들이 일제히 가자 마다를 비난했고, 왕은 그의 지위와 권력을 빼앗았다. 한때 제국에서 가장 유력한 인사였던 가자 마다는 동 자바에 있는 자신의 집에서 조용히 여생을 보냈다. 그는 1363년에 쓸쓸히 세상을 떠났다.</Text>
+				</Row>
+				<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CVS_GAJAH_MADA_CHAPTER_HISTORY_PARA_8" Language="ko_KR">
+					<Text>오늘날의 인도네시아인들은 가자 마다를 영웅으로 생각한다. 인도네시아 애국주의와 자존심의 상징인 가자 마다는 인도네시아인들의 숨은 힘을 끌어내어 나라를 부강하게 한 인물로 여겨진다. 일본이 인도네시아를 점령했을 때, 그리고 1940년대에 네덜란드로부터 독립을 얻었을 때, 가자 마다는 저항 운동의 상징이었다. 인도네시아 전역을 통일한 그의 업적은 역사에 길이 남을 것이고 그가 마자파히트 왕국에 바친 헌신과 충성심 역시 만인의 귀감이 될 만하다.</Text>
+				</Row>
+
+				<!--Diplomacy-->
+				<!--FIRST MEET-->
+				<!--First AI line-->
+				<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_CVS_GAJAH_MADA_ANY" Language="ko_KR">
+					<Text>그대는 누산타라의 위대한 전사이자 마자파히트의 재상인 가자 마다 앞에 서있소.</Text>
+				</Row>
+				<!--AI invitation to visit nearby City-->
+				<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_CVS_GAJAH_MADA_ANY" Language="ko_KR">
+					<Text>마자파히트는 위대한 누산타라의 모든 중요한 섬을 지배하고 있소. 우리 제국의 진주들 중 한 곳을 방문해 보겠소?</Text>
+				</Row>
+				<!--AI accepts Human invitation-->
+				<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_CVS_GAJAH_MADA_ANY" Language="ko_KR">
+					<Text>동의하오.</Text>
+				</Row>
+				<!--AI invitation to exchange Capital Information-->
+				<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_CVS_GAJAH_MADA_ANY" Language="ko_KR">
+					<Text>마자파히트의 궁전은 그 아름다움과 웅장함으로 유명하오. 어떻소? 그렇게 대단한지 한번 확인해 보겠소?</Text>
+				</Row>
+
+				<!--GREETINGS-->
+				<Row Tag="LOC_DIPLO_GREETING_LEADER_CVS_GAJAH_MADA_ANY" Language="ko_KR">
+					<Text>말해보시오.</Text>
+				</Row>
+
+				<!--DELEGATION-->
+				<!--AI Accepts-->
+				<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_CVS_GAJAH_MADA_ANY" Language="ko_KR">
+					<Text>물론이오. 그들이 궁전에서 편히 머무를 수 있도록 하겠소.</Text>
+				</Row>
+				<!--AI Rejects-->
+				<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_CVS_GAJAH_MADA_ANY" Language="ko_KR">
+					<Text>그들이 당신을 대신하여 마자파히트에 충성을 맹세 하러 오는것이 아니라면, 환영 받지 못하오.</Text>
+				</Row>
+				<!--AI Requests -->
+				<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_CVS_GAJAH_MADA_ANY" Language="ko_KR">
+					<Text>마자파히트의 사절들은 당신과 가장 따뜻한 선물을 나누고 싶소. 여기 풍부한 염료와 눈부신 보석, 그리고 매혹적인 향신료들은 나의 제국의 부귀영화의 맛보기에 불과하다오.</Text>
+				</Row>
+
+				<!--OPEN BORDERS-->
+				<!--AI accepts from human-->
+				<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_CVS_GAJAH_MADA_ANY" Language="ko_KR">
+					<Text>누산타라의 만 개의 섬들과 셀 수 없는 바다가 당신에게 열려 있소.</Text>
+				</Row>
+				<!--AI rejects from human-->
+				<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_CVS_GAJAH_MADA_ANY" Language="ko_KR">
+					<Text>어디 한번 들어와 보시오. 그 배 또한 좌초된 채로 발견될 것이오.</Text>
+				</Row>
+				<!--AI requests from human-->
+				<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_CVS_GAJAH_MADA_ANY" Language="ko_KR">
+					<Text>바다는 마자파히트 제국의 영광처럼 광대하오. 당신의 바다와 땅이라는 그곳에 들어갈 수 있게 해주겠소?</Text>
+				</Row>
+
+				<!--DECLARE FRIENDSHIP-->
+				<!--AI accepts from human-->
+				<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_CVS_GAJAH_MADA_ANY" Language="ko_KR">
+					<Text>현명한 지도자는 협력의 기회를 신중하게 놓치지 않는 법이오.</Text>
+				</Row>
+				<!--AI Rejects from human -->
+				<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_CVS_GAJAH_MADA_ANY" Language="ko_KR">
+					<Text>하! 꿈도 꾸지 마시오!</Text>
+				</Row>
+				<!--AI Requests friendship from human-->
+				<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_CVS_GAJAH_MADA_ANY" Language="ko_KR">
+					<Text>두 부류가 있소. 마자파히트에게 복종하는 자와 친구가 되는 자요. 당신에게 후자가 될 기회를 주겠소.</Text>
+				</Row>
+				<!--Human accepts AI requests, AI responds-->
+				<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_CVS_GAJAH_MADA_ANY" Language="ko_KR">
+					<Text>훌륭하오.</Text>
+				</Row>
+				<!--Human rejects AI requests, AI responds-->
+				<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_CVS_GAJAH_MADA_ANY" Language="ko_KR">
+					<Text>이 시간을 후회할 것이오.</Text>
+				</Row>
+
+				<!--ALLIANCE-->
+				<!--AI Requests an alliance from human-->
+				<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_CVS_GAJAH_MADA_ANY" Language="ko_KR">
+					<Text>여러 섬들의 연합이 놀라운 힘이 되어 위대한 누산트라를 만들었소. 우리 두 나라의 동맹아 어떤 힘을 보여줄지 상상해 보시오!</Text>
+				</Row>
+				<!--AI warns player for border troops-->
+				<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_CVS_GAJAH_MADA_ANY" Language="ko_KR">
+					<Text>당신의 군대는 누산타라의 많은 섬 어디에도 숨을 수 없소. 사라지지 않는다면 파도 밑에서 영원히 누산트라의 일부가 될것이오.</Text>
+				</Row>
+
+				<!--TRADE-->
+				<!--AI Accepts Deal-->
+				<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_CVS_GAJAH_MADA_ANY" Language="ko_KR">
+					<Text>받아들일 만한 제안이군.</Text>
+				</Row>
+				<!--AI Rejects Deal-->
+				<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_CVS_GAJAH_MADA_ANY" Language="ko_KR">
+					<Text>이건 무슨 제안이오?!</Text>
+				</Row>
+
+				<!--DENOUNCE-->
+				<!--From Human-->
+				<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_CVS_GAJAH_MADA_ANY" Language="ko_KR">
+					<Text>나는 마자파히트의 정당한 영광을 위해 섬기지만, 당신은 사악한 목적을 위해 행동하고 있소...</Text>
+				</Row>
+				<!--From AI-->
+				<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_CVS_GAJAH_MADA_ANY" Language="ko_KR">
+					<Text>나는 마자파히트의 정당한 영광을 위해 섬기지만, 당신은 사악한 목적을 위해 행동하고 있소...(공개 비난)</Text>
+				</Row>
+
+				<!--DECLARE WAR-->
+				<!--Human Declares War-->
+				<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_CVS_GAJAH_MADA_ANY" Language="ko_KR">
+					<Text>어떻게 감히! 마자파히트를 물리칠 수 있을거라 생각하는 것만큼이나 무모하고 어리석은 짓은 없소!</Text>
+				</Row>
+				<!--AI Declares War-->
+				<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_CVS_GAJAH_MADA_ANY" Language="ko_KR">
+					<Text>개인적인 감정은 없소. 다만 당신의 땅은 마자파히트의 완벽한 영토의 일부가 되야 하오. 정복하지 않는다면 두고두고 후회할 것이오!</Text>
+				</Row>
+
+				<!--MAKE PEACE-->
+				<!--AI accepts from human-->
+				<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_CVS_GAJAH_MADA_ANY" Language="ko_KR">
+					<Text>이렇게 다시 누산타라의 바다에 고요함이 찾아 오는군요. 얼마나 감사하오.</Text>
+				</Row>
+				<!--AI refuses human-->
+				<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_CVS_GAJAH_MADA_ANY" Language="ko_KR">
+					<Text>그렇게 쉽게 포기하란 말이오? 아직 끝나지 않았소!</Text>
+				</Row>
+				<!--AI requests from human-->
+				<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_CVS_GAJAH_MADA_ANY" Language="ko_KR">
+					<Text>우리 사이의 다툼은 이제 그만 합시다. 어떻게 생각하시오?</Text>
+				</Row>
+
+				<!--DEFEAT-->
+				<!--AI is Defeated-->
+				<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_CVS_GAJAH_MADA_ANY" Language="ko_KR">
+					<Text>나를 이겼을진 몰라도, 누산타라 사람들의 영광과 마자파히트의 정신은 꺾을 수 없소!</Text>
+				</Row>
+				<!--Human is Defeated (will see this in hotseat)-->
+				<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_CVS_GAJAH_MADA_ANY" Language="ko_KR">
+					<Text>나를 이겼을진 몰라도, 누산타라 사람들의 영광과 마자파히트의 정신은 꺾을 수 없소!</Text>
+				</Row>
+
+
+				<!--LEADER AGENDA-->
+				<Row Tag="LOC_AGENDA_CVS_GAJAH_MADA_NAME" Language="ko_KR">
+					<Text>나가라크레타가마</Text>
+				</Row>
+				<Row Tag="LOC_AGENDA_CVS_GAJAH_MADA_DESCRIPTION" Language="ko_KR">
+					<Text>자신 고향 대륙의 문명을 정복하려고 합니다. 자신에게 교역로를 설립한 문명을 좋아합니다.</Text>
+				</Row>
+
+				<Row Tag="LOC_DIPLO_KUDO_LEADER_CVS_GAJAH_MADA_REASON_HOME" Language="ko_KR">
+					<Text>(같은 대륙에 있음)</Text>
+				</Row>
+				<Row Tag="LOC_DIPLO_MODIFIER_CVS_GAJAH_MADA_HOME" Language="ko_KR">
+					<Text>가자 마다가 대륙을 지배하길 원함</Text>
+				</Row>
+
+				<Row Tag="LOC_DIPLO_KUDO_LEADER_CVS_GAJAH_MADA_REASON_TRADE" Language="ko_KR">
+					<Text>(가자 마다에게 무역로를 설립)</Text>
+				</Row>
+				<Row Tag="LOC_DIPLO_MODIFIER_CVS_GAJAH_MADA_TRADE" Language="ko_KR">
+					<Text>가자 마다가 당신과의 교역을 좋아함</Text>
+				</Row>
+
+				<!--AI Kudos-->
+				<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_CVS_GAJAH_MADA_ANY" Language="ko_KR">
+					<Text>당신의 상단은 내 백성에게 막대한 풍요를 가져오고 있소. 댓가는 충분히 지불하겠소. 나는 그런 사치품과 향신료를 멀리하고 있지만, 그럴 가치가 있다는건 충분히 알고 있소.</Text>
+				</Row>
+				<!--AI Warnings-->
+				<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_CVS_GAJAH_MADA_ANY" Language="ko_KR">
+					<Text>나는 마자파히트의 깃발 아래 위대한 누산타나의 모든 땅을 통합할 것을 맹세했지만.. 아직 당신이 있소. 머지 않아 이 문제는 해결될 것이오. 난 확신하오.</Text>
+				</Row>
+
+		<!-- Unit Ability -->
+		<Replace Tag="LOC_ABILITY_CVS_GAJA_MADAH_UA_PREVIEW_TEXT" Language="ko_KR">
+			<Text>+5 when attacking district on home continent.</Text>
+		</Replace>
+		
+		<!-- Unique Unit -->
+		<Row Tag="LOC_UNIT_CVS_GAJAH_MADA_UU_NAME" Language="ko_KR">
+			<Text>쳇방</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_CVS_GAJAH_MADA_UU_DESCRIPTION" Language="ko_KR">
+			<Text>가자 마다가 지도자 일 때 석궁병을 대체하는 인도네시아 특유의 중세 시대 유닛입니다. 해상 및 승선 유닛을 공격할 시 [ICON_Range] 원거리 전투력 +10 을 획득합니다.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_CVS_GAJA_MADAH_UU_ATKMOD_PREVIEW_TEXT" Language="ko_KR">
+			<Text>+10 when attacking naval and embarked units.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_CVS_GAJAH_MADA_UU_CHAPTER_HISTORY_PARA_1" Language="ko_KR">
+			<Text>
+				베딜(Bedil) 또는 카옥(Caok)이라고도 알려진 켓방을 통해 마자파히트 제국은 인도네시아 군도의 패권 국가가 되었다. 쳇방은 청동제 후장식 대포로 길이 1~3m로 크기가 다양했으며, 나가 뱀의 입을 묘사한 장식이 되어있기도 하다. 
+			</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_CVS_GAJAH_MADA_UU_CHAPTER_HISTORY_PARA_2" Language="ko_KR">
+			<Text>
+				자바 지역에 화기가 처음 전래된 것은 1293년 쿠빌라이 칸의 원정 과정에서였다. 14세기 중반 하얌 우룩 황제(재위 1350–1389)의 시대에 대량생산 체제를 갖추는 데 성공한 마자파히트 제국은 이 쳇방 포를 육전에서 사용하여 자바섬에서 절대적인 입지를 구축했으며, 자바식으로 개량된 정크선 함대에 장착해 군도 전역을 정복하고 해양제국으로 발돋움하게 된다. 특히 가자 마다가 육성하고 음푸 날라가 이끄는 마자파힛 해군은 수마트라의 고도 팔렘방과 잠비 등 구 스리위자야 왕국의 심장부인 수마트라 핵심 지역뿐 아니라, 보르네오 남부, 숨바와섬을 비롯, 클란탄, 크다, 슬랑오르 등 말레이 반도까지 원정을 나가 마자파힛의 세력권을 넓혔다. 마자파힛 제국이 말기에 접어들어 혼란 와중에 쇠퇴해감에 따라 제국의 많은 화기 기술자(제조, 운용)들은 자바를 떠나 더 높은 임금과 생활조건을 제안하는 수마트라섬, 말레이 반도, 필리핀 등지의 새로운 교역 중심지로 이동하였다. 16세기에 말레이 반도에 도달한 포르투갈인들은 자바 상인 집단이 반도에 건설한 식민지를 목격하고, 그들이 직접 화기를 생산하며 상선을 보호하고 있다고 보고하였다. 이후 16–18세기에 걸쳐 토착 무역 국가들의 상선단 보호를 위해 현재의 인도네시아, 말레이시아, 필리핀을 아우르는 해역부 동남아시아 지역에서 두루 사용되었다. 
+			</Text>
+		</Row>
+
+        <Replace Language="en_US" Tag="LOC_LEADER_CVS_GAJAH_MADA_NAME">
+            <Text>Gajah Mada</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_TRAIT_LEADER_CVS_GAJAH_MADA_UA_NAME">
+            <Text>Sumpah Palapa</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_TRAIT_LEADER_CVS_GAJAH_MADA_UA_DESCRIPTION">
+            <Text>Military units receive a +5 [ICON_Strength] Combat Strength Bonus when attacking districts on your home continent. Your Palace produces +1 [ICON_Food] Food for every founded city on your home continent, and +1 [ICON_Production] Production for every conquered city on your home continent.</Text>
+        </Replace>
+
+				<!--DOM-->
+				<Row Tag="LOC_LOADING_INFO_LEADER_CVS_GAJAH_MADA" Language="en_US">
+					<Text>
+						Honour be with you, oh great hero Gajah Mada, Mahapatih of the Majapahit and uniter of the archipelago of Great Nusantara. The stories of your heroism on the battlefield are bested only by the legends of your sworn oath to unite the far-flung islands of Indonesia under one banner. Your people yearn for a strong leader who can return them to prosperity, and so prosperity you shall bring! Fulfill your Oath once and for all and claim all of Nusantara for the glory of your civilization!
+					</Text>
+				</Row>
+
+				<!--Civilopedia-->
+				<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CVS_GAJAH_MADA_TITLE" Language="en_US">
+					<Text>Gajah Mada</Text>
+				</Row>
+				<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CVS_GAJAH_MADA_SUBTITLE" Language="en_US">
+					<Text>Mahapatih (Prime Minister) of the Majapahit Empire</Text>
+				</Row>
+				<Row Tag="LOC_PEDIA_LEADERS_PAGE_CVS_GAJAH_MADA_QUOTE" Language="en_US">
+					<Text>
+						If I succeed in conquering Nusantara, I will break my fast. If Gurun, Seram, Tanjung Pura, Haru, Pahang, Dompo, Bali, Sunda, Palembang, Temasek, are all conquered, I will break my fast.
+					</Text>
+				</Row>
+				<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CVS_GAJAH_MADA_CHAPTER_HISTORY_PARA_1" Language="en_US">
+					<Text>
+						Gajah Mada (loosely translated as the "Elephant General"), hero to the people of Indonesia and symbol of national pride and patriotism, served as Prime Minister of the Majapahit Empire of Indonesia for the better part of the 14th century AD. Although little information exists as to his early life and upbringing, it is known that he was born a commoner, rising to power based solely on his intellect and cunning - along with a renowned ferocity in battle. Serving as a royal bodyguard, Gajah Mada was instrumental in quashing a rebellion against his king, and was rewarded with a path to joining the ruling elite. Eventually rising to the position of Prime Minister, Gajah Mada led the Majapahit Empire to great success in conquering many of the neighboring island kingdoms, becoming the first to unite much of the territory that encompasses modern Indonesia.
+					</Text>
+				</Row>
+				<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CVS_GAJAH_MADA_CHAPTER_HISTORY_PARA_2" Language="en_US">
+					<Text>
+						The earliest records of Gajah Mada's life begin in adulthood, when he is said to have served as commander of an elite guard unit entrusted with protecting the royal family of the Majapahit Emperor, Jayanagara (1309-1328 AD). During this period, a rogue Majapahit political officer known as Rakrian Kuti lead a rebellion against King Jayanagara. Learning of the plot, Gajah Mada safely escorted the king out of the capital city, which fell to Kuti's forces, and into hiding in the nearby city of Badander. Once the king was secure, legend has it that Gajah Mada spread rumors of the king's death to disrupt the rebellion, while organizing a group to retake the capital and reinstate the rightful king. Gajah Mada found that many of the military caste were dismayed by the king's supposed death and that Kuti was unpopular among the people. In the ensuing counter-insurrection, the upstart Kuti was killed, and Gajah Mada was rewarded for his efforts with his first leadership position within the ruling party.
+					</Text>
+				</Row>
+				<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CVS_GAJAH_MADA_CHAPTER_HISTORY_PARA_3" Language="en_US">
+					<Text>
+						Some years later, according to legend, Gajah Mada's loyalty waned when the king took Mada's wife as a concubine. In the tale, Gajah Mada convinced the court physician, a one-time supporter of Kuti, to kill the king when he fell ill; upon the king's death, Gajah Mada promptly had the physician arrested and executed. Whatever the truth in the tale, following the death of Jayanagara, his step-sister Tribhuwana Wijayatunggadewi ascended the throne with ambitions to expand the reach of her empire. Fortunately for Gajah Mada, his role in this expansion was considered integral by the new queen, and he was named mahapatih, or Prime Minister, in 1329 AD. With sweeping powers and new authority, Gajah Mada set his sights on the far-flung reaches of the archipelago, vowing great things for the empire that entrusted him with its future. His famous oath, known as the Sumpah Palapa - often the subject of varying interpretations - declared in the most basic terms "I will not indulge in the fruits or spice, the earthly pleasures, until all of the known islands are conquered for the Majapahit."
+					</Text>
+				</Row>
+				<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CVS_GAJAH_MADA_CHAPTER_HISTORY_PARA_4" Language="en_US">
+					<Text>
+						Following Gajah Mada's return in 1331 AD from suppressing a rebellion in Sadeng (eastern Java), it wasn't long before he launched his campaigns to conquer the neighboring islands of the Indonesian archipelago, beginning with Bali and Lombok in 1343. One by one he captured kingdoms and cities, states and provinces, all for the glory of his people. These included the Buddhist kingdom of Sriwijaya in Palembang and small kingdoms in West Sumatra, where Gajah Mada installed a Majapahit prince as a vassal ruler. The Elephant General then conquered Samudra Pasai in Sumatra, the first Muslim sultanate in Indonesia. Following this victory, in the span of two years Majapahit forces overran another half-dozen independent cities and kingdoms, including Temesek (now known as Singapore) across the straits.
+					</Text>
+				</Row>
+				<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CVS_GAJAH_MADA_CHAPTER_HISTORY_PARA_5" Language="en_US">
+					<Text>
+						Tribhuwana abdicated the Majapahit throne in 1350 AD in favor of her son Hayam Wuruk, considered the greatest of the kings of the Majapahit. During his reign the empire reached its greatest extent, encompassing the whole of the Indonesian archipelago. Trade and the arts flourished under the king. The new king was content to leave the affairs of the nation to his prime minister, while he himself patronized the arts and sciences. With the tacit support of the king, Gajah Mada proceeded to add two dozen kingdoms to the empire, some as far away as modern-day Malaysia and the southern Philippines.
+					</Text>
+				</Row>
+				<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CVS_GAJAH_MADA_CHAPTER_HISTORY_PARA_6" Language="en_US">
+					<Text>
+						Having conquered more than a dozen islands within the archipelago by 1357, Gajah Mada found himself in a difficult position, with one of the last remaining independent kingdoms being the Sunda in West Java. Although plans had been laid for the princess of the Sunda to marry the Hayam Wuruk, forming an alliance, Gajah Mada sought to press the Sunda further. By denying that the Sunda princess would become Queen Consort of Majapahit and instead be only a concubine, Gajah Mada enraged Sunda sensibilities. In meeting the wedding party at the town of Bubat, the negotiations degenerated into open hostility, and a skirmish ensued. Gajah Mada and his forces massacred the entire Sunda royal family and its bodyguard.
+					</Text>
+				</Row>
+				<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CVS_GAJAH_MADA_CHAPTER_HISTORY_PARA_7" Language="en_US">
+					<Text>
+						The incident marred the legacy of Gajah Mada as his actions were seen as reckless and heavy-handed. Majapahit ministers and courtiers condemned him as bloodthirsty and brutal. The king stripped Gajah Mada of his titles, authority, and honors. The once most-powerful man in the empire would spend the rest of his days in relative solitude at his remaining estate in East Java. Gajah Mada would die in relative obscurity in 1363 AD.
+					</Text>
+				</Row>
+				<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CVS_GAJAH_MADA_CHAPTER_HISTORY_PARA_8" Language="en_US">
+					<Text>
+						In modern Indonesia, Gajah Mada is viewed as a hero - a symbol of Indonesian patriotism and national pride. Gajah Mada is seen as an inspirational figure, one who exemplifies the potential greatness of all Indonesians. He would serve as a mythic propaganda symbol during the resistance to Japanese occupation and the ensuing revolt for independence from Dutch rule in the late 1940s. His legacy as the first to unite the many islands of the Indonesian archipelago into one nation will stand throughout history - as will his renowned dedication and unwavering loyalty to his king and the Majapahit people.
+					</Text>
+				</Row>
+
+				<!--Diplomacy-->
+				<!--FIRST MEET-->
+				<!--First AI line-->
+				<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_CVS_GAJAH_MADA_ANY" Language="en_US">
+					<Text>You stand before the great warrior and Mahapatih, Gajah Mada of Nusantara. What say you?</Text>
+				</Row>
+				<!--AI invitation to visit nearby City-->
+				<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_CVS_GAJAH_MADA_ANY" Language="en_US">
+					<Text>The Majapahit own every significant island in Great Nusantara - care to visit one of the pearls of our empire?</Text>
+				</Row>
+				<!--AI accepts Human invitation-->
+				<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_CVS_GAJAH_MADA_ANY" Language="en_US">
+					<Text>Agreed.</Text>
+				</Row>
+				<!--AI invitation to exchange Capital Information-->
+				<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_CVS_GAJAH_MADA_ANY" Language="en_US">
+					<Text>The palace of the Majapahit is known for its beauty and for its grandeur. What is yours like? I'm sure it's not as great, but we should check just in case, don't you think?</Text>
+				</Row>
+
+				<!--GREETINGS-->
+				<Row Tag="LOC_DIPLO_GREETING_LEADER_CVS_GAJAH_MADA_ANY" Language="en_US">
+					<Text>You may speak.</Text>
+				</Row>
+
+				<!--DELEGATION-->
+				<!--AI Accepts-->
+				<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_CVS_GAJAH_MADA_ANY" Language="en_US">
+					<Text>Outstanding, they shall have an audience at the palace. It's the one with the red brick wall - can't miss it.</Text>
+				</Row>
+				<!--AI Rejects-->
+				<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_CVS_GAJAH_MADA_ANY" Language="en_US">
+					<Text>Unless they are coming to swear fealty to the Majapahit on your behalf, they are not welcome.</Text>
+				</Row>
+				<!--AI Requests -->
+				<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_CVS_GAJAH_MADA_ANY" Language="en_US">
+					<Text>Envoys of the might Majapahit are eager to share our warmest wishes with you: rich dyes, dazzling gems, and intoxicating spices are but a taste of the wealth of my kingdom.</Text>
+				</Row>
+
+				<!--OPEN BORDERS-->
+				<!--AI accepts from human-->
+				<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_CVS_GAJAH_MADA_ANY" Language="en_US">
+					<Text>The 10,000 isles of Nusantara - and the uncountable seas between - are open to you.</Text>
+				</Row>
+				<!--AI rejects from human-->
+				<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_CVS_GAJAH_MADA_ANY" Language="en_US">
+					<Text>Choose to enter these lands and you shall find your ships dashed upon the rocks.</Text>
+				</Row>
+				<!--AI requests from human-->
+				<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_CVS_GAJAH_MADA_ANY" Language="en_US">
+					<Text>The sea is as vast as the empire of the Majapahit is grand. Will you allow us access to the waters and lands you call your own?</Text>
+				</Row>
+
+				<!--DECLARE FRIENDSHIP-->
+				<!--AI accepts from human-->
+				<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_CVS_GAJAH_MADA_ANY" Language="en_US">
+					<Text>A wise statesman never turns down an opportunity for a prudent political partnership.</Text>
+				</Row>
+				<!--AI Rejects from human -->
+				<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_CVS_GAJAH_MADA_ANY" Language="en_US">
+					<Text>Ha! I would not dream of it!</Text>
+				</Row>
+				<!--AI Requests friendship from human-->
+				<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_CVS_GAJAH_MADA_ANY" Language="en_US">
+					<Text>There are those the Majapahit call subjects, and those the Majapahit call friends. We offer you the opportunity to be in the latter category.</Text>
+				</Row>
+				<!--Human accepts AI requests, AI responds-->
+				<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_CVS_GAJAH_MADA_ANY" Language="en_US">
+					<Text>Excellent.</Text>
+				</Row>
+				<!--Human rejects AI requests, AI responds-->
+				<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_CVS_GAJAH_MADA_ANY" Language="en_US">
+					<Text>You will regret this in time.</Text>
+				</Row>
+
+				<!--ALLIANCE-->
+				<!--AI Requests an alliance from human-->
+				<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_CVS_GAJAH_MADA_ANY" Language="en_US">
+					<Text>Together, the islands of Nusantara make up the awesome power of Great Nusantara. Imagine what power could be realized with an alliance of our two states!</Text>
+				</Row>
+				<!--AI warns player for border troops-->
+				<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_CVS_GAJAH_MADA_ANY" Language="en_US">
+					<Text>Your troops cannot hide amongst the many islands of Nusantara. Remove them at once, or they shall become permanently familiar with the part of Nusantara that lies beneath the waves.</Text>
+				</Row>
+
+				<!--TRADE-->
+				<!--AI Accepts Deal-->
+				<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_CVS_GAJAH_MADA_ANY" Language="en_US">
+					<Text>An acceptable offer.</Text>
+				</Row>
+				<!--AI Rejects Deal-->
+				<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_CVS_GAJAH_MADA_ANY" Language="en_US">
+					<Text>What sort of an offer is this?!</Text>
+				</Row>
+
+				<!--DENOUNCE-->
+				<!--From Human-->
+				<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_CVS_GAJAH_MADA_ANY" Language="en_US">
+					<Text>I serve the righteous might of the Majapahit, but it is becoming apparent that you serve a much more nefarious purpose...</Text>
+				</Row>
+				<!--From AI-->
+				<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_CVS_GAJAH_MADA_ANY" Language="en_US">
+					<Text>I serve the righteous might of the Majapahit, but it is becoming apparent that you serve a much more nefarious purpose...(Denounces You.)</Text>
+				</Row>
+
+				<!--DECLARE WAR-->
+				<!--Human Declares War-->
+				<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_CVS_GAJAH_MADA_ANY" Language="en_US">
+					<Text>How dare you! You are a fool to think someone as insignificant as you could possibly defeat the might of the Majapahit!</Text>
+				</Row>
+				<!--AI Declares War-->
+				<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_CVS_GAJAH_MADA_ANY" Language="en_US">
+					<Text>Don't take it personally, but your lands will make an excellent addition to the lands of the Majapahit. I would be remiss were I not to conquer them!</Text>
+				</Row>
+
+				<!--MAKE PEACE-->
+				<!--AI accepts from human-->
+				<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_CVS_GAJAH_MADA_ANY" Language="en_US">
+					<Text>And so, calm returns to the waters of Nusantara. For this I am grateful.</Text>
+				</Row>
+				<!--AI refuses human-->
+				<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_CVS_GAJAH_MADA_ANY" Language="en_US">
+					<Text>Giving up so easily? We are not finished yet!</Text>
+				</Row>
+				<!--AI requests from human-->
+				<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_CVS_GAJAH_MADA_ANY" Language="en_US">
+					<Text>Let's stop this quarrelling between us. What do you say?</Text>
+				</Row>
+
+				<!--DEFEAT-->
+				<!--AI is Defeated-->
+				<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_CVS_GAJAH_MADA_ANY" Language="en_US">
+					<Text>You may have beaten me, but you will never beat the spirit of the Majapahit, the enduring grandeur of the people of Nusantara!</Text>
+				</Row>
+				<!--Human is Defeated (will see this in hotseat)-->
+				<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_CVS_GAJAH_MADA_ANY" Language="en_US">
+					<Text>You may have beaten me, but you will never beat the spirit of the Majapahit, the enduring grandeur of the people of Nusantara!</Text>
+				</Row>
+
+
+				<!--LEADER AGENDA-->
+				<Row Tag="LOC_AGENDA_CVS_GAJAH_MADA_NAME" Language="en_US">
+					<Text>Nagarakretagama</Text>
+				</Row>
+				<Row Tag="LOC_AGENDA_CVS_GAJAH_MADA_DESCRIPTION" Language="en_US">
+					<Text>Gajah Mada looks to conquer all of his home continent, but appreciates those who send trade routes to him.</Text>
+				</Row>
+
+				<Row Tag="LOC_DIPLO_KUDO_LEADER_CVS_GAJAH_MADA_REASON_HOME" Language="en_US">
+					<Text>(You are on the same continent.)</Text>
+				</Row>
+				<Row Tag="LOC_DIPLO_MODIFIER_CVS_GAJAH_MADA_HOME" Language="en_US">
+					<Text>Gajah Mada seeks to rule the continent.</Text>
+				</Row>
+
+				<Row Tag="LOC_DIPLO_KUDO_LEADER_CVS_GAJAH_MADA_REASON_TRADE" Language="en_US">
+					<Text>(You have trade routes with Gajah Mada.)</Text>
+				</Row>
+				<Row Tag="LOC_DIPLO_MODIFIER_CVS_GAJAH_MADA_TRADE" Language="en_US">
+					<Text>Gajah Mada likes those who trade with him.</Text>
+				</Row>
+
+				<!--AI Kudos-->
+				<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_CVS_GAJAH_MADA_ANY" Language="en_US">
+					<Text>The wealth of your merchants now enriches my people and - in return - you are able to sample the bounty of Nusantara. I myself abstain from these culinary luxuries, but I certainly have no qualm with the riches they bring.</Text>
+				</Row>
+				<!--AI Warnings-->
+				<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_CVS_GAJAH_MADA_ANY" Language="en_US">
+					<Text>I have sworn to unite all of the lands of Great Nusantara under the banner of the Majapahit and, yet, here you are... existing. We'll rectify that problem soon enough though, I'm sure.</Text>
+				</Row>
+
+		<!-- Unit Ability -->
+		<Replace Tag="LOC_ABILITY_CVS_GAJA_MADAH_UA_PREVIEW_TEXT" Language="en_US">
+			<Text>+5 when attacking district on home continent.</Text>
+		</Replace>
+		
+		<!-- Unique Unit -->
+		<Row Tag="LOC_UNIT_CVS_GAJAH_MADA_UU_NAME" Language="en_US">
+			<Text>Cetbang</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_CVS_GAJAH_MADA_UU_DESCRIPTION" Language="en_US">
+			<Text>Indonesian unique unit that replaces the Crossbowman when Gajah Mada is their leader. Increased [ICON_Range] Ranged Combat Strength when attacking naval and embarked units.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_CVS_GAJA_MADAH_UU_ATKMOD_PREVIEW_TEXT" Language="en_US">
+			<Text>+10 when attacking naval and embarked units.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_CVS_GAJAH_MADA_UU_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>
+				A Cetbang, also known as a Bedil or Caok, was a type of cannon use by the Majapahit Empire and other states in modern-day Indonesia. It was a form of breach-loading cannon, usually made from bronze or - in the sixteenth century - iron. Cetbangs varied in size from one to three meters in length, depending on where they were mounted, usually on ships or in fortresses. They were often employed in repelling attacks by pirates, mounted on swivel guns for ease of aiming in a variety of directions. Cetbangs were also occasionally decorated with ornamentation, such as depicting its mouth as that of a Naga serpent.
+			</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_CVS_GAJAH_MADA_UU_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>
+				Cannon technology was introduced to the Majapahit during Kublai Khan's invasion of Java in 1293. The Majapahit then pioneered the manufacture and mass deployment of gunpowder weapons in the region over the course of the next century, particularly during the tenure of Mahapatih (Prime Minister) Gajah Mada in the mid-fourteenth century. By the sixteenth century, production of Cetbangs had become so well refined that even the Portuguese believed them to be of excellent craftsmanship. Cetbangs and other similar gunpowder weapons remained in use for centuries after the collapse of the Majapahit Empire as common weapons aboard the many merchant ships throughout the archipelago, protecting the vast wealth and valuable goods of Nusantara.
+i			</Text>
+		</Row>
+
+
+
+
+
+	</LocalizedText>
+</GameData>

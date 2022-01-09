@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<BaseGameText>
+		<Row Tag="LOC_LEADER_VLR_ODA_NAME">
+			<Text>오다 노부나가</Text>
+		</Row>
+
+		<!--UA-->
+		<Row Tag="LOC_TRAIT_LEADER_VLR_ODA_UA_NAME">
+			<Text>천하포무</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_VLR_ODA_UA_DESCRIPTION">
+			<Text>도시를 점령할 때마다 주변 10타일 이내의 모든 도시에 충성도 +33%를 부여합니다. 모든 성벽에서 [ICON_CULTURE] 문화 + 2를 제공합니다. 화약 기술을 연구하면 지배하고 있는 모든 수도에서 조총병 특수 유닛을 얻습니다.</Text>
+		</Row>
+
+		<!--DOM-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_VLR_ODA">
+			<Text>오와리 오다가문의 다이묘인 오다 노부나가시여. 당신은 천하의 어지러움을 바로잡을 적임자입니다. 당신의 사무라이들은 당신을 위해 싸울것이며 신식 무기를 든 병사들또한 적들에게 공포를 심어줄것입니다. 세상은 분열되어 누군가 통일시켜야하고 당신이 그 적임자가 되어야합니다. 부디 그대의 가문의 영광이 깃들길.</Text>
+		</Row>
+
+		<!--Civilopedia-->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_VLR_ODA_TITLE">
+			<Text>오다 노부나가</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_VLR_ODA_SUBTITLE">
+			<Text>오다 가문의 다이묘</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_VLR_ODA_QUOTE">
+			<Text>인간의 오십 년은 하천의 세월에 비한다면 한낱 덧없는 꿈과 다르지 아니하니.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_VLR_ODA_CHAPTER_HISTORY_PARA_1">
+			<Text>오다 노부나가는 16세기 일본의 다이묘였다. 뛰어난 장군이자 교활한 정치가였으며 신기술을 적극적으로 도입했다. 노부나가는 전쟁과 모략으로 봉건 시대 일본의 절반을 지배했다. 이 위대한 장군의 두 부관 도요토미 히데요시와 도쿠가와 이에야스는 노부나가 사후 일본을 통일함으로써 죽은 상관의 꿈을 이루었다.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_VLR_ODA_CHAPTER_HISTORY_PARA_2">
+			<Text>오다 노부나가는 일본 전국 시대인 1534년에 태어났다. 이 시기 일본에서는 명목상 황제에 충성을 바치는 허약한 군주 '쇼군' 밑에서 강력한 지방 영주 '다이묘'가 각 지방을 분할 통치했다. 신하가 군주를 몰아내고 가신이 주인을 쫓아내던 시기였으므로 기존 신분 질서가 완전히 붕괴했다. 일본 역사에서 보기 드물게 잔혹한 시대였으므로 귀족층조차도 힘과 지혜, 행운이 하나라도 부족하면 살아남을 수 없었다. 노부나가는 작고 별 볼 일 없는 오와리 지방의 부유한 가문에서 태어났다. 1551년에 아버지가 죽자 노부나가는 고작 17살의 나이로 다이묘가 되었다. 당시 노부나가는 누가 보아도 거칠고 제멋대로인 아이였다. 일설에 따르면 노부나가가 자신의 아버지 장례식에서 너무 못되게 굴자 이에 치욕을 느낀 친구이자 부하 한 명이 할복자살을 했다고 한다. 부하의 죽음에 충격을 받은 노부나가는 그때부터 자신의 지위와 의무를 진지하게 받아들이기 시작했다고 한다.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_VLR_ODA_CHAPTER_HISTORY_PARA_3">
+			<Text>이후 십 년 동안 노부나가는 오와리 지방을 다스리며 자신에게 대항하는 적은 같은 편으로 끌어들이거나 무너뜨렸다. 아버지가 죽자 노부나가 가문은 여러 파벌로 나뉘었다. 일부 파벌은 정당한 후계자로서 노부나가를 옹호했지만 다른 파벌은 더 얌전한 동생 노부유키를 옹호했다. 그 와중에 작고한 아버지의 형제인 노부모토가 자신의 지위를 이용하여 오다 가문의 수장이 되려고 유명무실한 오와리 지방의 슈고(지방군사령관) 시바 요시무네에게 접근했다. 그러나 요시무네가 암암리에 노부나가를 지지한다는 사실을 알게된 노부토모는 그를 살해한다. 한편 노부나가는 아버지의 또 다른 형제인 오다 노부미츠를 설득하여 노부토모(오와리의 슈고 시바 요시무네를 살해한 자)를 공격했다. 노부나가와 삼촌 노부미츠는 기요스 성에서 노부토모를 공격하여 죽였다. 삼촌을 죽임으로써 노부나가는 오와리 지방의 새로운 슈고이자 시바 요시무네의 후계자인 시바 요시카네를 조종할 수 있게 되었다. 노부나가는 시바 요시무네의 죽음을 이용하여 시바 가문에 충성하던 이마가와 및 키라 가문과 동맹을 맺었다. 노부나가는 이어 미노 지방에서 반역을 일으킨 아들 사이토 요시타츠와 싸우던 사이토 도산을 돕기 위해 군대를 보냈으나 실패했고 도산이 졌다. 1556년에 노부나가의 형제인 노부유키가 시바타 카츠이와 하야시 히데사다의 도움을 받아 반역을 일으켰으나 노부나가는 이노 전투에서 이들을 패퇴시켰다. 승리한 노부나가는 보기 드문 아량으로 노부유키와 그의 가신들을 용서했지만 노부유키의 동지 시바타 카츠이가 노부유키를 배신하고 또 다른 반역 계획을 노부나가에 밀고하자 결국 살해당했다. 1559년 노부나가는 경쟁자를 모두 무너뜨리고 명실상부한 오와리 지방의 지배자가 되었다. 시바 요시카네는 '꼭두각시 슈고'로 남았지만, 키라 가문, 이마가와 가문과 비밀리에 모반을 획책하다 들통 나자 자리를 빼앗겼다.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_VLR_ODA_CHAPTER_HISTORY_PARA_4">
+			<Text>오와리 지방을 손에 넣은 노부나가는 일본 전역으로 세력을 확장하기 시작했다. 1560년 노부나가는 소규모 부대를 이끌고 아시카가 쇼군을 몰아내고자 교토로 진격하던 대군을 상대로 극적인 승리를 거두었다. 노부나가가 거둔 군사적 승리의 비결 하나는 당시 유럽 교역상들이 들여와 일본에 퍼지기 시작하던 조총의 도입이었다. 노부나가는 조총 부대를 조직한 최초의 다이묘였으며, 이 신무기는 낙후한 적과 싸울 때 큰 힘이 되었다. 경영에도 뛰어나 오와리의 농업 및 상업으로 얻은 수입으로 군자금을 효과적으로 마련했다. 1568년 노부나가는 교토로 진격하여 동맹 군주 아시카가 요시아키를 꼭두각시 쇼군으로 앉혔다. 1573년경 두 사람 사이가 벌어지자 노부나가는 아시카가를 퇴위시켜 아시카가 쇼군 시대에 종지부를 찍었다. 노부나가는 강력한 정치 집단이었던 여러 불교 종파를 공격하여 일본 전역에서 통치권을 굳혔다. 이들 쇼헤이들은 놀라울 정도로 강력하게 저항했으며 일부는 십 년이 넘게 버티기도 했다. 노부나가는 탈취한 절의 재산을 여러 사무라이와 귀족들에게 나누어주어 그들의 충성을 얻어냈다. 노부나가는 또한 점점 자주 일본에 나타난 유럽 예수회 선교사들과 친하게 지냈는데, 아마도 그들이 정치적인 위협이 아니었기 때문일 것이다. 어쨌든 노부나가는 기독교로 개종하지 않았다.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_VLR_ODA_CHAPTER_HISTORY_PARA_5">
+			<Text>1582년경 노부나가는 일본 중앙 지역에서 굳건한 지배권을 확립했으며 이어 일본 서부로 눈을 돌렸다. 그러나 군사 작전 중 아케치 미츠히데에게 배신당해 혼노지 사원에서 할복자살을 강요받았다. 그러나 노부나가를 죽인 아케치 미츠히데는 열하루 만에 노부나가의 심복들에게 패해 죽었다. 이들 심복은 훗날 노부나가의 뒤를 이어 전 일본을 통일하게 된다.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_VLR_ODA_CHAPTER_HISTORY_PARA_6">
+			<Text>오다 노부나가는 자신의 심복이었던 도요토미 히데요시와 도쿠가와 이에야스와 함께 일본의 삼대 지도자로 꼽힌다. 1590년 도요토미 히데요시는 일본을 통일했으나 대륙 진출 야욕을 품어 임진왜란을 일으켰으나 조선 수군을 이끌던 이순신과 조명연합군 그리고 의병들에 의해 그의 야욕은 실패하게된다. 히데요시가 죽자 도쿠가와 이에야스가 권력을 잡고 이후 몇 세기 동안 일본을 지배한 에도 막부를 열었다.</Text>
+		</Row>
+
+		<!--Diplomacy-->
+		<!--FIRST MEET-->
+		<!--First AI line-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_VLR_ODA_ANY">
+			<Text>무용을 떨치는 그대에게 인사올리오. 나 오와리 오다 가문의 오다 노부나가 또한 공정하며 공평한 협력관계가 되기를 진심으로 바라는 바이오.</Text>
+		</Row>
+		<!--AI invitation to visit nearby City-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_VLR_ODA_ANY">
+			<Text>근처에 내 휘하 제장의 장원이 있소. 함께 들러서 다도를 나눠보는 것은 어떻소이까?</Text>
+		</Row>
+		<!--AI accepts Human invitation-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_VLR_ODA_ANY">
+			<Text>방문하게 되어 영광이오.</Text>
+		</Row>
+		<!--AI invitation to exchange Capital Information-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_VLR_ODA_ANY">
+			<Text>서로를 잘 이해하기 위해서 양국의 수도 위치정도는 교환하는 편이 낫지 않겠소?</Text>
+		</Row>
+
+		<!--GREETINGS-->
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_VLR_ODA_ANY">
+			<Text>그리 진행하겠소.</Text>
+		</Row>
+
+		<!--DELEGATION-->
+		<!--AI Accepts-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_VLR_ODA_ANY">
+			<Text>그대의 사절단이 나를 존중하는 한, 나 역시 그들을 존중할 것이오.</Text>
+		</Row>
+		<!--AI Rejects-->
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_VLR_ODA_ANY">
+			<Text>지금은 그대의 대표단을 받아들일 수 없소.</Text>
+		</Row>
+		<!--AI Requests -->
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_VLR_ODA_ANY">
+			<Text>사절들을 보내겠소. 일본검과 당신에게 맞을 오오요로이 갑옷을 가져갈 예정이오.</Text>
+		</Row>
+
+		<!--OPEN BORDERS-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_VLR_ODA_ANY">
+			<Text>이번 건은 이의가 없소.</Text>
+		</Row>
+		<!--AI rejects from human-->
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_VLR_ODA_ANY">
+			<Text>그 건은 용납할 수 없소</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_VLR_ODA_ANY">
+			<Text>이번 제안에 동의해주면 고맙겠소.</Text>
+		</Row>
+
+		<!--DECLARE FRIENDSHIP-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_VLR_ODA_ANY">
+			<Text>좋소. 상호간의 우정을 받아들이겠소, 그러나 이 믿음을 결코 저버려선 아니되오.</Text>
+		</Row>
+		<!--AI Rejects from human -->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_VLR_ODA_ANY">
+			<Text>유감스럽네만 그것은 어렵겠소.</Text>
+		</Row>
+		<!--AI Requests friendship from human-->
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_VLR_ODA_ANY">
+			<Text>그대는 나 친구로써의 자격과 능력이 있음을 충분히 증명해주었소. 이제 나의 우정의 제안을 받아주겠소?</Text>
+		</Row>
+		<!--Human accepts AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_VLR_ODA_ANY">
+			<Text>아주 좋소. 오다 가문은 크나큰 우군을 얻은것이오.</Text>
+		</Row>
+		<!--Human rejects AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_VLR_ODA_ANY">
+			<Text>이것 참 당혹스럽군.</Text>
+		</Row>
+
+		<!--ALLIANCE-->
+		<!--AI Requests an alliance from human-->
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_VLR_ODA_ANY">
+			<Text>나라 사이의 갈등은 서로를 갉아먹을 뿐이오. 그러나, 우리가 서로 함께한다면 대의를 찾을 수 있을것이오. 이에 동의하시오?</Text>
+		</Row>
+		<!--AI warns player for border troops-->
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_VLR_ODA_ANY">
+			<Text>국경 근처에 그쪽 병사가 집결하는게 보이는군. 전쟁을 원하는 것이라면 겁쟁이마냥 눈알만 굴릴 게 아니라 선포를 하라. 아니라면 서둘러 물러나는 게 좋을것이다.</Text>
+		</Row>
+
+		<!--TRADE-->
+		<!--AI Accepts Deal-->
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_VLR_ODA_ANY">
+			<Text>아주 좋소.</Text>
+		</Row>
+		<!--AI Rejects Deal-->
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_VLR_ODA_ANY">
+			<Text>그렇다면 다음 기회에.</Text>
+		</Row>
+
+		<!--DENOUNCE-->
+		<!--From Human-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_VLR_ODA_ANY">
+			<Text>혓놀림이 제법 날카롭군 그래. 과연 네 칼도 그에 비견될지 궁금하군.</Text>
+		</Row>
+		<!--From AI-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_VLR_ODA_ANY">
+			<Text>네 스스로 과연 너희 사람들을 대표할 자격이 있다고 생각하나? 네놈은 결코 우리의 막부 곁에 설 수 없는 부류다. (공개 비난)</Text>
+		</Row>
+
+		<!--DECLARE WAR-->
+		<!--Human Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_VLR_ODA_ANY">
+			<Text>한심하도다! 오다 가문의 제육천마왕을 건든것을 후회하게 해주겠다.</Text>
+		</Row>
+		<!--AI Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_VLR_ODA_ANY">
+			<Text>우리 두 가문이 이 세상에 양립하기엔 너무나도 좁은것 같으니 내 가문을 위해 그대가 사라져야 할것이오.</Text>
+		</Row>
+
+		<!--MAKE PEACE-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_VLR_ODA_ANY">
+			<Text>싸울 수 있어서 영광이었소.</Text>
+		</Row>
+		<!--AI refuses human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_VLR_ODA_ANY">
+			<Text>이따위 비겁함은 용납할 수 없다.</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_VLR_ODA_ANY">
+			<Text>이쯤에서 마무리짓지 않는다면 끝없는 소모전이 될뿐이오. 이 싸움은 끝내는것이 맞소.</Text>
+		</Row>
+
+		<!--DEFEAT-->
+		<!--AI is Defeated-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_VLR_ODA_ANY">
+			<Text>여가 생각한 바 이상으로 훨씬 현명하셨소..</Text>
+		</Row>
+		<!--Human is Defeated (will see this in hotseat)-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_VLR_ODA_ANY">
+			<Text>이보다는 신중하고 영리한 모습을 기대했을진데. 쯧... 참으로 실망스럽기 그지없군.</Text>
+		</Row>
+
+
+		<!--LEADER AGENDA-->
+		<Row Tag="LOC_AGENDA_VLR_ODA_NAME">
+			<Text>천하인</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_VLR_ODA_DESCRIPTION">
+			<Text>이웃 문명, 특히 약한 문명을 싫어합니다. 멀리 떨어진 강한 문명을 좋아합니다.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_VLR_ODA_REASON_NEAR_STRONG">
+			<Text>(당신은 그와 이웃해 있지만, 넘보기엔 강한 군사력을 갖추고 있습니다.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_AGENDA_VLR_ODA_UNIFIER_NEAR_STRONG">
+			<Text>오다는 당신을 통일의 방해물로 껄끄럽게 여깁니다.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_VLR_ODA_REASON_NEAR_WEAK">
+			<Text>(당신은 약한 이웃으로, 그의 이목을 끌고있습니다.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_AGENDA_VLR_ODA_UNIFIER_NEAR_WEAK">
+			<Text>오다는 당신을 통일의 과정에 산산히 부숴질 밑거름으로 여깁니다.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_VLR_ODA_REASON_FAR_STRONG">
+			<Text>(당신은 멀리 있고, 군사력 또한 강력합니다.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_AGENDA_VLR_ODA_UNIFIER_FAR_STRONG">
+			<Text>오다는 당신을 통일을 위한 유용한 동맹으로써 우호적으로 생각합니다.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_VLR_ODA_REASON_FAR_WEAK">
+			<Text>(당신은 멀리있지만, 군사력은 약합니다.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_AGENDA_VLR_ODA_UNIFIER_FAR_WEAK">
+			<Text>오다는 당신이 비록 약하지만, 어쩌면 통일을 위해 도움이 될 수도 있을 것이라 여깁니다.</Text>
+		</Row>
+
+		<!--AI Kudos-->
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_VLR_ODA_ANY">
+			<Text>확실히 귀국은 존경 받을만하오. 멀리서도 그대의 군대가 위용을 펼치고 있으니 우리가 배워야 할 부분이 많은것같소. 훌륭하오이다.</Text>
+		</Row>
+		<!--AI Warnings-->
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_VLR_ODA_ANY">
+			<Text>그대가 군주로써 존중받길 원한다면. 수하들을 단단히 무장시킬것을 권하오. 약한 군주란 죽은 군주와 하등 다를 바 없소.</Text>
+		</Row>
+
+		<!--UU-->
+		<Row Tag="LOC_TRAIT_LEADER_VLR_ODA_UU_NAME">
+			<Text>조총병</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_VLR_ODA_UU_DESCRIPTION">
+			<Text>머스킷병을 대체하는 오다 노부나가 특유의 르네상스 시대 유닛입니다. 이전 시대의 유닛과 전투 시 [ICON_Strength] 전투력 +7을 얻습니다.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_VLR_ODA_UU_NAME">
+			<Text>조총병</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_VLR_ODA_UU_DESCRIPTION">
+			<Text>머스킷병을 대체하는 오다 노부나가 특유의 르네상스 시대 유닛입니다. 이전 시대의 유닛과 전투 시 [ICON_Strength] 전투력 +7을 얻습니다.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_VLR_ODA_UU_NAME">
+			<Text>조총병</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_VLR_ODA_UU_DESCRIPTION">
+			<Text>이전 시대 유닛 대항 시 [ICON_Strength] 전투력 +{1_num}</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_VLR_ODA_UU_MOD_PREVIEW_TEXT">
+			<Text>이전 시대 유닛과 전투 +7</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_VLR_ODA_UU_CHAPTER_HISTORY_PARA_1">
+			<Text>조총은 1543년에 포르투갈인들이 사쓰마 번 다네가 섬을 통해 처음 전래한 화승식 전장 소총이며 한국에서는 조총또는 철포라 불렀고 일본에서는 종자도총 혹은 다네가시마 뎃포라고 불렸다. 조총은 사무라이나 아시가루들이 사용했으며, 이 총의 사용은 일본의 전쟁 교리를 완전히 바꿔 버렸다.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_VLR_ODA_UU_CHAPTER_HISTORY_PARA_2">
+			<Text>초창기 받아들인 조총은 수렵용으로 쓰인 조잡한 성능의 것이었기에 전투용으로 사용하기에는 무리가 따랐다. 이에 일본은 조총을 계속해서 발전시켜 곧 화력과 연사력을 대폭 향상시켰고, 1560년대에는 교차사격 전술을 도입하면서 연사력의 문제점을 보완하기에 이르렀다.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_VLR_ODA_UU_CHAPTER_HISTORY_PARA_3">
+			<Text>이는 1575년 다네가시마(일본 화승총)으로 무장한 아시가루를 배치했던 나가시노 전투에서 실현되었다. 이 아시가루들은 오다 가문의 방어선을 향한 다케다 중기병의 거듭된 돌격을 좌절시키고 다케다 진영의 후방을 깨뜨리는 데 성공했다.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_VLR_ODA_UU_CHAPTER_HISTORY_PARA_4">
+			<Text>전투 후, 군대에서 아시가루의 역할은 사무라이에게 강력한 보완책으로 통합되었다. 이러한 이점은 1592년과 1597년, 임진왜란과 정유재란 때에도 활용되었다. 비록 첫번째 침략에서 총기(화승총)과 활의 비율은 2대1 이었지만 두번째 침략에서는 총기가 매우 효과적이었던 이유로 그 비율이 4대1이 되었다.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_VLR_ODA_UU_CHAPTER_HISTORY_PARA_5">
+			<Text>조총이 발전하면서 전통적인 사무라이의 중요성이 퇴색되게 되었고, 이에 위기감을 느낀 사무라이층의 반발로 센고쿠 시대가 종결된 이후 총포류는 점차 폐기되어, 19세기 근대화 시기 직전까지 일본은 칼 중심의 구식 군사체제를 유지하게 되었다.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_VLR_ODA_UU_CHAPTER_HISTORY_PARA_6">
+			<Text>한국의 경우 임진왜란때 전래가 되어 임진왜란 초기 조선군 붕괴에 큰 지분을 차지했으며 조선군은 조총을 모방하였다. 그결과 이순신이 처음으로 조총을 모방하여 제작한 정철총통을 수군에 보급시켰다. 임진왜란 이후인 효종때는 조선 조총병들이 나선정벌때 러시아 코사크 기병대를 격파하는 활약을 했으며 동학 농민 혁명과 구한말 의병 활동에도 화승총을 사용했다.</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

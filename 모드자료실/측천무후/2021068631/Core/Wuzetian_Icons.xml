@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	
+	<IconTextureAtlases>
+		<Row Name="ICON_ATLAS_WUZETIAN_LEADERS" 		IconSize="32"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_WUZETIAN_32"/>
+		<Row Name="ICON_ATLAS_WUZETIAN_LEADERS" 		IconSize="45"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_WUZETIAN_45"/>
+		<Row Name="ICON_ATLAS_WUZETIAN_LEADERS" 		IconSize="48"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_WUZETIAN_48"/>
+		<Row Name="ICON_ATLAS_WUZETIAN_LEADERS" 		IconSize="50"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_WUZETIAN_50"/>
+		<Row Name="ICON_ATLAS_WUZETIAN_LEADERS" 		IconSize="55"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_WUZETIAN_55"/>
+		<Row Name="ICON_ATLAS_WUZETIAN_LEADERS" 		IconSize="64"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_WUZETIAN_64"/>
+		<Row Name="ICON_ATLAS_WUZETIAN_LEADERS" 		IconSize="80"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_WUZETIAN_80"/>
+		<Row Name="ICON_ATLAS_WUZETIAN_LEADERS" 		IconSize="256" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_WUZETIAN_256"/>
+
+
+		<!--Units Icons-->
+
+		<Row Name="ICON_ATLAS_CHUKONU" IconSize="256" IconsPerRow="1" IconsPerColumn="1" Filename="CHUKONU_FLAG_256.dds"/>
+		<Row Name="ICON_ATLAS_CHUKONU" IconSize="80" IconsPerRow="1" IconsPerColumn="1" Filename="CHUKONU_FLAG_80.dds"/>
+		<Row Name="ICON_ATLAS_CHUKONU" IconSize="50" IconsPerRow="1" IconsPerColumn="1" Filename="CHUKONU_FLAG_50.dds"/>
+		<Row Name="ICON_ATLAS_CHUKONU" IconSize="38" IconsPerRow="1" IconsPerColumn="1" Filename="CHUKONU_FLAG_38.dds"/>
+		<Row Name="ICON_ATLAS_CHUKONU" IconSize="32" IconsPerRow="1" IconsPerColumn="1" Filename="CHUKONU_FLAG_32.dds"/>
+		<Row Name="ICON_ATLAS_CHUKONU" IconSize="22" IconsPerRow="1" IconsPerColumn="1" Filename="CHUKONU_FLAG_22.dds"/>
+
+		<Row Name="ICON_ATLAS_CHUKONU_PORTRAIT" IconSize="256" IconsPerRow="1" IconsPerColumn="1" Filename="CHUKONU_PORTRAIT_256.dds"/>
+		<Row Name="ICON_ATLAS_CHUKONU_PORTRAIT" IconSize="200" IconsPerRow="1" IconsPerColumn="1" Filename="CHUKONU_PORTRAIT_200.dds"/>
+		<Row Name="ICON_ATLAS_CHUKONU_PORTRAIT" IconSize="95" IconsPerRow="1" IconsPerColumn="1" Filename="CHUKONU_PORTRAIT_95.dds"/>
+		<Row Name="ICON_ATLAS_CHUKONU_PORTRAIT" IconSize="70" IconsPerRow="1" IconsPerColumn="1" Filename="CHUKONU_PORTRAIT_70.dds"/>
+		<Row Name="ICON_ATLAS_CHUKONU_PORTRAIT" IconSize="50" IconsPerRow="1" IconsPerColumn="1" Filename="CHUKONU_PORTRAIT_50.dds"/>
+		<Row Name="ICON_ATLAS_CHUKONU_PORTRAIT" IconSize="38" IconsPerRow="1" IconsPerColumn="1" Filename="CHUKONU_PORTRAIT_38.dds"/>
+
+		<!--Buildings Icons-->
+
+		<Row Name="ICON_ATLAS_PAPERMAKER" IconSize="256"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_PAPERMAKER_256.dds"/>
+		<Row Name="ICON_ATLAS_PAPERMAKER" IconSize="128"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_PAPERMAKER_128.dds"/>
+		<Row Name="ICON_ATLAS_PAPERMAKER" IconSize="80"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_PAPERMAKER_80.dds"/>
+		<Row Name="ICON_ATLAS_PAPERMAKER" IconSize="50"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_PAPERMAKER_50.dds"/>
+		<Row Name="ICON_ATLAS_PAPERMAKER" IconSize="38"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_PAPERMAKER_38.dds"/>
+		<Row Name="ICON_ATLAS_PAPERMAKER" IconSize="32"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_PAPERMAKER_32.dds"/>
+		
+	</IconTextureAtlases>
+
+	<IconDefinitions>
+			<Row Name="ICON_LEADER_GEDEMO_WUZETIAN"					Atlas="ICON_ATLAS_WUZETIAN_LEADERS" Index="0"/>
+			<Row Name="ICON_UNIT_GEDEMO_CHUKONU"					Atlas="ICON_ATLAS_CHUKONU" Index="0"/>
+			<Row Name="ICON_UNIT_GEDEMO_CHUKONU_PORTRAIT"          Atlas="ICON_ATLAS_CHUKONU_PORTRAIT"   Index="0"/>
+			<Row Name="ICON_BUILDING_GEDEMO_PAPERMAKER"				Atlas="ICON_ATLAS_PAPERMAKER" Index="0"/>
+	</IconDefinitions>
+		
+		
+	
+</GameData>

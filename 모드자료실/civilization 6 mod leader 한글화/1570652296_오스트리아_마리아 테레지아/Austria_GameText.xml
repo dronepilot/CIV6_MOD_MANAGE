@@ -1,0 +1,239 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+		<Row Tag="LOC_LEADER_MER_MARIA_THERESA_NAME" Language="en_US">
+			<Text>마리아 테레지아</Text>
+		</Row>
+		<!--Traits-->
+		<Row Tag="LOC_TRAIT_LEADER_MER_THERESIAN_REFORM_NAME" Language="en_US">
+			<Text>귀족 숙녀 학교</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_MER_THERESIAN_REFORM_DESCRIPTION" Language="en_US">
+			<Text>수도에 건설된 특수지구와 같은 유형의 특수지구는 +1 [ICON_Housing] 주거공간을 제공합니다. [ICON_Governor] 총독이 배치된 도시는 특수지구 건설에 20% 생산력 보너스를 받으며, 계몽주의의 연구를 완료하면 무료로 [ICON_Governor] 총독 타이틀을 하나 받습니다.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_MER_CROWNLANDS_NAME" Language="en_US">
+			<Text>행운의 오스트리아</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_MER_CROWNLANDS_DESCRIPTION" Language="en_US">
+			<Text>각 도시에 배치된 [ICON_Governor] 총독은 턴 당 +1 [ICON_Envoy] 영향력 점수를 제공합니다. 당신이 종주국인 도시국가가 국경을 새 타일로 확장하면 [ICON_GreatWriter] 작가, [ICON_GreatArtist] 예술가, [ICON_GreatMusician] 음악가 위인 점수를 받습니다.</Text>
+		</Row> 
+		<Row Tag="LOC_TRAIT_CIVILIZATION_UNIT_MER_GRENZER_NAME" Language="en_US">
+			<Text>그렌저</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_UNIT_MER_GRENZER_DESCRIPTION" Language="en_US">
+			<Text>고유 지상 유닛</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_MER_GRENZER_NAME" Language="en_US">
+			<Text>그렌저</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_MER_GRENZER_DESCRIPTION" Language="en_US">
+			<Text>산업시대 오스트리아의 고유 지상 유닛. 전투 시 +7 [ICON_Strength] 전투력 보너스를 받으며, 자국 내 또는 국경에 인접해서 전투할 경우 경험치를 25% 더 습득합니다.</Text>
+		</Row>
+		<Row Tag="LOC_MER_GRENZER_BORDER_STRENGTH_DESCRIPTION" Language="en_US">
+			<Text>자국 내 또는 국경에 인접하여 전투 시 +10 [ICON_Strength] 전투력 보너스를 받습니다.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_BUILDING_MER_COFFEE_HOUSE_NAME" Language="en_US">
+			<Text>커피 하우스</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_BUILDING_MER_COFFEE_HOUSE_DESCRIPTION" Language="en_US">
+			<Text>고유 건물</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_MER_COFFEE_HOUSE_NAME" Language="en_US">
+			<Text>커피 하우스</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_MER_COFFEE_HOUSE_DESCRIPTION" Language="en_US">
+			<Text>오스트리아 고유 유흥지구 건물. 동물원을 대체하며 계몽주의 연구 이후 건설이 가능합니다. [ICON_Culture] 문화와 [ICON_Science] 과학 점수를 +2 점씩 제공합니다. 커피 하우스가 지어진 도시의 특수지구는 추가로 +1 [ICON_GreatPerson] 해당 위인 점수를 제공합니다. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MER_GRENZER_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>그렌저(국경병)은 오스트리아 합스부르크 제국이 오스만 투르크 제국 방면 국경 수비를 위해 크로아티아 지역에 정착한 크리스트교 난민들로 창설한 전열보병-경보병의 중간격 부대이다. 총 18개 연대가 편성됐으며, 전시가 되면 각 연대별 1개 대대가 남아서 터키와의 국경수비에 투입되고, 나머지는 정규군과 혼성편제됐으며, 평시에는 연중 7개월 간 국경수비에 투입됐다.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_MER_COFFEE_HOUSE_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>오스트리아의 문화 중심지 빈에 몰려 있는 카페는 바쁜 일상의 피로를 푸는 장소이다. 전설을 따르면, 빈 최초의 카페는 1683년 빈전투에서 패한 오스만투르크 군이 버리고 간 커피 저장소를 발견한 폴란드 병사 제르지 프란시체크 쿨시츠키가 열었다고 한다. 빈의 카페 문화는 19세기에 편안하고 안락한 분위기를 찾던 작가와 예술가에 의해 꽃을 피웠다. 이들은 종종 카페에서 하루를 다 보냈다고 한다.</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_MER_AUSTRIA_NAME" Language="en_US">
+			<Text>오스트리아</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_MER_AUSTRIA_DESCRIPTION" Language="en_US">
+			<Text>오스트리아 제국</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_MER_AUSTRIA_DESCRIPTION_JFD_CIVILIZATION" Language="en_US">
+			<Text>오스트리아 문명</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_MER_AUSTRIA_ADJECTIVE"	  Language="en_US">
+			<Text>오스트리아의</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_AUSTRIA_1" Language="en_US">
+			<Text>빈</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_AUSTRIA_2" Language="en_US">
+			<Text>그라츠</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_AUSTRIA_3" Language="en_US">
+			<Text>잘츠부르크</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_AUSTRIA_4" Language="en_US">
+			<Text>인스부르크</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_AUSTRIA_5" Language="en_US">
+			<Text>린츠</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_AUSTRIA_6" Language="en_US">
+			<Text>클라겐푸르트</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_AUSTRIA_7" Language="en_US">
+			<Text>장크트푈텐</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_AUSTRIA_8" Language="en_US">
+			<Text>크렘스</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_AUSTRIA_9" Language="en_US">
+			<Text>리엔츠</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_AUSTRIA_10" Language="en_US">
+			<Text>비너노이슈타트</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_AUSTRIA_11" Language="en_US">
+			<Text>멜크</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_AUSTRIA_12" Language="en_US">
+			<Text>펠트크릭</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_AUSTRIA_13" Language="en_US">
+			<Text>필라흐</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_AUSTRIA_14" Language="en_US">
+			<Text>브레겐츠</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_AUSTRIA_15" Language="en_US">
+			<Text>슈타이어</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_AUSTRIA_16" Language="en_US">
+			<Text>슈바츠</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_AUSTRIA_17" Language="en_US">
+			<Text>아이젠슈타트</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_AUSTRIA_18" Language="en_US">
+			<Text>벨스</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_AUSTRIA_19" Language="en_US">
+			<Text>상크트 베이트 안 데르 글랜</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_AUSTRIA_20" Language="en_US">
+			<Text>유덴부르크</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_AUSTRIA_21" Language="en_US">
+			<Text>구르크</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_AUSTRIA_22" Language="en_US">
+			<Text>클로스터노이부르크</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_AUSTRIA_23" Language="en_US">
+			<Text>그문덴</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_AUSTRIA_24" Language="en_US">
+			<Text>레오벤</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_AUSTRIA_25" Language="en_US">
+			<Text>키츠뷔엘</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_AUSTRIA_26" Language="en_US">
+			<Text>엔스</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_AUSTRIA_27" Language="en_US">
+			<Text>도른비른</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_AUSTRIA_28" Language="en_US">
+			<Text>프리에자흐</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_AUSTRIA_29" Language="en_US">
+			<Text>골로그니츠</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_AUSTRIA_30" Language="en_US">
+			<Text>브루크안데어라이타</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_AUSTRIA_31" Language="en_US">
+			<Text>라셴베르크</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_AUSTRIA_32" Language="en_US">
+			<Text>슈피탈안데어드라우</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_AUSTRIA_33" Language="en_US">
+			<Text>세카우</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_AUSTRIA_34" Language="en_US">
+			<Text>마테르스부르크</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_AUSTRIA_35" Language="en_US">
+			<Text>볼프스베르크</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_AUSTRIA_36" Language="en_US">
+			<Text>프라이슈타트</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_AUSTRIA_37" Language="en_US">
+			<Text>바드 게슈타인</Text>
+		</Row>
+		<!--Citizens-->
+		<Row Tag="LOC_CITIZEN_MER_AUSTRIA_MALE_1" Language="en_US">
+			<Text>루카</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_AUSTRIA_MALE_2" Language="en_US">
+			<Text>토비아스</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_AUSTRIA_MALE_3" Language="en_US">
+			<Text>모리츠</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_AUSTRIA_MALE_4" Language="en_US">
+			<Text>예거</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_AUSTRIA_MALE_5" Language="en_US">
+			<Text>에르윈</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_AUSTRIA_MALE_6" Language="en_US">
+			<Text>지그문트</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_AUSTRIA_MALE_7" Language="en_US">
+			<Text>세바스티앙</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_AUSTRIA_MALE_8" Language="en_US">
+			<Text>루드비히</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_AUSTRIA_MALE_9" Language="en_US">
+			<Text>볼프강</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_AUSTRIA_MALE_10" Language="en_US">
+			<Text>에버릴</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_AUSTRIA_FEMALE_1" Language="en_US">
+			<Text>안느</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_AUSTRIA_FEMALE_2" Language="en_US">
+			<Text>캘리</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_AUSTRIA_FEMALE_3" Language="en_US">
+			<Text>에시카</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_AUSTRIA_FEMALE_4" Language="en_US">
+			<Text>라우라</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_AUSTRIA_FEMALE_5" Language="en_US">
+			<Text>카를라</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_AUSTRIA_FEMALE_6" Language="en_US">
+			<Text>테레사</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_AUSTRIA_FEMALE_7" Language="en_US">
+			<Text>위베카</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_AUSTRIA_FEMALE_8" Language="en_US">
+			<Text>소피</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_AUSTRIA_FEMALE_9" Language="en_US">
+			<Text>리사</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MER_AUSTRIA_FEMALE_10" Language="en_US">
+			<Text>브륀힐드</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- GameData1 -->
+<!-- Author: David -->
+<!-- DateCreated: 2/4/2019 8:26:17 PM -->
+<GameData>
+
+	<!--ability-->
+
+	<Types>
+		
+		<Row Type="ABILITY_CHUKONUATTACK" Kind="KIND_ABILITY"/>
+	</Types>
+	
+	<Tags>
+		
+		<Row Tag="CLASS_GEDEMO_CHUKONU" Vocabulary="ABILITY_CLASS"/>
+	</Tags>
+
+	
+
+	<TypeTags>
+		
+		<Row Type="ABILITY_CHUKONUATTACK" Tag="CLASS_GEDEMO_CHUKONU"/>
+	</TypeTags>
+
+	<UnitAbilities>
+		
+		<Row UnitAbilityType="ABILITY_CHUKONUATTACK" Name="LOC_ABILITY_CHUKONUATTACK_NAME" Description="LOC_ABILITY_CHUKONUATTACK_DESCRIPTION"  />
+	</UnitAbilities>
+
+	<UnitAbilityModifiers>
+		
+		<Row>
+			<UnitAbilityType>ABILITY_CHUKONUATTACK</UnitAbilityType>
+			<ModifierId>CHUKONU_ATTACK_PROMOTION</ModifierId>
+		</Row>
+		
+	</UnitAbilityModifiers>
+
+	<Modifiers>
+		
+
+		<Row>
+			<ModifierId>CHUKONU_ATTACK_PROMOTION</ModifierId>
+			<ModifierType>MODIFIER_UNIT_ADJUST_NUM_ATTACKS</ModifierType>
+		</Row>
+	</Modifiers>
+
+	<ModifierArguments>
+		
+
+		<Row>
+			<ModifierId>CHUKONU_ATTACK_PROMOTION</ModifierId>
+			<Name>Amount</Name>
+			<Value>1</Value>
+		</Row>
+	</ModifierArguments>
+
+	
+
+
+</GameData>

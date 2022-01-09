@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Row Tag="LOC_TRAIT_LEADER_WILLIAM_OF_ORANGE_NAME" Language="ko_KR">
+			<Text>네덜란드 동인도회사</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_WILLIAM_OF_ORANGE_DESCRIPTION" Language="ko_KR">
+			<Text>내 [ICON_TradeRoute] 국제 교역로에서 +2 [ICON_FOOD] 식량, +2 [ICON_SCIENCE] 과학, +2 [ICON_CULTURE] 문화를 얻습니다. 다른 문명의 [ICON_TradeRoute] 네덜란드를 향한 교역로에서 +2 [ICON_PRODUCTION] 생산력과 +2 [ICON_GOLD] 금을 얻습니다. 하나의 [ICON_TradeRoute] 추가 교역로를 가집니다.</Text>
+		</Row>
+
+
+
+
+
+		<Row Tag="LOC_LEADER_WILLIAM_OF_ORANGE" Language="ko_KR">
+			<Text>빌럼 판 오라녜</Text>
+		</Row>
+
+		<Row Tag="LOC_LOADING_INFO_LEADER_WILLIAM_OF_ORANGE" Language="ko_KR">
+			<Text>네덜란드의 아버지 빌렘 판 오라녜여. 그대의 자유로운 생각은 곧 세상에 네덜란드의 목소리를 알릴것입니다. 정말로 네덜란드는 무역을 주도하는 강인한 국가입니다. 당신과 친한 이들에게 네덜란드의 부유함을 보여주면 곧 모든이들이 네덜란드와 친하게 지낼것입니다. 이제 세상을 향해 당신의 침묵을 깰 시간입니다.</Text>
+		</Row>
+		<!--Civilopedia-->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_WILLIAM_OF_ORANGE_TITLE" Language="ko_KR">
+			<Text>오렌지 공 빌럼</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_WILLIAM_OF_ORANGE_SUBTITLE" Language="ko_KR">
+			<Text>네덜란드와 젤란드, 위트레흐트의 통치자이자 초대 스타트하우더르</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_WILLIAM_OF_ORANGE_QUOTE" Language="ko_KR">
+			<Text>국민의 양심을 지배하고, 선택의 자유와 종교를 빼앗으려는 군주는 찬성할 수 없다.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_WILLIAM_OF_ORANGE_CHAPTER_HISTORY_PARA_1" Language="ko_KR">
+			<Text>네덜란드의 국부이자 해방자인 빌럼 판 오라녜는 "침묵공"으로도 유명하다. 그는 16세기 중반 네덜란드의 저지를 지배하던 스페인의 합스부르크 왕조에 대항하는 반역을 성공적으로 이끈 사람이다. 스페인의 펠리페 2세의 충실한 부하었던 빌럼은 점차 반역의 주동자가 되었다. 그는 스페인이 네덜란드 신교도를 계속 박해하자 이에 불쾌감을 드러내었다. 다른 귀족을 규합한 빌럼은 스페인 왕조의 시각에서는 범법자가 되었고 1584년 암살당하기 전까지 왕에 대항하여 수차례의 전쟁을 승리로 이끌었다.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_WILLIAM_OF_ORANGE_CHAPTER_HISTORY_PARA_2" Language="ko_KR">
+			<Text>1533년 나사우 빌럼 백작의 아들로 태어난 빌럼은 사촌인 르네 왕자가 후계자 없이 세상을 떠나며 11세에 오렌지공의 칭호를 물려받았다. 이 기간에 네덜란드는 신성로마제국의 황제이며 합스부르크 가문의 지도자이자 스페인 왕인 카를 5세 치하에 있었다. 그는 당시 귀족 신분에 걸맞은 교육과 훈련을 받고 있던 빌럼을 자신의 왕실에 알맞은 사람이라 여겼다. 이렇게 해서 시작된 스페인 왕가와의 연결 고리는 빌럼이 이후 네덜란드에 대한 스페인의 영향력을 떼어내는 데 중요한 역할을 한다. 20대에 이미 군사 지휘자가 된 빌럼은 동시에 황제의 조언자로서 다양한 외교적 힘을 가지게 되었다. 하지만 빌럼은 황제의 신임을 얻기 위해 자신의 신앙인 루터교를 버리고 로마 가톨릭으로 개종할 수밖에 없었다.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_WILLIAM_OF_ORANGE_CHAPTER_HISTORY_PARA_3" Language="ko_KR">
+			<Text>1555년에 카를 5세는 스페인의 왕좌를 그의 아들 펠리페 2세에게 넘겨주었다. 펠리페 왕은 개신교에 대한 무자비한 탄압으로 유명했다. 그는 루터의 종교 개혁에 반대하여 이단 심판을 강화하고 개신교 신앙에 대한 어떠한 관용도 보이지 않았다. 빌럼은 곧 새로운 왕 펠리페의 진정한 의도를 이해했다. 그것은 바로 개신교에 대한 절대적이고 무자비한 탄압이었다. 비록 빌럼이 가톨릭 신자라도 그는 예전에 루터교 신자였으며, 사람들은 신앙의 자유를 누릴 권리가 있다고 확고하게 믿었다. 이후 빌럼은 원정 사냥을 떠난 펠리페 왕이 프랑스의 왕 앙리 2세를 만나 두 나라의 신교도 말살에 관해 토론하는 것을 들었다. 이 사건은 빌럼이 펠리페 왕과 스페인의 네덜란드 지배에 더욱 반대하는 태도를 가지게 했다. 잘 정립된 네덜란드의 개신교 세력을 뿌리 뽑기 위해, 펠리페 왕은 루터파와 칼뱅파 신앙을 가진 자들을 고문하고 처형해도 된다는 칙령 역할을 하는 '플래카드'를 반포하였다. 이건 너무나도 극심한 조치라서 가톨릭 신자들마저도 펠리페 왕의 정책에 반대할 정도였다고 한다. 빌럼은 이후 공개적으로 왕을 비판했고, 다른 이들도 필리페 왕의 압제에 들고 일어날 것을 호소했다. 1566년, 네덜란드 귀족들은 스페인의 섭정인 파르마의 마르가레타를 찾아가 네덜란드에서 자행되는 개신교 탄압을 멈춰 달라고 요청했다. 평화적으로 문제를 해결하려 했던 그들의 노력에도 펠리페 왕은 그들의 요청을 거부했고, 이에 들고 일어난 개신교 반란군은 네덜란드 전역의 가톨릭 성상을 파괴하였다.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_WILLIAM_OF_ORANGE_CHAPTER_HISTORY_PARA_4" Language="ko_KR">
+			<Text>개신교도들의 성상 파괴 운동이 널리 퍼짐에 따라, 펠리페 왕은 '철의 남작'으로 유명한 알바 남작 페르난도 알바레즈 데 톨레도를 네덜란드에 보내어 성상 파괴 운동을 막고 반역 세력을 타파하려 하였다. 남작이 구성한 '문제 위원회'는 개신교도들에게 있어 '피의 위원회'라 불렸다. 빌럼을 포함해, 위원회에 소환된 많은 이들은 몸을 숨겼지만, 1,000명 이상의 개신교도가 철의 남작에 의해 처형되었다.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_WILLIAM_OF_ORANGE_CHAPTER_HISTORY_PARA_5" Language="ko_KR">
+			<Text>그의 고향 나사우에서 봉기를 위한 자금을 마련하며, 빌럼과 반란군은 다양한 전선에서 스페인을 공격하기 위한 군대를 조직하였다. 개신교도 추방자들과 스페인에 저항하는 네덜란드 귀족들이 모인 이 군대는 '거지단'이라 불렸는데, 그중에서 가장 유명한 것은 '제고이센'이었다. 빌럼은 제고이센을 재정적으로 지원하고 더 좋은 배를 제공하였으며, 이 덕분에 제고이센은 네덜란드 전역의 해안 도시를 급습하며 사략선단으로 활동할 수 있었다. 빌럼의 형인 나사우 루이스는 펠리페 왕에게 충성을 다하는 네덜란드 귀족 장 드 린느가 거느린 스페인 군대에 대항하는 용병과 프랑스 위그노 군대를 이끌었다. 1568년 흐로닝언의 북부 네덜란드 주에서 일어난 헤일리헐리 전투에서, 루이스는 스페인 군대를 궤멸시키고 장 드 린느의 목숨을 빼앗았다. 불행히도 빌럼과 루이스의 둘째 형인 아돌프는 네덜란드 기병대를 이끌다 전사하였다. 이 역사적인 전투가 바로 80년 전쟁의 시초라고 역사가들은 판단한다. 이것은 네덜란드 독립 전쟁 중 가장 큰 전투이다. 예밍헌 전투가 끝나고 얼마 후, 루이스의 군대는 흐로닝언을 점령하려는 스페인 군대에 궤멸당했고 루이스는 후퇴할 수밖에 없었다. 빌럼은 선봉에 서서 네덜란드 군대를 점차 승리로 이끌었으며, 이러한 승리는 많은 네덜란드인을 고무시켜 스페인의 지배에 저항하게 했다. 네덜란드의 승리에도 스페인은 십 년이 넘도록 북쪽 영토를 계속 차지하였으며, 남부 네덜란드에 대한 강력한 영향력을 유지하였다.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_WILLIAM_OF_ORANGE_CHAPTER_HISTORY_PARA_6" Language="ko_KR">
+			<Text>1573년에 출범한 위트레흐트 연합은, 스페인의 지배에 반대하는 북부 네덜란드 지역의 연합 선언문에서 그 이름을 따 왔다. 비록 아직 완벽한 독립은 이루지 못했지만, 위트레흐트 연합은 네덜란드에서 스페인의 지배력을 약화시키는 전환점이 되었다. 1581년에 스페인은 북부 지역을 포기하는 선언을 했으며(아직 남부 지역은 스페인의 지배를 받고 있었지만) 이는 펠리페 왕이 네덜란드의 독립을 인정하는 분명한 선언이 되었다. 불행하게도 빌럼은 네덜란드가 스페인에서 완벽하게 독립하는 것을 볼 수 없었다.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_WILLIAM_OF_ORANGE_CHAPTER_HISTORY_PARA_7" Language="ko_KR">
+			<Text>펠리페 왕은 빌럼의 목에 큰 현상금을 걸었고, 스페인 사람 후안 데 하우레기가 1582년에 첫 번째로 빌럼 암살을 시도하였다. 하우레기는 총을 쏘아 빌럼의 목을 맞추어 중대한 상처를 입힌다. 그는 중상에서 가까스로 살아남게 되나 그의 느린 회복은 반란의 참가를 제한시킨다. 2년이 채 못 되었을 때, 프랑스의 가톨릭 신자 발타사르 제라드가 빌럼의 고향에서 그를 암살했다. 발타사르는 총알 3발을 쏴서 빌럼의 심장에 치명적인 손상을 입혔다. 발타사르는 사형당하기 전에 고문을 받았다. 발타사르는 사형대에서 죽기 전까지 큰 고통을 받았다.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_WILLIAM_OF_ORANGE_CHAPTER_HISTORY_PARA_8" Language="ko_KR">
+			<Text>지금까지도 빌럼은 네덜란드의 독립운동의 창시자이자 국가 주권을 확립한 사람으로 존경받고 있다. 스페인의 지배와 네덜란드 개신교도들의 고통에 대항하여 네덜란드 사람들을 고무시켰던 빌럼은, 모든 사람은 그들의 믿음을 따를 공평한 권리가 있다는 계몽된 관점을 지키려 헌신했다. </Text>
+		</Row>
+
+
+		<!--Diplomacy-->
+		<!--FIRST MEET-->
+		<!--First AI line-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_WILLIAM_OF_ORANGE_ANY" Language="ko_KR">
+			<Text>네덜란드의 스타트하우터르이자 오라녜 공 빌럼입니다. 뭐 필요한거 있으십니까? 지금은 바쁜 상황입니다.</Text>
+		</Row>
+		<!--AI invitation to visit nearby City-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_WILLIAM_OF_ORANGE_ANY" Language="ko_KR">
+			<Text>인근 도시에서 저희 바다의 거지단이 항만에서 기다리고 있습니다. 그들의 위용을 한번 보시겠습니까?</Text>
+		</Row>
+		<!--AI accepts Human invitation-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_WILLIAM_OF_ORANGE_ANY" Language="ko_KR">
+			<Text>고맙습니다, 친구여.</Text>
+		</Row>
+		<!--AI invitation to exchange Capital Information-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_WILLIAM_OF_ORANGE_ANY" Language="ko_KR">
+			<Text>서로간의 수도를 알려주면 어떻겠습니까? 저는 당신을 잠재적인 무역 관계를 맺을수있는 친구라 생각하고있습니다.</Text>
+		</Row>
+		<!--GREETINGS-->
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_WILLIAM_OF_ORANGE_ANY" Language="ko_KR">
+			<Text>다시 만나기를.</Text>
+		</Row>
+		<!--DELEGATION-->
+		<!--AI Accepts-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_WILLIAM_OF_ORANGE_ANY" Language="ko_KR">
+			<Text>당신은 아주 친절하시군요 친구여. 당신의 선물은 무역 대표단과 함께 잘 도착했고, 저는 개인적으로 감사를 표합니다.</Text>
+		</Row>
+		<!--AI Rejects-->
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_WILLIAM_OF_ORANGE_ANY" Language="ko_KR">
+			<Text>안타깝게도 안됩니다.</Text>
+		</Row>
+		<!--AI Requests -->
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_WILLIAM_OF_ORANGE_ANY" Language="ko_KR">
+			<Text>대표단과 함께 몇 가지 선물을 보냈습니다. 우리 땅에서 난 튤립과, 담배, 그리고 휴대용 담뱃잎 분쇄기입니다.</Text>
+		</Row>
+		<!--OPEN BORDERS-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_WILLIAM_OF_ORANGE_ANY" Language="ko_KR">
+			<Text>우리는 당신에게 기쁘게 국경을 열어드리겠습니다.</Text>
+		</Row>
+		<!--AI rejects from human-->
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_WILLIAM_OF_ORANGE_ANY" Language="ko_KR">
+			<Text>이번에는 별로 내키지 않습니다.</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_WILLIAM_OF_ORANGE_ANY" Language="ko_KR">
+			<Text>우리 부대가 당신의 영역을 좀 지나가도 되겠습니까?</Text>
+		</Row>
+		<!--DECLARE FRIENDSHIP-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_WILLIAM_OF_ORANGE_ANY" Language="ko_KR">
+			<Text>당신의 친선 제안을 받아들이겠습니다. 저는 양국이 이 협정을 통해 이득을 얻을 수 있다고 봅니다.</Text>
+		</Row>
+		<!--AI Rejects from human -->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_WILLIAM_OF_ORANGE_ANY" Language="ko_KR">
+			<Text>이번에는 안됩니다 친구여. 우리는 먼저 처리해야 할 문제가 있지 않습니까?</Text>
+		</Row>
+		<!--AI Requests friendship from human-->
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_WILLIAM_OF_ORANGE_ANY" Language="ko_KR">
+			<Text>자 이리 와보세요. 제게 당신의 흥미를 끌만한 뭔가가 있을것 같습니다.</Text>
+		</Row>
+		<!--Human accepts AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_WILLIAM_OF_ORANGE_ANY" Language="ko_KR">
+			<Text>고맙습니다, 친구여.</Text>
+		</Row>
+		<!--Human rejects AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_WILLIAM_OF_ORANGE_ANY" Language="ko_KR">
+			<Text>... 진심입니까?</Text>
+		</Row>
+		<!--ALLIANCE-->
+		<!--AI Requests an alliance from human-->
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_WILLIAM_OF_ORANGE_ANY" Language="ko_KR">
+			<Text>동맹을 맺으시겠습니까?</Text>
+		</Row>
+		<!--KUDOS & WARNINGS-->
+		<!--AI Kudos-->
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_WILLIAM_OF_ORANGE_ANY" Language="ko_KR">
+			<Text>강력한 경제란, 때론 유용한 법입니다. 가령 누군가에게 저항할때 크게 도움이 되는 법입니다.</Text>
+		</Row>
+		<!--AI Warnings-->
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_WILLIAM_OF_ORANGE_ANY" Language="ko_KR">
+			<Text>나는 가난했지만 제고이센 함대를 만들수 있을정도로 성장했습니다. 하지만 당신의 경영능력을 보니 많이 부족해보이는군요.</Text>
+		</Row>
+		<!--AI warns player for border troops-->
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_WILLIAM_OF_ORANGE_ANY" Language="ko_KR">
+			<Text>부탁합니다 친구여, 당신의 군대를 우리 국경에서 물려주십시오. 그들은 우리 상인들에게 부담을 줍니다.</Text>
+		</Row>
+		<!--TRADE-->
+		<!--AI Accepts Deal-->
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_WILLIAM_OF_ORANGE_ANY" Language="ko_KR">
+			<Text>{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_WILLIAM_OF_ORANGE_ANY}</Text>
+		</Row>
+		<!--AI Rejects Deal-->
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_WILLIAM_OF_ORANGE_ANY" Language="ko_KR">
+			<Text>{LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_WILLIAM_OF_ORANGE_ANY}</Text>
+		</Row>
+		<!--DENOUNCE-->
+		<!--From Human-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_WILLIAM_OF_ORANGE_ANY" Language="ko_KR">
+			<Text>아 당신을 보니 마치 내 두번째 부인이 생각나는데, 그녀는 확실히 제정신은 아니었지...</Text>
+		</Row>
+		<!--From AI-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_WILLIAM_OF_ORANGE_ANY" Language="ko_KR">
+			<Text>아무래도 당신이 저를 무력화시키려는 음모를 꾸미는게 아닌지 슬슬 의심되군요. 저리 가시오! (공개 비난).</Text>
+		</Row>
+		<!--DECLARE WAR-->
+		<!--Human Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_WILLIAM_OF_ORANGE_ANY" Language="ko_KR">
+			<Text>당신은 자신을 통치자라 부르지만 내 눈엔 그저 화려한 장식을 걸친 야만인에 불과할 뿐입니다. 나와 내 병사들은 야만인에겐 지지않을것입니다.</Text>
+		</Row>
+		<!--AI Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_WILLIAM_OF_ORANGE_ANY" Language="ko_KR">
+			<Text>나는 전쟁을 일으키는 사람은 아닙니다. 하지만 만일 당신의 멸망이 네덜란드의 도움이 된다면 기꺼이 사회봉사라 생각할것입니다.</Text>
+		</Row>
+		<!--MAKE PEACE-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_WILLIAM_OF_ORANGE_ANY" Language="ko_KR">
+			<Text>그래요, 그럽시다. 그건 괜찮습니다</Text>
+		</Row>
+		<!--AI refuses human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_WILLIAM_OF_ORANGE_ANY" Language="ko_KR">
+			<Text>미안하지만 안됩니다. 저는 당신의 제안을 침묵으로 대답할것입니다.</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_WILLIAM_OF_ORANGE_ANY" Language="ko_KR">
+			<Text>당신이 무슨짓을 했는지는 당신이 잘 알지않습니까? 이제 평화의 시대를 열어야겠습니다.</Text>
+		</Row>
+		<!--DEFEAT-->
+		<!--AI is Defeated-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_WILLIAM_OF_ORANGE_ANY" Language="ko_KR">
+			<Text>신이시여 부디 자비를... 이 불쌍한 백성에게 자비를 베푸소서....</Text>
+		</Row>
+		<!--Human is Defeated (will see this in hotseat)-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_WILLIAM_OF_ORANGE_ANY" Language="ko_KR">
+			<Text>[LOC_DIPLO_DEFEAT_FROM_AI_LEADER_WILLIAM_OF_ORANGE_ANY]</Text>
+		</Row>
+
+
+
+
+		<Row Tag="LOC_AGENDA_WILLIAM_OF_ORANGE_NAME" Language="ko_KR">
+			<Text>스타트하우더르</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_WILLIAM_OF_ORANGE_DESCRIPTION" Language="ko_KR">
+			<Text>[ICON_TradeRoute] 교역로를 최대한 활성화 하려고 합니다. 그와 교역하는 문명을 좋아하고, 그렇지 않은 문명을 싫어합니다.</Text>
+		</Row>
+
+
+		<Row Tag="LOC_DIPLO_MODIFIER_VADER_TRADE" Language="ko_KR">
+			<Text>당신과 교역로가 연결된것에 만족합니다.</Text>
+		</Row>
+
+
+		<Row Tag="LOC_DIPLO_MODIFIER_VADER_TRADE" Language="fr_FR">
+			<Text>Le Dirigeant apprécie que votre empire fasse du commerce avec lui.</Text>
+		</Row>
+
+
+
+
+
+		<Row Tag="LOC_AGENDA_WILLIAM_OF_ORANGE_NAME" Language="fr_FR">
+			<Text>Vader des Vaderlands</Text>
+		</Row>
+
+
+
+		<Row Tag="LOC_AGENDA_WILLIAM_OF_ORANGE_DESCRIPTION" Language="fr_FR">
+			<Text>Cherche à optimiser les [ICON_TradeRoute] Routes Commerciales. Apprécie les civilisations qui échangent avec elle. N'apprécie pas celles ne souhaitant pas faire de commerce.</Text>
+		</Row>
+
+
+
+
+
+
+		<Row Tag="LOC_TRAIT_LEADER_WILLIAM_OF_ORANGE_NAME"  Language="fr_FR" >
+			<Text>Compagnie des Indes Orientales</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_WILLIAM_OF_ORANGE_DESCRIPTION"  Language="fr_FR" >
+			<Text>Vos [ICON_TradeRoute] Routes Commerciales internationales fournissent +2 [ICON_FOOD] Nourriture, +2 [ICON_SCIENCE] Science, et +2 [ICON_CULTURE] Culture. Les [ICON_TradeRoute] Routes Commerciales des autres civilizations vous fournissent +2 [ICON_GOLD] Or et leur fournissent +2 [ICON_PRODUCTION] Production. +1 capacité pour [ICON_TradeRoute] Route Commerciale.</Text>
+		</Row>
+
+
+
+
+
+
+
+		<Row Tag="LOC_LEADER_WILLIAM_OF_ORANGE" Language="fr_FR">
+			<Text>William of Orange</Text>
+		</Row>
+
+		<Row Tag="LOC_LOADING_INFO_LEADER_WILLIAM_OF_ORANGE" Language="fr_FR">
+			<Text>Mes respects, prince Guillaume Ier d'Orange, libérateur des Pays-Bas et héros du peuple néerlandais. C'est par vos efforts courageux lors de la révolte de 1568 contre l'oppresseur espagnol que vous avez offert la liberté à votre pays, au terme de la guerre de Quatre-Vingts Ans qui s'en suivit. Votre détermination a donné naissance à l'une des premières républiques modernes d'Europe, les sept provinces unies. Vous avez donné votre vie à la rébellion, avant de tomber victime d'un assassin en 1584, mais votre mort ne fit qu'encourager votre peuple dans la voie que vous lui aviez tracée, et votre héritage, en tant que "père de la patrie", restera à jamais synonyme de l'indépendance néerlandaise. [NEWLINE][NEWLINE]Courageux prince, votre peuple souhaiterait une fois de plus pouvoir confier son avenir à votre sagesse. Parviendrez-vous à assurer la souveraineté de votre royaume et à mener votre peuple à la gloire ? Bâtirez-vous une civilisation capable de résister au passage du temps ?</Text>
+		</Row>
+
+		<!--Civilopedia french-->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_WILLIAM_OF_ORANGE_TITLE" Language="fr_FR">
+			<Text>Prince d'Orange</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_WILLIAM_OF_ORANGE_SUBTITLE" Language="fr_FR">
+			<Text>Comte de Nassau, de Katzenelbogen, de Vianden, burgrave d'Anvers, stathouder de Hollande, de Voorne, de Zélande, de Frise occidentale et d'Utrecht.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_WILLIAM_OF_ORANGE_QUOTE" Language="fr_FR">
+			<Text>Mon Dieu, mon dieu, ayez pitié de mon âme et de ce pauvre peuple!</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_WILLIAM_OF_ORANGE_CHAPTER_HISTORY_PARA_1" Language="fr_FR">
+			<Text>Guillaume de Nassau, prince d'Orange (en néerlandais : Willem van Oranje), comte de Nassau, dit également Guillaume le Taciturne (Willem de Zwijger) est né le 24 avril 1533 à Dillenburg et mort au Prinsenhof de Delft le 10 juillet 1584, assassiné par Balthazar Gérard. Sa dépouille repose dans la Nieuwe Kerk de Delft. Il fut prince d'Orange, comte de Nassau à partir de 1544, puis de Katzenelbogen, de Vianden, burgrave d'Anvers, stathouder de Hollande, de Voorne, de Zélande, de Frise occidentale et d'Utrecht à partir de 1559, gouvernant un territoire partagé actuellement entre la Belgique et les Pays-Bas.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_WILLIAM_OF_ORANGE_CHAPTER_HISTORY_PARA_2" Language="fr_FR">
+			<Text>À l'origine membre de l'entourage de Charles Quint et fidèle partisan des Habsbourg, Guillaume d'Orange est surtout connu pour avoir été l'initiateur et le chef de la révolte des Pays-Bas espagnols contre le roi d'Espagne Philippe II, fils de Charles Quint. Cette révolte entraîna une volonté d'émancipation des États généraux (gouvernement) qui conduisit à l'indépendance des Pays-Bas du Nord, Provinces-Unies, alors que les Pays-Bas du Sud, la Belgica Regia, retombaient sous la domination espagnole après la guerre de Quatre-Vingts Ans.</Text>
+		</Row>
+
+		<!--Diplomacy french-->
+		<!--FIRST MEET french-->
+		<!--First AI line french-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_WILLIAM_OF_ORANGE_ANY" Language="fr_FR">
+			<Text>Je suis Guillaume d'Orange, prince des Pays-Bas. Vous aviez besoin de quelque chose ? Je suis assez occupé.</Text>
+		</Row>
+		<!--AI invitation to visit nearby City french-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_WILLIAM_OF_ORANGE_ANY" Language="fr_FR">
+			<Text>Bienvenue à la cour de Guillaume d'Orange, père des Pays-Bas. Ne restez pas là les bras ballants... Que voulez-vous ?</Text>
+		</Row>
+		<!--AI accepts Human invitation french-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_WILLIAM_OF_ORANGE_ANY" Language="fr_FR">
+			<Text>Je vous remercie.</Text>
+		</Row>
+		<!--AI invitation to exchange Capital Information french -->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_WILLIAM_OF_ORANGE_ANY" Language="fr_FR">
+			<Text>J'aime voyager et je visiterai peut-être un jour votre capitale. Est-elle loin d'ici ? Que pouvez-vous m'en dire ?</Text>
+		</Row>
+		<!--GREETINGS french-->
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_WILLIAM_OF_ORANGE_ANY" Language="fr_FR">
+			<Text>Que faites-vous au juste aux Pays-Bas ? Je suis Guillaume d'Orange, le souverain.</Text>
+		</Row>
+		<!--DELEGATION french-->
+		<!--AI Accepts french-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_WILLIAM_OF_ORANGE_ANY" Language="fr_FR">
+			<Text>C'est trop aimable. Vos prÃ©sents sont arrivÃ©s avec votre dÃ©lÃ©gation, je les ai personnellement remerciÃ©s.</Text>
+		</Row>
+		<!--AI Rejects french-->
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_WILLIAM_OF_ORANGE_ANY" Language="fr_FR">
+			<Text>Non, malheureusement.</Text>
+		</Row>
+		<!--AI Requests french-->
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_WILLIAM_OF_ORANGE_ANY" Language="fr_FR">
+			<Text>Je vous envoie une délégation commerciale avec des cadeaux de mon pays : des tulipes, des petits moulins et de quoi fumer.</Text>
+		</Row>
+		<!--OPEN BORDERS french-->
+		<!--AI accepts from human french-->
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_WILLIAM_OF_ORANGE_ANY" Language="fr_FR">
+			<Text>C'est avec plaisir que nous ouvrons nos frontières à vos unités.</Text>
+		</Row>
+		<!--AI rejects from human french-->
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_WILLIAM_OF_ORANGE_ANY" Language="fr_FR">
+			<Text>Nous ne sommes pas intéressés pour l'instant.</Text>
+		</Row>
+		<!--AI requests from human french-->
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_WILLIAM_OF_ORANGE_ANY" Language="fr_FR">
+			<Text>Permettrez-vous à nos unités de traverser votre territoire?</Text>
+		</Row>
+		<!--DECLARE FRIENDSHIP french-->
+		<!--AI accepts from human french-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_WILLIAM_OF_ORANGE_ANY" Language="fr_FR">
+			<Text>J'accepte votre offre d'amitié.</Text>
+		</Row>
+		<!--AI Rejects from human french-->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_WILLIAM_OF_ORANGE_ANY" Language="fr_FR">
+			<Text>Pas cette fois. Nous avons nous aussi des choses qui nous préoccupent.</Text>
+		</Row>
+		<!--AI Requests friendship from human french-->
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_WILLIAM_OF_ORANGE_ANY" Language="fr_FR">
+			<Text>Je pense que nos deux peuples pourraient tirer profit de cet arrangement. Acceptez-vous mon amitié ?</Text>
+		</Row>
+		<!--Human accepts AI requests, AI responds french-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_WILLIAM_OF_ORANGE_ANY" Language="fr_FR">
+			<Text>Je vous remercie.</Text>
+		</Row>
+		<!--Human rejects AI requests, AI responds french-->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_WILLIAM_OF_ORANGE_ANY" Language="fr_FR">
+			<Text>C'est malencontreux.</Text>
+		</Row>
+		<!--ALLIANCE-->
+		<!--AI Requests an alliance from human french-->
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_WILLIAM_OF_ORANGE_ANY" Language="fr_FR">
+			<Text>Aimeriez-vous former une alliance?</Text>
+		</Row>
+		<!--KUDOS & WARNINGS french-->
+		<!--AI Kudos-->
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_WILLIAM_OF_ORANGE_ANY" Language="fr_FR">
+			<Text>Une économie florissante? Cela peut toujours servir figurez-vous!</Text>
+		</Row>
+		<!--AI Warnings french-->
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_WILLIAM_OF_ORANGE_ANY" Language="fr_FR">
+			<Text>Vous semblez connaître quelques difficultés, non?</Text>
+		</Row>
+		<!--AI warns player for border troops french-->
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_WILLIAM_OF_ORANGE_ANY" Language="fr_FR">
+			<Text>Veuillez retirer vos troupes de mes frontières. Elles empèchent nos marchands de circuler.</Text>
+		</Row>
+		<!--TRADE french-->
+		<!--AI Accepts Deal french-->
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_WILLIAM_OF_ORANGE_ANY" Language="fr_FR">
+			<Text>{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_WILLIAM_OF_ORANGE_ANY}</Text>
+		</Row>
+		<!--AI Rejects Deal french-->
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_WILLIAM_OF_ORANGE_ANY" Language="fr_FR">
+			<Text>{LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_WILLIAM_OF_ORANGE_ANY}</Text>
+		</Row>
+		<!--DENOUNCE french-->
+		<!--From Human french-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_WILLIAM_OF_ORANGE_ANY" Language="fr_FR">
+			<Text>Vous savez bien ce qui nous a conduits à cette... fâcheuse tournure des événements.</Text>
+		</Row>
+		<!--From AI french-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_WILLIAM_OF_ORANGE_ANY" Language="fr_FR">
+			<Text>Ce mépris total pour toute vie humaine ne sera pas toléré. (Dénonciation)</Text>
+		</Row>
+		<!--DECLARE WAR french-->
+		<!--Human Declares War french-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_WILLIAM_OF_ORANGE_ANY" Language="fr_FR">
+			<Text>Vous avez prouvé que vous étiez un dirigeant inapte, et je ne peux plus supporter les cris de votre peuple. Il sera libéré de votre tyrannie.</Text>
+		</Row>
+		<!--AI Declares War french-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_WILLIAM_OF_ORANGE_ANY" Language="fr_FR">
+			<Text>Bien que je déteste la guerre, je considère que débarrasser le monde de votre présence est un service rendu à l'humanité entière.</Text>
+		</Row>
+		<!--MAKE PEACE french-->
+		<!--AI accepts from human french-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_WILLIAM_OF_ORANGE_ANY" Language="fr_FR">
+			<Text>Oui, oui. C'est une bonne chose.</Text>
+		</Row>
+		<!--AI refuses human french-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_WILLIAM_OF_ORANGE_ANY" Language="fr_FR">
+			<Text>Quelle perte de temps!</Text>
+		</Row>
+		<!--AI requests from human french-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_WILLIAM_OF_ORANGE_ANY" Language="fr_FR">
+			<Text>Il me semble qu'il est temps de faire la paix.</Text>
+		</Row>
+		<!--DEFEAT french-->
+		<!--AI is Defeated french-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_WILLIAM_OF_ORANGE_ANY" Language="fr_FR">
+			<Text>Peut-être que c'est mieux ainsi... Maintenant, au moins, je n'aurai pas à vous regarder détruire ma nation bien-aimée.</Text>
+		</Row>
+		<!--Human is Defeated (will see this in hotseat) french-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_WILLIAM_OF_ORANGE_ANY" Language="fr_FR">
+			<Text>[LOC_DIPLO_DEFEAT_FROM_AI_LEADER_WILLIAM_OF_ORANGE_ANY]</Text>
+		</Row>
+
+
+
+
+
+
+
+
+	</LocalizedText>
+</GameData>
