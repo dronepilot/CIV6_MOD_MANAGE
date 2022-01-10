@@ -33,6 +33,8 @@ Macedon: Philip II - 필리포프 2세 : 마케도니아 추가지도자
 Yi Sun-sin - 이순신 : 한국 
 Korea: Myeongseong - 명성황후 : 한국
 CIVITAS Askiya - 아스키아 : 송가이 제국
+[GS] Leugi's Getulio Vargas (Brazil) - 제툴리우 바르가스 (브라질)
+Merrick's Ashanti - 오세이 투투1세 (아샨티 제국)
 =========================================
 =========================================
 * Leader, Civilization Mode
@@ -48,7 +50,7 @@ Hatshepsut
 [NF]Antagonise's Suu Kyi - Myanmar(Burma)
 Merrick's Flanders
 Merrick's Joan (Flanders)
-Merrick's Ashanti
+
 
 =========================================
 =========================================
@@ -80,6 +82,9 @@ No Embark Air Units - 공중유닛이 바다에 가도 배로 안바뀜
 Build Wonders on Mountains - 포탈라 궁, 예수상 등이 산에 설치가능
 Expanded Initial Vision - 처음 맵이 더 넓게 보임
 Radiant Samurais - 사무라이 진급 기능 바뀌구 진급 아니콘도 변경
+auto build roads with units - 건설자,공병이 자동으로 길 생성 (아직 검증 안됨)
+Envoy Quest List (검증안됨)
+Right Click Close Leader 
 =========================================
 =========================================
 * Modeling
