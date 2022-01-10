@@ -32,6 +32,7 @@ Sukritact's Bayinnaung (Burma) - 바인나웅 : 버마(미얀마)
 Macedon: Philip II - 필리포프 2세 : 마케도니아 추가지도자
 Yi Sun-sin - 이순신 : 한국 
 Korea: Myeongseong - 명성황후 : 한국
+CIVITAS Askiya - 아스키아 : 송가이 제국
 =========================================
 =========================================
 * Leader, Civilization Mode
