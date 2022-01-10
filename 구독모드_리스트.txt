@@ -1,3 +1,56 @@
+***********************************************************
+***** Leadesr, Civilizations Mode (TRAITS LISTED) *****
+***********************************************************
+Germany: Adolf Hitler - 아돌프 히틀러 : 독일
+Germany: Frederick II - 프리드리히 2세 : 독일
+Gedemo Bismarck - 비스마르크 : 독일
+Japan: Meiji - 메이지천황 : 일본 
+Merrick's Enomoto Takeaki (Japan) - 에노모토 다케아키 : 일본 
+CIVITAS Oda Nobunaga - 오다 노부나가 : 일본
+Gedemo Wu Zetian - 측천무후 : 중국 
+Gedemo Napoleon - 나폴레옹 : 프랑스 
+Sukritact's Robespierre (France) - 로베스피에르 : 프랑스
+France: Charles de Gaulle -  샤를 드 골 : 프랑스
+Sukritact's Ingolfur Arnarson (Iceland) - 잉골프 아르나르손 : 아이슬란드 
+Merrick's Serbia  - 카라조르제 : 세르비아
+Merrick's Austria -마리아 테레지아 : 오스트리아
+TCS Kingdom of Jerusalem - 보두앵 
+Sukritact's Siam: Ramkhamhaeng - 람캄행 : 시암
+Sukritact's Narai (Siam) - 나라이 : 시암
+Sukritact's Oson (Akan) - 오손 (아칸)
+Soviet Union : 소련
+Soviet Union: Joseph Stalin - 이오시프 스탈린 : 소련
+Soviet Union: Vladimir Lenin -  블라디미르 레닌 : 소련
+Italy : 이탈리아
+Italy: Benito Mussolini - 베니토 무솔리니 : 이탈리아
+Russia: Elisabeth - 러시아 옐리자베타 여제 : 러시아
+England : 영국
+England: Winston Churchill - 윈스턴 처칠 : 영국 
+Merrick's Finland - 만네르헤임 : 핀란드 
+America: Woodrow Wilson - 우드로 윌슨 : 미국
+Sukritact's Bayinnaung (Burma) - 바인나웅 : 버마(미얀마)
+Macedon: Philip II - 필리포프 2세 : 마케도니아 추가지도자
+Yi Sun-sin - 이순신 : 한국 
+Korea: Myeongseong - 명성황후 : 한국
+=========================================
+=========================================
+* Leader, Civilization Mode
+Italy: Margherita
+Gedemo Lincoln
+France: Louis XIV
+Wales
+Wales: Llywelyn
+Germany: Wilhelm I
+[GS] Ryukyu Kingdom
+England: Athelstan
+Hatshepsut
+[NF]Antagonise's Suu Kyi - Myanmar(Burma)
+Merrick's Flanders
+Merrick's Joan (Flanders)
+Merrick's Ashanti
+
+=========================================
+=========================================
 * UI
 Real great People (UI)
 Better Report Screen (UI)
@@ -43,53 +96,4 @@ Steel and Thunder: Unique Units
 
 =========================================
 =========================================
-***********************************************************
-***** Leadesr, Civilizations Mode (TRAITS LISTED) *****
-***********************************************************
-Germany: Adolf Hitler - 아돌프 히틀러
-Germany: Frederick II - 프리드리히 2세
-Japan: Meiji - 메이지천황
-Gedemo Wu Zetian - 측천무후
-Gedemo Napoleon - 나폴레옹
-Sukritact's Ingolfur Arnarson (Iceland) - 잉골프 아르나르손
-Gedemo Bismarck - 비스마르크
-Merrick's Enomoto Takeaki (Japan) - 에노모토 다케아키
-Merrick's Serbia  - 카라조르제
-Merrick's Austria -마리아 테레지아
-TCS Kingdom of Jerusalem - 보두앵 
-CIVITAS Oda Nobunaga - 오다 노부나가 : 일본
-Sukritact's Siam: Ramkhamhaeng - 람캄행
-Sukritact's Robespierre (France) - 로베스피에르
-Sukritact's Oson (Akan) - 오손 (아칸)
-Sukritact's Narai (Siam) - 나라이 : 시암
-Soviet Union
-Soviet Union: Joseph Stalin - 이오시프 스탈린 : 소련
-Italy
-Italy: Benito Mussolini - 베니토 무솔리니 : 이탈리아
-Russia: Elisabeth - 러시아 옐리자베타 여제 : 러시아
-England
-England: Winston Churchill - 윈스턴 처칠 : 영국 
-Merrick's Finland - 만네르헤임 : 핀란드 
-America: Woodrow Wilson - 우드로 윌슨 : 미국
-=========================================
-=========================================
-* Leader, Civilization Mode
-Soviet Union: Vladimir Lenin
-Italy: Margherita
-Gedemo Lincoln
-France: Louis XIV
-France: Charles de Gaulle
-Wales
-Wales: Llywelyn
-Yi Sun-sin
-Korea: Myeongseong
-Germany: Wilhelm I
-Macedon: Philip II
-[GS] Ryukyu Kingdom
-England: Athelstan
-Hatshepsut
-Sukritact's Bayinnaung (Burma)
-[NF]Antagonise's Suu Kyi - Myanmar(Burma)
-Merrick's Flanders
-Merrick's Joan (Flanders)
-Merrick's Ashanti
+
