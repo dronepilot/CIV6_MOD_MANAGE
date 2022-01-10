@@ -15,17 +15,17 @@ Sukritact's Civ Selection Screen (가끔 클릭이 안되는 버그있음)
 =========================================
 =========================================
 * Plus Function
-Sukritact's Global Relations Panel
-Extended Policy Cards
-Surburban Roads
-Unique District Icons
-Detailed Map Tacks
-What Did I Promise?
-Tomatekh's Historical Religions
-No Embark Air Units
-Build Wonders on Mountains
-Expanded Initial Vision
-Radiant Samurais
+Sukritact's Global Relations Panel - 문명 간 관계 직관적으로 보여줌
+Extended Policy Cards - 정책카드 일목요연하게 보여줌
+Surburban Roads - 도로가 더욱 선명하게 해줌
+Unique District Icons - 문명 고유 특수지역 유니콘 바꿔줌
+Detailed Map Tacks - 맵에 핀박는거 더 쉽게 
+What Did I Promise? - 문명 간 약속한 거 보여줌
+Tomatekh's Historical Religions - 종교 종류 많아지고 고증에 맞게 바꿔줌
+No Embark Air Units - 공중유닛이 바다에 가도 배로 안바뀜
+Build Wonders on Mountains - 포탈라 궁, 예수상 등이 산에 설치가능
+Expanded Initial Vision - 처음 맵이 더 넓게 보임
+Radiant Samurais - 사무라이 진급 기능 바뀌구 진급 아니콘도 변경
 =========================================
 =========================================
 * Modeling
@@ -44,7 +44,7 @@ Steel and Thunder: Unique Units
 =========================================
 =========================================
 ***********************************************************
-***** Leader, Civilization Mode (TRAITS LISTED) *****
+***** Leadesr, Civilizations Mode (TRAITS LISTED) *****
 ***********************************************************
 Germany: Adolf Hitler - 아돌프 히틀러
 Germany: Frederick II - 프리드리히 2세
@@ -57,16 +57,20 @@ Merrick's Enomoto Takeaki (Japan) - 에노모토 다케아키
 Merrick's Serbia  - 카라조르제
 Merrick's Austria -마리아 테레지아
 TCS Kingdom of Jerusalem - 보두앵 
-CIVITAS Oda Nobunaga - 오다 노부나가
+CIVITAS Oda Nobunaga - 오다 노부나가 : 일본
 Sukritact's Siam: Ramkhamhaeng - 람캄행
 Sukritact's Robespierre (France) - 로베스피에르
 Sukritact's Oson (Akan) - 오손 (아칸)
-Sukritact's Narai (Siam) - 나라이
+Sukritact's Narai (Siam) - 나라이 : 시암
 Soviet Union
-Soviet Union: Joseph Stalin - 이오시프 스탈린
+Soviet Union: Joseph Stalin - 이오시프 스탈린 : 소련
 Italy
-Italy: Benito Mussolini - 베니토 무솔리니
-Russia: Elisabeth - 러시아 옐리자베타 여제
+Italy: Benito Mussolini - 베니토 무솔리니 : 이탈리아
+Russia: Elisabeth - 러시아 옐리자베타 여제 : 러시아
+England
+England: Winston Churchill - 윈스턴 처칠 : 영국 
+Merrick's Finland - 만네르헤임 : 핀란드 
+America: Woodrow Wilson - 우드로 윌슨 : 미국
 =========================================
 =========================================
 * Leader, Civilization Mode
@@ -75,16 +79,13 @@ Italy: Margherita
 Gedemo Lincoln
 France: Louis XIV
 France: Charles de Gaulle
-England: Winston Churchill
 Wales
 Wales: Llywelyn
 Yi Sun-sin
 Korea: Myeongseong
-America: Woodrow Wilson
 Germany: Wilhelm I
 Macedon: Philip II
 [GS] Ryukyu Kingdom
-Merrick's Finland
 England: Athelstan
 Hatshepsut
 Sukritact's Bayinnaung (Burma)

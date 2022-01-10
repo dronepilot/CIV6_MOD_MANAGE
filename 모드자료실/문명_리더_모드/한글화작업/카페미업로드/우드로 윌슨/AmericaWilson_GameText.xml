@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+		<!--MOD-->
+		<Row Tag="LOC_MOD_JFD_AMERICA_WILSON_DESCRIPTION" Language="en_US">
+			<Text>------------------------------------[NEWLINE]지도자 -- 우드로 윌슨[NEWLINE][NEWLINE]특성 - 14개조 평화 원칙[NEWLINE]현재 시대의 모든 외교 정책을 즉시 이용할 수 있습니다. 평화 중일 때 정부 형태에 상관 없이 추가적으로 외교 정책 슬롯을 제공합니다. 교환부품을 연구하면 고유 유닛인 '도우보이'를 제공합니다.[NEWLINE][NEWLINE]유닛 - 도우보이[NEWLINE]우드로 윌슨이 지도자일 때 제공되는 고유 유닛으로서 전쟁시 생산속도가 50% 증가.[NEWLINE][NEWLINE]어젠다 - 민주주의의 안주[NEWLINE]민주적인 정부를 가지는 것을 선호하며 평화의 모범이 되려고 합니다. 그와 같은 정부 형태를 가지고 평화적으로 지내거나 그에게 대사를 보낸 문명을 좋아합니다. 같은 정부 형태를 가졌으나 전쟁광인 문명을 업신 여기며, 미국의 명예를 지키기 위해서는 전쟁도 불사할 것입니다.</Text>
+		</Row>
+		<!--LEADER-->
+		<Row Tag="LOC_LEADER_JFD_WILSON_NAME" Language="en_US">
+			<Text>우드로 윌슨</Text>
+		</Row>
+		<!--Agenda-->
+		<Row Tag="LOC_AGENDA_JFD_SAFE_DEMOCRACY_NAME" Language="en_US">
+			<Text>민주주의의 안주</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_JFD_SAFE_DEMOCRACY_DESCRIPTION" Language="en_US">
+			<Text>민주적인 정부를 가지는 것을 선호하며 평화의 모범이 되려고 합니다. 그와 같은 정부 형태를 가지고 평화적으로 지내거나 그에게 대사를 보낸 문명을 좋아합니다. 같은 정부 형태를 가졌으나 전쟁광인 문명을 업신 여기며, 미국의 명예를 지키기 위해서는 전쟁도 불사할 것입니다.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_JFD_WILSON_REASON_SAME_GOVERNMENT_HAS_EMBASSY" Language="en_US">
+			<Text>(당신은 같은 정부 형태를 공유하며 그에게 대사를 파견했습니다.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_AGENDA_JFD_SAFE_DEMOCRACY_SAME_GOVERNMENT_HAS_EMBASSY" Language="en_US">
+			<Text>우드로 윌슨은 당신의 외교를 환영함.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_JFD_WILSON_REASON_SAME_GOVERNMENT_AND_NOT_WARMONGER" Language="en_US">
+			<Text>(당신은 같은 정부 형태를 공유하며 평화를 유지하고 있습니다.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_AGENDA_JFD_SAFE_DEMOCRACY_SAME_GOVERNMENT_AND_NOT_WARMONGER" Language="en_US">
+			<Text>우드로 윌슨은 당신을 그의 정치적 원칙을 지키는 이로 믿고 있음.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_JFD_WILSON_REASON_SAME_GOVERNMENT_AND_WARMONGER" Language="en_US">
+			<Text>(당신은 같은 정부 형태를 공유하나 전쟁광입니다.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_AGENDA_JFD_SAFE_DEMOCRACY_SAME_GOVERNMENT_AND_WARMONGER" Language="en_US">
+			<Text>우드로 윌슨은 당신은 그의 정치적 원칙에 불명예를 가져다 줬다고 생각함.</Text>
+		</Row>
+		<!--DOM-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_JFD_WILSON" Language="en_US">
+			<Text>평화나 전쟁을 통해서 미국의 명예와 자유는 우드로 윌슨 대통령 하에선 흔들리지 않을 겁니다. 이성과 열정을 모두 가지고 국제 무대로 나아가십시오. 무엇이 옳은 것인지 알기 위해서 전 세계를 위해 투쟁하십시오. 평화와 민주주의 그리고 신중한 외교는 자유의 도구가 될 겁니다.</Text>
+		</Row>
+		<!--Traits-->
+		<Row Tag="LOC_TRAIT_LEADER_JFD_FOURTEEN_POINTS_NAME" Language="en_US">
+			<Text>14개조 평화 원칙</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_JFD_FOURTEEN_POINTS_DESCRIPTION" Language="en_US">
+			<Text>현재 시대의 모든 외교 정책을 즉시 이용할 수 있습니다. 평화 중일 때 정부 형태에 상관 없이 추가로 외교 슬롯을 제공합니다. 교환부품 기술을 연구하면 고유 유닛인 미국 원정군을 얻습니다.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_JFD_FOURTEEN_POINTS_DIPLO_NOTIFICATION" Language="en_US">
+			<Text>새로운 시대는 새로운 외교술을 가져옵니다. 해당 시대의 [COLOR_GREEN]외교 정책[ENDCOLOR]이 해금됩니다.</Text>
+		</Row>
+		<!--Civilopedia-->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_WILSON_TITLE" Language="en_US">
+			<Text>우드로 윌슨</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_WILSON_SUBTITLE" Language="en_US">
+			<Text>미합중국의 대통령</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_WILSON_QUOTE" Language="en_US">
+			<Text>그 어떤 나라도 다른 나라를 판단하기에는 적합하지 않다.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_WILSON_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Woodrow Wilson was born in Staunton, Va., on Dec. 28, 1856. His father, a Presbyterian minister, communicated his moral austerity to his son, resulting in an inflexibility that sometimes revealed itself. Wilson attended Davison University in North Carolina for a brief time but graduated from Princeton in 1879. In his senior year he published an important essay in the International Review, revealing his early interest in American government. He studied law briefly and, though he did not complete the course, practiced for a time in Atlanta, Ga., without much success. He pursued graduate studies at Johns Hopkins University, receiving his doctorate in 1886.[NEWLINE][NEWLINE]In his doctoral thesis Wilson analyzed the American political system, pointing to the fracturing of power that flowed from the committee system in Congress. This thesis foreshadowed his intense belief in the role of the presidency as the only national office and in the duty of the president to lead the nation. He was to put these views into practice when he occupied the White House.[NEWLINE][NEWLINE]From 1886 to 1910 Wilson was in academic life—as a professor of political science at Bryn Mawr, Wesleyan, and Princeton and, after 1902, president of Princeton. A magnificent teacher, Wilson was a strong and imaginative college executive. His establishment of the preceptorial system at Princeton was an important contribution to university education that emphasized intimacy between teacher and student. He also fought for democracy in education.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_WILSON_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>By 1910 Wilson had established a wide reputation but had also aroused many enmities at Princeton. Thus he was ready to accept when, in 1910, the Democratic party in New Jersey offered him the nomination for governor. He was elected by a large plurality.[NEWLINE][NEWLINE]As governor, Wilson demonstrated masterly leadership, pushing through the legislature a direct primary law, a corrupt-practices act, an employers' liability act, and a law regulating the public utilities. His success made him a prominent candidate for the presidency in 1912. He was nominated, after a long convention battle, and easily elected in November. At the same time the Democratic party secured a substantial majority in both houses of Congress.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_WILSON_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>Once elected, Wilson proceeded to put into practice his theory of presidential leadership. In the first 2 years of his presidency he dominated Congress and secured legislation of long-term historical significance. The tariff was revised downward, initiating a policy which was to be of substantial importance later. The Federal Reserve Act created a banking system under governmental control. The Federal Trade Commission Act, directed against monopoly, created a body which has had an important role in preventing overwhelming concentration of power in industry.[NEWLINE][NEWLINE]Wilson from the beginning confronted difficult questions of foreign policy. In Mexico a revolution was taking place, but just before Wilson's inauguration a military dictator, Victoriano Huerta, seized the presidency. Wilson refused to recognize Huerta, setting a course sympathetic with the struggle of the Mexican masses for social reform. He prevented Huerta from consolidating power, and in 1914 he ordered the occupation of Veracruz to prevent the dictator from receiving arms from abroad. He was saved from the possibility of war by the proffered mediation of Argentina, Brazil, and Chile; and Huerta was overthrown. But the Mexican question continued causing trouble.
+			</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_WILSON_CHAPTER_HISTORY_PARA_4" Language="en_US">
+			<Text>In August 1914 World War I broke out in Europe. The basis of Wilson's policy was the preservation of neutrality. But there can be little doubt that in his heart he sympathized with France and Great Britain and feared the victory of imperial Germany. The warring powers soon began interfering with American trade. The British more and more restricted American commerce, but the Germans proclaimed a new kind of warfare, submarine warfare, with the prospect of American ships being sunk and their passengers and crew being lost. Wilson took German policies more seriously, not only because of his innate partiality for the British, but because German policies involved the destruction of human life, whereas the British interfered only with trade. As early as February 1915, in response to a German declaration instituting the U-boat war, the President declared that Germany would be held to "strict accountability" for the loss of American lives.[NEWLINE][NEWLINE]For a time thereafter Wilson took no action. But on May 7, 1915, the liner Lusitania was sunk, with over a hundred American lives lost. The President addressed a stiff note to Germany but clung to the hope that the war might be ended by the good offices of the United States. He engaged in a debate with Berlin and, after other painful submarine episodes, got Germany to abandon the U-boat war in 1916.[NEWLINE][NEWLINE]Wilson then addressed himself to Great Britain but made little headway. In the meantime the presidential campaign of 1916 was approaching. He was renominated virtually by acclamation; the Democratic platform praised him for keeping the country out of war. He won in a very close campaign. It is important to note that though the President profited from his stand in preserving peace, and though the Democratic politicians made the most of the slogan "He kept us out of war," Wilson promised nothing for the future.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_WILSON_CHAPTER_HISTORY_PARA_5" Language="en_US">
+			<Text>Wilson's efforts to bring the belligerents together were ineffectual. When the German government cast the die for unlimited warfare on the sea, Wilson severed diplomatic relations with Berlin but continued to hope that a direct challenge could be avoided. No president has ever taken more seriously the immense responsibility of leading the American people into war. But on April 2, 1917, Wilson demanded a declaration of war against Germany from Congress, and Congress responded by overwhelming majorities.There is every reason to regard Wilson as a great war president. He put politics aside, appointing a professional soldier to head American forces in Europe. Fully as important, he appealed to American idealism in a striking way. Though he believed that the defeat of Germany was necessary, he held out hope that at the end of the war a League of Nations might be established which would make impossible the recurrence of another bloody struggle. As early as April 1916 he had begun to formulate his views on this. He advocated an association of nations which would act together against any nation which broke the peace. There was much support for his point of view.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_WILSON_CHAPTER_HISTORY_PARA_6" Language="en_US">
+			<Text>Throughout the war Wilson insisted on two things: the defeat of German militarism and the establishment of peace resting on just principles. In January 1918 he gave his speech of the Fourteen Points. In the negotiations that autumn he made the acceptance of these points the primary condition on the part of his European associates and of the Germans as well. Wilson was at the apogee of his career in November 1918, when the armistice was signed. No American president had ever attained so high a position in world esteem, and millions looked to him as the prophet of a new order.[NEWLINE][NEWLINE]But difficulties loomed. The 1918 elections returned a Republican majority to Congress. The President himself stimulated partisanship by his appeal to elect a Democratic legislature. Though he selected able men for his delegation to the forthcoming peace conference at Paris, he did not think of conciliating the Republican opposition. By insisting on going to Paris in person and remaining there until the treaty was finished, he cut himself off from American opinion.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_WILSON_CHAPTER_HISTORY_PARA_7" Language="en_US">
+			<Text>At the peace conference Wilson strove to realize his ideals. He was able to win the negotiating powers' consent for drafting the Covenant of the League of Nations. This provided for a League Council of the five Great Powers and four elective members and for an Assembly in which every member state would have a vote. The signatories bound themselves to submit disputes to either arbitration or conciliation through the Council. If they failed to do this, they would be subjected to economic and possibly to military sanctions. They were also to agree to respect and preserve the territorial integrity and political independence of the members of the League.[NEWLINE][NEWLINE]Wilson fought also for what he conceived to be a just peace. On territorial questions he strove to apply the principle of nationality; he fought successfully against French ambitions to detach the Rhineland from Germany and against the Italian desire for Dalmatia, a province peopled by Yugoslavs. Many of the new boundaries of Europe were to be determined by plebiscite. At times, however, the principle of nationality was violated. On the question of reparations Wilson was unsuccessful in limiting German payments in amount and time, and he accepted a formula which was subject to grave criticism. In the Orient, much against his will, he was compelled to recognize the claims of Japan (which had in 1914 entered the war on the side of the Allies) to economic control of the Chinese province of Shantung (formerly in the hands of Germany).[NEWLINE][NEWLINE]The Treaty of Versailles was not to stand the test of time. In detaching substantial territories from Germany and in fixing Germany with responsibility for the war, it furnished the basis for that German nationalism which was to come to full flower with Adolf Hitler.[NEWLINE][NEWLINE]Wilson returned to the United States with a political battle ahead. There was much partisanship in the opposition to him but also a genuine dislike of the Treaty of Versailles and honest opposition to "entanglement" in world politics. He erred in demanding ratification of the treaty without modification. He made his appeal in a countrywide tour. He was hailed by tremendous crowds and greeted with immense enthusiasm, but his health gave way, and he was compelled to go back to the White House. A stroke temporarily incapacitated him.[NEWLINE][NEWLINE]The Senate in November rejected unconditional ratification but adopted the treaty with reservations which the President refused to accept. In January a compromise was attempted. But Wilson spoiled these efforts by taking the issue into the 1920 presidential campaign. That campaign resulted in an overwhelming Republican victory and the election of Warren G. Harding as president. The new chief executive never sought to bring the Treaty of Versailles to the Senate or to bring the United States into the League, which was by now actually in existence. Wilson's presidency ended in a stunning defeat.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_WILSON_CHAPTER_HISTORY_PARA_8" Language="en_US">
+			<Text>Despite his failure to secure American adherence to the League, the long-run judgment on the President must be that he was one of the few great presidents of the United States. In his first term he exerted a presidential leadership that has rarely been equaled and won legislation of far-reaching importance. In his policy toward Germany he faithfully interpreted the majority opinion of the nation, neither rushing passionately into war at the possible cost of national unity nor hesitating to face the issue once it seemed clear. He was a war leader of the first magnitude. In his campaign for a world order, moreover, he has lasting significance. He bequeathed to his generation, and that which followed, a passionate faith in the possibility of such an order.[NEWLINE][NEWLINE]The Charter of the United Nations reflects in no small degree Woodrow Wilson's aspirations. Whether such an order as he dreamed will ever eventuate in fact is a question that must be left to the prophets. But if a day comes when men seek the means of settling their disputes in international organization, the failure of Woodrow Wilson will appear a transitory thing, and his idealism and his vision will receive their due praise from posterity.[NEWLINE][NEWLINE]Wilson was twice married. His first wife bore him three daughters. She died in the White House shortly after the outbreak of World War I. In 1916 he married Edith Bolling Galt, who survived him by many years. He died on Feb. 3, 1924.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_WILSON_CHAPTER_CAPSULE_BODY" Language="en_US">
+			<Text>Wilson believes in peace but not at the compromise of honour. He will pursue diplomacy but is not afraid to go to war.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_WILSON_CHAPTER_DETAILED_BODY" Language="en_US">
+			<Text>Throughout the game, the American advantage is having access to all diplomatic policies from their current era straight away. They will want to keep at peace if they want to take full advantage of this. With diplomatic policy slots turning into wildcard ones, their choice of government is important, though Classical Republic and Merchant Republic are the most helpful with America's preference: a Culture Victory. They should also consider building toward the National History Museum in their Government Plaza. With their Film Studio, National Park bonus, and two post-Industrial unique units, they shine from the 20th Century onwards.</Text>
+		</Row>
+		<!--Diplomacy-->
+		<!--FIRST MEET-->
+		<!--First AI line-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_JFD_WILSON_ANY" Language="en_US">
+			<Text>환영합니다. 저는 미국의 대통령 우드로 윌슨입니다. 우리의 자유 위에 평화로운 미래를 함께 건설해가기를 바랍니다.</Text>
+		</Row>
+		<!--AI invitation to visit nearby City-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_JFD_WILSON_ANY" Language="en_US">
+			<Text>여행에 지치셨나보군요. 가까운 도시에서 회의를 하는게 좋군습니다.</Text>
+		</Row>
+		<!--AI accepts Human invitation-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_JFD_WILSON_ANY" Language="en_US">
+			<Text>필요한 것은 뭐든지.</Text>
+		</Row>
+		<!--AI invitation to exchange Capital Information-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_JFD_WILSON_ANY" Language="en_US">
+			<Text>우리의 수도는 정치적인 일로 분주합니다. 이것이 합당하고 공공적인 정부의 방식이라고 생각합니다. 당신의 정부는 어떠한지 알 수 있을까요?</Text>
+		</Row>
+		<!--GREETINGS-->
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_JFD_WILSON_ANY" Language="en_US">
+			<Text>안녕하세요.</Text>
+		</Row>
+		<!--DELEGATION-->
+		<!--AI Accepts-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_JFD_WILSON_ANY" Language="en_US">
+			<Text>그것이 서로에게 이익이 되기를 바랍니다.</Text>
+		</Row>
+		<!--AI Rejects-->
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_JFD_WILSON_ANY" Language="en_US">
+			<Text>내 자신에게 불명예가 되게 할 순 없었소.</Text>
+		</Row>
+		<!--AI Requests -->
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_JFD_WILSON_ANY" Language="en_US">
+			<Text>평화가 유지되도록 우리의 대표단을 당신의 수도로 보냈습니다. 대표단의 서한에서 제가 정치에서 깨닳은 것을 알아봐주시길 바랍니다. </Text>
+		</Row>
+		<!--OPEN BORDERS-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_JFD_WILSON_ANY" Language="en_US">
+			<Text>동의할 수 있는 협정입니다.</Text>
+		</Row>
+		<!--AI rejects from human-->
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_JFD_WILSON_ANY" Language="en_US">
+			<Text>미국은 자유를 지키기위해 국경을 지켜야 합니다.</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_JFD_WILSON_ANY" Language="en_US">
+			<Text>서로 존중하게 위해 국경을 열어야 할 때가 왔습니다. 당신이 그 협정에 합의해주시길 바랍니다.</Text>
+		</Row>
+		<!--DECLARE FRIENDSHIP-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_JFD_WILSON_ANY" Language="en_US">
+			<Text>훌륭합니다.</Text>
+		</Row>
+		<!--AI Rejects from human -->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_JFD_WILSON_ANY" Language="en_US">
+			<Text>미국은 중립을 유지합니다.</Text>
+		</Row>
+		<!--AI Requests friendship from human-->
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_JFD_WILSON_ANY" Language="en_US">
+			<Text>우호는 세상을 하나로 묶는 시멘트와 같습니다. 당신이 미국과의 우호를 선언한다고 믿어도 되겠습니까?</Text>
+		</Row>
+		<!--Human accepts AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_JFD_WILSON_ANY" Language="en_US">
+			<Text>감사합니다.</Text>
+		</Row>
+		<!--Human rejects AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_JFD_WILSON_ANY" Language="en_US">
+			<Text>아마도 나중에요.</Text>
+		</Row>
+		<!--ALLIANCE-->
+		<!--AI Requests an alliance from human-->
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_JFD_WILSON_ANY" Language="en_US">
+			<Text>미국은 머리를 땅에 박은 타조가 되지 않을 것입니다. 우리는 명예를 지키기 위해 싸울 것입니다. 동맹으로서 우리와 함께 하시겠습니까?</Text>
+		</Row>
+		<!--KUDOS & WARNINGS-->
+		<!--AI Kudos-->
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_JFD_WILSON_ANY" Language="en_US">
+			<Text>당신과 함께하면 평화를 유지하는 것에 대해 희망이 있습니다.</Text>
+		</Row>
+		<!--AI Warnings-->
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_JFD_WILSON_ANY" Language="en_US">
+			<Text>당신은 우리 정부의 원칙에 불명예를 가져다 줬습니다.</Text>
+		</Row>
+		<!--AI warns player for border troops-->
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_JFD_WILSON_ANY" Language="en_US">
+			<Text>미국의 자유를 박탈하려고 합니까? 한가롭게 앉아서 당신이 우리 국경에 군대를 배치하는 것을 보는 것은 제게 불명예스러운 일입니다. 군대를 물러나 주십시오.</Text>
+		</Row>
+		<!--TRADE-->
+		<!--AI Accepts Deal-->
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_JFD_WILSON_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_JFD_WILSON_ANY}</Text>
+		</Row>
+		<!--AI Rejects Deal-->
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_JFD_WILSON_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_JFD_WILSON_ANY}</Text>
+		</Row>
+		<!--DENOUNCE-->
+		<!--From Human-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_JFD_WILSON_ANY" Language="en_US">
+			<Text>당신이 미국을 당신의 잣대로 판단하는 것은 어긋난 일입니다.</Text>
+		</Row>
+		<!--From AI-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_JFD_WILSON_ANY" Language="en_US">
+			<Text>만약 제가 어느 나라도 판단할 수 없어야 한다면, 당신은 예외가 될 거 같습니다. (공개비난)</Text>
+		</Row>
+		<!--Rationale-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_JFD_SAFE_DEMOCRACY_REASON_SAME_GOVERNMENT_AND_NOT_WARMONGER" Language="en_US">
+			<Text>(같은 정부 형태를 공유하고 전쟁광입니다.)</Text>
+		</Row>
+		<!--DECLARE WAR-->
+		<!--Human Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_JFD_WILSON_ANY" Language="en_US">
+			<Text>국가에 최대의 시험이 다가왔습니다.</Text>
+		</Row>
+		<!--AI Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_JFD_WILSON_ANY" Language="en_US">
+			<Text>나는 자유를 위해 국가를 지키기위해 전쟁을 치러야 합니다.</Text>
+		</Row>
+		<!--MAKE PEACE-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_JFD_WILSON_ANY" Language="en_US">
+			<Text>좋은 거래입니다!</Text>
+		</Row>
+		<!--AI refuses human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_JFD_WILSON_ANY" Language="en_US">
+			<Text>평화를 위한 대가는 클 것입니다만, 미국의 자존심을 포기하지는 않을 것입니다.</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_JFD_WILSON_ANY" Language="en_US">
+			<Text>젊고 순수하며 즐거운 삶을 즐기는 수많은 젊은이들이 당신같은 사악한 자에의해 희생당하고 있습니다. 이제는 평화를 위한 때라고 생각합니다.  </Text>
+		</Row>
+		<!--DEFEAT-->
+		<!--AI is Defeated-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_JFD_WILSON_ANY" Language="en_US">
+			<Text>그게 더 쉬울 거라고 생각했습니다.</Text>
+		</Row>
+		<!--Human is Defeated (will see this in hotseat)-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_JFD_WILSON_ANY" Language="en_US">
+			<Text>[LOC_DIPLO_DEFEAT_FROM_AI_LEADER_JFD_WILSON_ANY]</Text>
+		</Row>
+		<!--DOUGHBOY-->
+		<Row Tag="LOC_UNIT_JFD_DOUGHBOY_NAME" Language="en_US">
+			<Text>도우보이</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_JFD_DOUGHBOY_DESCRIPTION" Language="en_US">
+			<Text>우드로 윌슨이 지도자일 때 보병을 대체하는 현대 시대의 미국의 고유 유닛입니다. 전쟁 시 훈련 속도가 50% 증가합니다.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_JFD_DOUGHBOY_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>'도우보이'는 아메리카 연방 육군 및 해병대에 소속된 군인을 이르는 비칭이다. 메히코-아메리카 전쟁 당시(1846–1848)부터 등장한 용어는 특히 1차 세계대전 당시 아메리카 원정대(American Expeditionary Forces, AEF)를 의미하였다. E. M. 비케스니가 디자인한 1920년대의 인기 있는 대량 생산 조각품인 - 미국 도우보이의 영혼 - 은 제1차 세계 대전 당시 제복을 입은 미군 병사를 보여준다.</Text>
+		</Row>
+	</LocalizedText>
+</GameData>
