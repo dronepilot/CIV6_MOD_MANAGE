@@ -1,6 +1,6 @@
-***********************************************************
-***** Leadesr, Civilizations Mode (TRAITS LISTED) *****
-***********************************************************
+**************************************************************
+***** Leadesr, Civilizations Mode (TRAITS LISTED) ***** 42개
+**************************************************************
 Germany: Adolf Hitler - 아돌프 히틀러 : 독일
 Germany: Frederick II - 프리드리히 2세 : 독일
 Gedemo Bismarck - 비스마르크 : 독일
@@ -9,6 +9,7 @@ Merrick's Enomoto Takeaki (Japan) - 에노모토 다케아키 : 일본
 CIVITAS Oda Nobunaga - 오다 노부나가 : 일본
 Gedemo Wu Zetian - 측천무후 : 중국 
 Gedemo Napoleon - 나폴레옹 : 프랑스 
+France: Louis XIV - 루이 14세 : 프랑스
 Sukritact's Robespierre (France) - 로베스피에르 : 프랑스
 France: Charles de Gaulle -  샤를 드 골 : 프랑스
 Sukritact's Ingolfur Arnarson (Iceland) - 잉골프 아르나르손 : 아이슬란드 
@@ -23,11 +24,13 @@ Soviet Union: Joseph Stalin - 이오시프 스탈린 : 소련
 Soviet Union: Vladimir Lenin -  블라디미르 레닌 : 소련
 Italy : 이탈리아
 Italy: Benito Mussolini - 베니토 무솔리니 : 이탈리아
+Italy: Margherita - 마르게리타 : 이탈리아
 Russia: Elisabeth - 러시아 옐리자베타 여제 : 러시아
 England : 영국
 England: Winston Churchill - 윈스턴 처칠 : 영국 
 Merrick's Finland - 만네르헤임 : 핀란드 
 America: Woodrow Wilson - 우드로 윌슨 : 미국
+Gedemo Lincoln - 에이브러햄 링컨 : 미국
 Sukritact's Bayinnaung (Burma) - 바인나웅 : 버마(미얀마)
 Macedon: Philip II - 필리포프 2세 : 마케도니아 추가지도자
 Yi Sun-sin - 이순신 : 한국 
@@ -35,21 +38,19 @@ Korea: Myeongseong - 명성황후 : 한국
 CIVITAS Askiya - 아스키아 : 송가이 제국
 [GS] Leugi's Getulio Vargas (Brazil) - 제툴리우 바르가스 (브라질)
 Merrick's Ashanti - 오세이 투투1세 (아샨티 제국)
+Wales - 웨일스 
+Wales: Llywelyn - 흐루웰린 : 웨일스 
+Merrick's Flanders - 티에리 : 플랑드르 
+Merrick's Joan (Flanders) - 조안 : 플랑드르 
+[GS] Ryukyu Kingdom - 쇼신 왕 : 류큐 문명
+
 =========================================
 =========================================
 * Leader, Civilization Mode
-Italy: Margherita
-Gedemo Lincoln
-France: Louis XIV
-Wales
-Wales: Llywelyn
-Germany: Wilhelm I
-[GS] Ryukyu Kingdom
-England: Athelstan
-Hatshepsut
-[NF]Antagonise's Suu Kyi - Myanmar(Burma)
-Merrick's Flanders
-Merrick's Joan (Flanders)
+
+
+
+
 
 
 =========================================
