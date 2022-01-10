@@ -225,7 +225,7 @@
 			<Text>왕</Text>
 		</Replace>
 		<Replace Tag="LOC_GOVERNMENT_JFD_NOBLE_REPUBLIC_LEADER_TITLE_TCS_BALDWIN_IV" Language="en_US">
-			<Text>리더</Text>
+			<Text>지도자</Text>
 		</Replace>
 		<Replace Tag="LOC_GOVERNMENT_JFD_LIBERAL_DEMOCRACY_LEADER_TITLE_TCS_BALDWIN_IV" Language="en_US">
 			<Text>왕</Text>

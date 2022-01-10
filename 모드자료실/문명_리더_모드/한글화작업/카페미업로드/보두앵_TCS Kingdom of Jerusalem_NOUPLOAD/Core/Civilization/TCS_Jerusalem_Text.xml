@@ -116,7 +116,7 @@
 			<Text>수도회 영지</Text>
 		</Replace>
 		<Replace Tag="LOC_BUILDING_TCS_CHAPTER_COMMANDERY_DESCRIPTION" Language="en_US">
-			<Text>병영과 마구간을 대체하는 예루살렘의 고유한 건물입니다. 이 도시에서 훈련된 모든 지상 유닛이 +25%의 전투 경험치를 얻습니다. 건설 시 도시의 [ICON_Strength]방어력이 증가하며, 무료 근접 유닛을 하나 제공합니다. 신앙으로 구매할 수 있습니다.</Text>
+			<Text>병영을 대체하는 예루살렘의 고유한 건물입니다. 이 도시에서 훈련된 모든 지상 유닛이 +25%의 전투 경험치를 얻습니다. 건설 시 도시의 [ICON_Strength]방어력이 증가하며, 무료 근접 유닛을 하나 제공합니다.</Text>
 		</Replace>
 		<Replace Tag="LOC_TCS_BUILDING_DUMMY_STABLE_NAME" Language="en_US">
 			<Text>도시 광장</Text>
@@ -127,7 +127,7 @@
 			<Text>십자군</Text>
 		</Replace>
 		<Replace Tag="LOC_UNIT_TCS_CRUSADER_DESCRIPTION" Language="en_US">
-			<Text>기사를 대체하는 예루살렘 특유의 중세시대 유닛입니다. 타종교를 믿는 문명과 전투 시 [ICON_Strength]+10의 전투력을 얻습니다. 신앙으로 구매할 수 있습니다.</Text>
+			<Text>기사를 대체하는 예루살렘 고유의 중세시대 유닛입니다. 타종교를 믿는 문명과 전투 시 [ICON_Strength]+10의 전투력을 얻습니다.</Text>
 		</Replace>
 		<Replace Tag="LOC_TCS_ABILITY_CRUSADER_NAME" Language="en_US">
 			<Text>기독교 왕국의 전사</Text>
