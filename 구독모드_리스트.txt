@@ -31,6 +31,7 @@ England: Winston Churchill - 윈스턴 처칠 : 영국
 Merrick's Finland - 만네르헤임 : 핀란드 
 America: Woodrow Wilson - 우드로 윌슨 : 미국
 Gedemo Lincoln - 에이브러햄 링컨 : 미국
+[GS] America - Harry Truman - Port Lime - 해리 S. 트루먼 : 미국
 Sukritact's Bayinnaung (Burma) - 바인나웅 : 버마(미얀마)
 Macedon: Philip II - 필리포프 2세 : 마케도니아 추가지도자
 Yi Sun-sin - 이순신 : 한국 
@@ -47,6 +48,7 @@ Merrick's Joan (Flanders) - 조안 : 플랑드르
 =========================================
 =========================================
 * Leader, Civilization Mode
+
 
 
 
