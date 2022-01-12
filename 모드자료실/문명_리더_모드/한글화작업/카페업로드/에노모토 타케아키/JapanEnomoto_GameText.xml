@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+		<!--LEADER-->
+		<Row Tag="LOC_LEADER_MER_ENOMOTO_NAME" Language="en_US">
+			<Text>에노모토 다케아키</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MER_HAKODATE" Language="en_US">
+			<Text>하코다테</Text>
+		</Row>
+		<!--Agenda-->
+		<Row Tag="LOC_AGENDA_MER_KOTETSU_NAME" Language="en_US">
+			<Text>코테츠</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_MER_KOTETSU_DESCRIPTION" Language="en_US">
+			<Text>같은 정부 형태에 높은 과학력과 산업력을 가진 문명을 선호합니다. 다른 정부 형태에 높은 과학력과 산업력을 가진 문명을 싫어합니다.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDOS_LEADER_MER_ENOMOTO_REASON_NAVAL_GOVERNMENT" Language="en_US">
+			<Text>(당신은 같은 정부 유형이며 대규모의 해군을 보유하고 있습니다.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_AGENDA_MER_KOTETSU_NAVAL_GOVERNMENT" Language="en_US">
+			<Text>에노모토 다케아키는 같은 정부 유형의 해군력을 좋아합니다.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_MER_ENOMOTO_REASON_NAVAL_OTHER_GOVERNMENT" Language="en_US">
+			<Text>(당신은 다른 정부 유형이며 강한 해군을 가지고 있습니다.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_AGENDA_MER_KOTETSU_NAVAL_OTHER_GOVERNMENT" Language="en_US">
+			<Text>에노모토 다케아키는 다른 정부 타입이며 해군력에 대해 걱정합니다.</Text>
+		</Row>
+		<!--DOM-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_MER_ENOMOTO" Language="en_US">
+			<Text>안녕하세요. 에노모토 다케아키 대통령님. 존경받는 장군이자 지도자인 당신은 일본에 민주주의를 가져온 첫 번째 사람이었고, 몰락해가는 막부를 위해 싸웠습니다. 일본은 다시 한번 사무라이 전통을 지키라고 요구하지만, 커다란 변화가 다가오고 있습니다.</Text>
+		</Row>
+		<!--Traits-->
+		<Row Tag="LOC_TRAIT_LEADER_MER_KYOWAKOKU_NAME" Language="en_US">
+			<Text>공화국</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_MER_KYOWAKOKU_DESCRIPTION" Language="en_US">
+			<Text>[ICON_Alliance] 동맹 상태일 때 항만에서 인접 보너스와 동일한  [ICON_Science] 과학을 산출합니다. [ICON_GreatAdmiral] 위대한 제독을 임명할 때, 랜덤  [ICON_CivicBoosted] 정책부스트를 받습니다. 다른 문명이 [ICON_GreatAdmiral] 위대한 제독을 임명할 시 랜덤 [ICON_TechBoosted] 기술부스트를 받습니다.   </Text>
+		</Row>
+		<!--Civilopedia-->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MER_ENOMOTO_TITLE" Language="en_US">
+			<Text>에노모토 다케아키</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MER_ENOMOTO_SUBTITLE" Language="en_US">
+			<Text>에조 공화국의 대통령</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MER_ENOMOTO_QUOTE" Language="en_US">
+			<Text>인위의 계급이야 차이가 있을지언정 그 교육에 있어서는 같은 책임을 지는 법이다. 한솥밥을 먹는 자이다.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MER_ENOMOTO_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>사무라이이자 제독이자 공화국의 대통령인 에노모토 다케아키는 보신전쟁동안 양쪽 진영에서 존경을 받았습니다. 도쿠가와 막부에 충성을 다하기 위하여 태어난 그는 봉건 영주가 사용할 서양의 기술을 조달하는데 유년시절을 보냈습니다. 그는 영어와 네덜란드어에 능통해졌고, 네덜란드를 방문했을 때는 전신기 등 여러 발전 기술을 습득하였습니다.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MER_ENOMOTO_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>에노모토는 사초 동맹과의 전쟁이 발발했을 때 도쿠가와 해군의 사령관이었으며, 황제에게 권력을 회복하려는 세력이었습니다. 1868년 에도(東京)가 항복하자, 그는 함대를 이끌고 에조로 도망쳐 공화국을 선포했습니다. 잔존하던 도쿠가와 막부의 충성파들은 에노모토를 일본 역사상 처음으로 선거를 통해 대통령으로 선출하였습니다.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MER_ENOMOTO_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>에노모토는 공화국이 몰락한 후에도 메이지 정부의 높은 존경을 받았고, 이후 일본 제국 해군의 창설자가 되었습니다.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MER_ENOMOTO_CHAPTER_CAPSULE_BODY" Language="en_US">
+			<Text>에노모토 다케아키는 일본의 과학적 발전을 도모하고 강력한 함대를 만들기 위해 동맹을 맺으려고 하였습니다.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MER_ENOMOTO_CHAPTER_DETAILED_BODY" Language="en_US">
+			<Text>일본의 유연성은 에노모토가 잠재적으로 강력한 과학 또는 군사 지도자로 적합하게 하였습니다. 제한된 전략 자원으로 부대를 건설할 수 있다는 것은 그가 다른 승리 유형에 집중하기 위해 그의 도시에 더 적은 주둔지를 건설할 수 있다는 것을 의미하였습니다.</Text>
+		</Row>
+		<!--Diplomacy-->
+		<!--FIRST MEET-->
+		<!--First AI line-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_MER_ENOMOTO_ANY" Language="en_US">
+			<Text>에조에 오신 걸 환영합니다. 에노모토 다케아키입니다. 이 땅에서 선출된 대표입니다. 앞으로 우리가 함께 일할 수 있기를 바랍니다.</Text>
+		</Row>
+		<!--AI invitation to visit nearby City-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_MER_ENOMOTO_ANY" Language="en_US">
+			<Text>오늘 늦게 회의가 열립니다만, 귀하가 참석하셔서 저희가 어떻게 정치를 논하는지 보시겠습니까?</Text>
+		</Row>
+		<!--AI accepts Human invitation-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_MER_ENOMOTO_ANY" Language="en_US">
+			<Text>감사합니다.</Text>
+		</Row>
+		<!--AI invitation to exchange Capital Information-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_MER_ENOMOTO_ANY" Language="en_US">
+			<Text>우리는 우리의 도시들에 대한 정보를 교환해야합니다.</Text>
+		</Row>
+		<!--GREETINGS-->
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_MER_ENOMOTO_ANY" Language="en_US">
+			<Text>곤니찌와.</Text>
+		</Row>
+		<!--DELEGATION-->
+		<!--AI Accepts-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_MER_ENOMOTO_ANY" Language="en_US">
+			<Text>당신의 대표단은 우리에게 큰 존경을 보여주었고, 우리는 그들이 편안하게 머물 수 있도록 할 것입니다.</Text>
+		</Row>
+		<!--AI Rejects-->
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_MER_ENOMOTO_ANY" Language="en_US">
+			<Text>우리는 현재 내부 정치적 사정으로 인해 사절단을 맞이할 수 없습니다.</Text>
+		</Row>
+		<!--AI Requests -->
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_MER_ENOMOTO_ANY" Language="en_US">
+			<Text>저희 사절단을 귀하의 수도로 보냈습니다. 사절단은 문서와 도표를 가져갔고 그것들로 한 두가지 정도는 연구를 하실 수 있을겁니다.</Text>
+		</Row>
+		<!--OPEN BORDERS-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_MER_ENOMOTO_ANY" Language="en_US">
+			<Text>좋을 것 같군요.</Text>
+		</Row>
+		<!--AI rejects from human-->
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_MER_ENOMOTO_ANY" Language="en_US">
+			<Text>우리는 그 어떤한 것도 허락할 수 없습니다!</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_MER_ENOMOTO_ANY" Language="en_US">
+			<Text>당신이 이 조항들에 동의할 수 있기를 바랍니다.</Text>
+		</Row>
+		<!--DECLARE FRIENDSHIP-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_MER_ENOMOTO_ANY" Language="en_US">
+			<Text>나의 정부와 상의한 후에, 이 제안이 당신에게 가장 적합할  것이라고 생각했습니다.</Text>
+		</Row>
+		<!--AI Rejects from human -->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_MER_ENOMOTO_ANY" Language="en_US">
+			<Text>현재로선 이건 이상적이지 않은 것 같습니다.</Text>
+		</Row>
+		<!--AI Requests friendship from human-->
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_MER_ENOMOTO_ANY" Language="en_US">
+			<Text>당신에게 동등한 경의를 표하며 동시에 답례를 요청합니다.</Text>
+		</Row>
+		<!--Human accepts AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_MER_ENOMOTO_ANY" Language="en_US">
+			<Text>공화국을 대표해서 감사드립니다.</Text>
+		</Row>
+		<!--Human rejects AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_MER_ENOMOTO_ANY" Language="en_US">
+			<Text>나는 조금도 실망하지 않았습니다.</Text>
+		</Row>
+		<!--ALLIANCE-->
+		<!--AI Requests an alliance from human-->
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_MER_ENOMOTO_ANY" Language="en_US">
+			<Text>긴 논의끝에, 나는 당신에게 우리의 우정을 공식화하기로 결정했습니다.</Text>
+		</Row>
+		<!--KUDOS & WARNINGS-->
+		<!--AI Kudos-->
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_MER_ENOMOTO_ANY" Language="en_US">
+			<Text>당신은 훌륭한 지혜를 보여주십니다. 정치는 집무실에서만 일어나는 것이 아니라 전쟁터에서도 일어나지요.</Text>
+		</Row>
+		<!--AI Warnings-->
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_MER_ENOMOTO_ANY" Language="en_US">
+			<Text>당신의 제국이 존재하는한, 공화국은 위험에 처할 것입니다. </Text>
+		</Row>
+		<!--AI warns player for border troops-->
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_MER_ENOMOTO_ANY" Language="en_US">
+			<Text>장관들이 당신네 군대가 국경밖에 집결하는 것에 대해 우려하고 있습니다. 최대한 진정시키고 있습니다만, 군대를 물러날 수 있으신가요?</Text>
+		</Row>
+		<!--TRADE-->
+		<!--AI Accepts Deal-->
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_MER_ENOMOTO_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_MER_ENOMOTO_ANY}</Text>
+		</Row>
+		<!--AI Rejects Deal-->
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_MER_ENOMOTO_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_MER_ENOMOTO_ANY}</Text>
+		</Row>
+		<!--DENOUNCE-->
+		<!--From Human-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_MER_ENOMOTO_ANY" Language="en_US">
+			<Text>당신은 나를 실망시켰습니다.</Text>
+		</Row>
+		<!--From AI-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_MER_ENOMOTO_ANY" Language="en_US">
+			<Text>당신의 리더쉽 스타일은 당신 주변의 모든 사람들에게 위험합니다(공개비난). </Text>
+		</Row>
+		<!--Rationale-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_MER_KOTETSU_NAVAL_OTHER_GOVERNMENT" Language="en_US">
+			<Text>(당신은 다른 정부유형이며 강력한 해군을 거느리고 있습니다.)</Text>
+		</Row>
+
+		<!--DECLARE WAR-->
+		<!--Human Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_MER_ENOMOTO_ANY" Language="en_US">
+			<Text>나는 나에게 대항하는 자들과 싸우기 위해 기꺼이 칼을 들 것입니다.</Text>
+		</Row>
+		<!--AI Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_MER_ENOMOTO_ANY" Language="en_US">
+			<Text>당신은 내가 섬기는 공화국에 위험한 인물입니다. 전쟁에 대비하십시오.</Text>
+		</Row>
+		<!--MAKE PEACE-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_MER_ENOMOTO_ANY" Language="en_US">
+			<Text>그보다 더 좋은 것은 없습니다.</Text>
+		</Row>
+		<!--AI refuses human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_MER_ENOMOTO_ANY" Language="en_US">
+			<Text>지금 끝내는 것은 내게 불명예가 될 것입니다.</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_MER_ENOMOTO_ANY" Language="en_US">
+			<Text>우리는 유혈사태만 발생시켰습니다.</Text>
+		</Row>
+		<!--DEFEAT-->
+		<!--AI is Defeated-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_MER_ENOMOTO_ANY" Language="en_US">
+			<Text>공화국은 무너진다 마치 내가 무너지는 것처럼, 그리고 사무라이도 나와 함께 무너진다.</Text>
+		</Row>
+		<!--Human is Defeated (will see this in hotseat)-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_MER_ENOMOTO_ANY" Language="en_US">
+			<Text>[LOC_DIPLO_DEFEAT_FROM_AI_LEADER_MER_ENOMOTO_ANY]</Text>
+		</Row>
+	</LocalizedText>
+</GameData>
