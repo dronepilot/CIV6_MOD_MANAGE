@@ -89,9 +89,9 @@ auto build roads with units - 건설자,공병이 자동으로 길 생성 (아�
 Envoy Quest List (검증안됨)
 Right Click Close Leader 
 
-Sukritact's Oceans - 바다에 자원 추가 
+Sukritact's Oceans - 바다에 자원 추가 (한글화가 안됨..)
 More Maritime: Seaside Sectors - 해안 특수지구 2개 추가! 워터프론트 방파제 산책로 해군기지 
-Better Rome (예정)
+Better Rome
 
 
 =========================================
