@@ -1,5 +1,5 @@
 **************************************************************
-***** Leadesr, Civilizations Mode (TRAITS LISTED) ***** 42개
+***** Leadesr, Civilizations Mode (TRAITS LISTED) ***** 43개
 **************************************************************
 Germany: Adolf Hitler - 아돌프 히틀러 : 독일
 Germany: Frederick II - 프리드리히 2세 : 독일
@@ -44,7 +44,7 @@ Wales: Llywelyn - 흐루웰린 : 웨일스
 Merrick's Flanders - 티에리 : 플랑드르 
 Merrick's Joan (Flanders) - 조안 : 플랑드르 
 [GS] Ryukyu Kingdom - 쇼신 왕 : 류큐 문명
-
+Republic of Belarus Lukashenko -루카셴코 벨라루스 : 벨라루스
 =========================================
 =========================================
 * Leader, Civilization Mode
