@@ -1,0 +1,657 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+
+		<Row Tag="LOC_TRAIT_LEADER_GEDEMO_WUZETIAN_NAME" Language="zh_Hans_CN">
+			<Text>측천무후</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_GEDEMO_WUZETIAN_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>[ICON_DISTRICT_THEATER] 극장가는 법전과 함께 이용할 수 있습니다. 측천무후는 고유 유닛인 연노와 고유 빌딩인 제지소가 있습니다. 궁전에는 4개의 추가적인 저서걸작 [ICON_GreatWork_Writing] 슬롯이 있습니다.</Text>
+		</Row>
+
+		<Row Tag="LOC_LEADER_GEDEMO_WUZETIAN" Language="zh_Hans_CN">
+			<Text>측천무후</Text>
+		</Row>
+
+		<Row Tag="LOC_LOADING_INFO_LEADER_GEDEMO_WUZETIAN" Language="zh_Hans_CN">
+			<Text>하늘의 축복이 찾아옵니다. 중국의 가장 아름답고 도도한 통치자 측천무후! 그녀의 그림자로 인해 꽃이 만발하고 강은 흐릅니다! 그녀는 중국 인류 역사상 가장 오래되고 위대한 문명의 지도자입니다. 교활하고 아름다운 황후여, 천한 첩에서 황후의 지위에 오른 그대여, 대중국은 다시 야만인들에게 포위되었습니다. 당신은 적들을 물리치고 나라를 다시 위대하게 만들 수 있습니까?</Text>
+		</Row>
+		<!--Civilopedia-->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GEDEMO_WUZETIAN_TITLE" Language="zh_Hans_CN">
+			<Text>측천무후</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GEDEMO_WUZETIAN_SUBTITLE" Language="zh_Hans_CN">
+			<Text>황제</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GEDEMO_WUZETIAN_QUOTE" Language="zh_Hans_CN">
+			<Text>이 세상에서 당신이 살아남기를 원한다면, 뛰어난 전략은 일부분일 뿐입니다. 더 중요한 것은 인간본성에 대한 깊은 통찰력입니다.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GEDEMO_WUZETIAN_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>측천무후는 중국 역사상 유일한 황후였습니다. 그녀는 655년부터 705년까지 "신성한 최고의 황제"라는 이름으로 자신의 왕조, 주나라를 세웠습니다. 이 시대는 중국에서 여성들이 비교적 자유로운 시기였습니다. 소녀들은 그림,시,문학 예술뿐만 아니라 정치도 배울 수 있었습니다. 황후 또한 고전작품,회화,무용,음악,시 등을 접하였습니다. 황후는 큰 불상을 석굴에 새겼는데, 후에 이곳은 유명해졌고 유네스코 문화유산으로 등재되었습니다.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GEDEMO_WUZETIAN_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text>끊임없는 야망과 강한 기질을 가진 군벌이었던 그녀는 수십 년 간 당나라를 통치하였습니다. 측천무후는 견고한 수도인 시안에서 통치하며 번영하게 하였고, 실크로드 무역을 발전시켜 중국을 세련된 문명국이자 상업 강국으로 만드는데 기여하였습니다. 황후는 분명 선도적인 여성이었지만 그녀가 권력을 잡을 수 있었던 매혹적인 면을 간과해서는 안됩니다. 당시의 여성들은 미를 위한 모든 것, 특히 화장품과 향수를 사용하였습니다. 궁전과 집무실은 향기가 가득했으며 디퓨저로 황제와 황후의 모든 방에서도 향이 나게했습니다. 당시 가장 귀한 향은 베트남에서 나는 우드,윈난에서 나는 장미,구이린에서 나는 자스민과 구골나무,히말라야에서 나는 사향, 바다에서 온 용연향 등이었습니다. 당시 향수 가루를 만드는 일을 매우 정교한 작업이었습니다. 예를 들어 "건조된" 아이리스 가루는 매일 아침 수백 송이의 꽃을 따고, 용설란 가루에서 향기를 채취하는 고된 작업이었습니다. 이 작업을 20일간하여 매우 정제된 아이리스 가루와 용설란 향수를 얻을 수 있습니다. 이 가루는 마치 목욕 후 활석 가루를 바르는 것처럼 얼굴과 몸을 하얗게 하는데 사용되었고 옷에서 향기가 나게 하였습니다.  </Text>
+		</Row>
+
+		<!--Diplomacy-->
+		<!--FIRST MEET-->
+		<!--First AI line-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_GEDEMO_WUZETIAN_ANY" Language="zh_Hans_CN">
+			<Text>안녕하세요. 저는 측천무후입니다. 중국은 평화와 발전을 바랍니다. 우릴 건들지 않으면 우리도 당신을 건들지 않을 것입니다.</Text>
+		</Row>
+		<!--AI invitation to visit nearby City-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_GEDEMO_WUZETIAN_ANY" Language="zh_Hans_CN">
+			<Text>번영하는 우리 땅으로 오세요. 우리는 두 팔 벌려 환영할 것입니다.</Text>
+		</Row>
+		<!--AI accepts Human invitation-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_GEDEMO_WUZETIAN_ANY" Language="zh_Hans_CN">
+			<Text>가장 확실합니다.</Text>
+		</Row>
+		<!--AI invitation to exchange Capital Information-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_GEDEMO_WUZETIAN_ANY" Language="zh_Hans_CN">
+			<Text>수도의 소재에 대한 세부 사항을 교환합니다.</Text>
+		</Row>
+		<!--GREETINGS-->
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_GEDEMO_WUZETIAN_ANY" Language="zh_Hans_CN">
+			<Text>니 하오! (인사)</Text>
+		</Row>
+		<!--DELEGATION-->
+		<!--AI Accepts-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_GEDEMO_WUZETIAN_ANY" Language="zh_Hans_CN">
+			<Text>우리는 당신의 사절단을 맞이하게 되어 영광입니다.</Text>
+		</Row>
+		<!--AI Rejects-->
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_GEDEMO_WUZETIAN_ANY" Language="zh_Hans_CN">
+			<Text>지금은 당신의 사절단을 환영하지 않습니다.</Text>
+		</Row>
+		<!--AI Requests -->
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_GEDEMO_WUZETIAN_ANY" Language="zh_Hans_CN">
+			<Text>귀하에게 대표단을 파견하겠습니다. 우리의 훌륭한 목사님들과 선교사님들, 그리고 최근 수확한 농작물들을 받아주시기 바랍니다.</Text>
+		</Row>
+		<!--OPEN BORDERS-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_GEDEMO_WUZETIAN_ANY" Language="zh_Hans_CN">
+			<Text>매우 감사합니다.</Text>
+		</Row>
+		<!--AI rejects from human-->
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_GEDEMO_WUZETIAN_ANY" Language="zh_Hans_CN">
+			<Text>내가 바보인 줄 아세요?</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_GEDEMO_WUZETIAN_ANY" Language="zh_Hans_CN">
+			<Text>허락해주신다면 우리는 당신의 땅을 지나가고 싶습니다.</Text>
+		</Row>
+		<!--DECLARE FRIENDSHIP-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_GEDEMO_WUZETIAN_ANY" Language="zh_Hans_CN">
+			<Text>이 정도면 괘찮은 것 같아요.</Text>
+		</Row>
+		<!--AI Rejects from human -->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_GEDEMO_WUZETIAN_ANY" Language="zh_Hans_CN">
+			<Text>제가 당신을 친구라고 부르기까지는 시간이 좀 걸릴 것 같습니다.</Text>
+		</Row>
+		<!--AI Requests friendship from human-->
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_GEDEMO_WUZETIAN_ANY" Language="zh_Hans_CN">
+			<Text>당신과의 우호를 원합니다. 현명하게 생각해주세요. 우호를 거절한 이들에게 무슨 일이 일어났는지는 들었을거라 생각합니다.</Text>
+		</Row>
+		<!--Human accepts AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_GEDEMO_WUZETIAN_ANY" Language="zh_Hans_CN">
+			<Text>현명한 결정이에요.</Text>
+		</Row>
+		<!--Human rejects AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_GEDEMO_WUZETIAN_ANY" Language="zh_Hans_CN">
+			<Text>어리석네요. 당신을 이것을 후회하게 될 거에요.</Text>
+		</Row>
+		<!--ALLIANCE-->
+		<!--AI Requests an alliance from human-->
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_GEDEMO_WUZETIAN_ANY" Language="zh_Hans_CN">
+			<Text>우리의 유대관계를 강화합시다. 세상은 우리의 동맹아래 산산조각 날 것입니다.</Text>
+		</Row>
+		<!--KUDOS & WARNINGS-->
+		<!--AI Kudos-->
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_GEDEMO_WUZETIAN_ANY" Language="zh_Hans_CN">
+			<Text>당신의 신앙에 대한 헌신은 존경스러워요. 다른 이들이 저대신 따르는 것을 보니 기쁘군요.</Text>
+		</Row>
+		<!--AI Warnings-->
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_GEDEMO_WUZETIAN_ANY" Language="zh_Hans_CN">
+			<Text>왜 위대한 인재들을 당신네 땅으로 데려가려 하는거죠? 그들은 이 위대한 측천무후 궁정에 속해있어요.</Text>
+		</Row>
+		<!--AI warns player for border troops-->
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_GEDEMO_WUZETIAN_ANY" Language="zh_Hans_CN">
+			<Text>당신은 지금 불장난을 하고 있어요. 당장 병력을 철수시키세요.</Text>
+		</Row>
+		<!--TRADE-->
+		<!--AI Accepts Deal-->
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_GEDEMO_WUZETIAN_ANY" Language="zh_Hans_CN">
+			<Text>{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_GEDEMO_WUZETIAN_ANY}</Text>
+		</Row>
+		<!--AI Rejects Deal-->
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_GEDEMO_WUZETIAN_ANY" Language="zh_Hans_CN">
+			<Text>{LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_GEDEMO_WUZETIAN_ANY}</Text>
+		</Row>
+		<!--DENOUNCE-->
+		<!--From Human-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_GEDEMO_WUZETIAN_ANY" Language="zh_Hans_CN">
+			<Text>내가 자비롭다면 당신은 이를 후회하게 될 거에요(당신을 비난합니다).</Text>
+		</Row>
+		<!--From AI-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_GEDEMO_WUZETIAN_ANY" Language="zh_Hans_CN">
+			<Text>당신은 나의 길을 너무 많이 지났어요(당신을 비난합니다).</Text>
+		</Row>
+		<!--DECLARE WAR-->
+		<!--Human Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_GEDEMO_WUZETIAN_ANY" Language="zh_Hans_CN">
+			<Text>당신이 처음 시작한 것을 칭찬해요. 당신의 마지막은 내가 장식할 거에요.</Text>
+		</Row>
+		<!--AI Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_GEDEMO_WUZETIAN_ANY" Language="zh_Hans_CN">
+			<Text>나는 이런 기회를 놓쳐서 제 자리에 오르지 못했습니다. 힘을 얻기 위해 죽을때까지 권력을 행사할 겁니다.</Text>
+		</Row>
+		<!--MAKE PEACE-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_GEDEMO_WUZETIAN_ANY" Language="zh_Hans_CN">
+			<Text>당분간은 평화에 동의할 수 있습니다.</Text>
+		</Row>
+		<!--AI refuses human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_GEDEMO_WUZETIAN_ANY" Language="zh_Hans_CN">
+			<Text>내가 그냥 무기를 내려놓을 것 같아요? 당신을 뭉개버릴 거에요!</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_GEDEMO_WUZETIAN_ANY" Language="zh_Hans_CN">
+			<Text>지속할 수 있는 기간동안은 이 평화 제의를 받아들일게요.</Text>
+		</Row>
+		<!--DEFEAT-->
+		<!--AI is Defeated-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_GEDEMO_WUZETIAN_ANY" Language="zh_Hans_CN">
+			<Text>당신은 교활하고 유능한 적수가 맞군요. 당신의 승리를 축하해요.</Text>
+		</Row>
+		<!--Human is Defeated (will see this in hotseat)-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_GEDEMO_WUZETIAN_ANY" Language="zh_Hans_CN">
+			<Text>[LOC_DIPLO_DEFEAT_FROM_AI_LEADER_GEDEMO_WUZETIAN_ANY]</Text>
+		</Row>
+
+		<Row Tag="LOC_AGENDA_GEDEMO_WUZETIAN_NAME" Language="zh_Hans_CN">
+			<Text>귀중한 영광의 모음</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_GEDEMO_WUZETIAN_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>가능한 한 많은 걸작을 모으려고 노력하고, 그것을 그녀에게 남기는 사람들을 좋아합니다. 걸작이 많은 문명을 싫어합니다.</Text>
+		</Row>
+
+		<Row Tag="LOC_ABILITY_CHUKONUATTACK_NAME" Language="zh_Hans_CN">
+			<Text>연노 능력</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_CHUKONUATTACK_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>두 번 공격 가능.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_GEDEMO_PAPERMAKER_NAME" Language="zh_Hans_CN">
+			<Text>제지소</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_GEDEMO_PAPERMAKER_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>그 무엇도 대체할 수 없는 측천무후의 독특한 건물입니다. 기념비와 상호 배타적이며 +2 [ICON_SCIENCE] 과학을 제공합니다.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_BUILDING_GEDEMO_PAPERMAKER_NAME" Language="zh_Hans_CN">
+			<Text>측천무후의 고유 빌딩 : 제지소</Text>
+		</Row>
+
+		<Row Tag="LOC_UNIT_GEDEMO_CHUKONU_NAME" Language="zh_Hans_CN">
+			<Text>연노</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_GEDEMO_CHUKONU_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>석궁병을 대체하는 측천무후의 고유 유닛입니다. 더 비싼 이유는 두 번 공격할 수 있기 때문입니다.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_UNIT_GEDEMO_CHUKONU_NAME" Language="zh_Hans_CN">
+			<Text>측천무후의 고유 유닛 : 연노</Text>
+		</Row>
+		
+	
+		<Row Tag="LOC_TRAIT_LEADER_GEDEMO_WUZETIAN_NAME" Language="en_US">
+			<Text>북문학자</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_GEDEMO_WUZETIAN_DESCRIPTION" Language="en_US">
+			<Text>[ICON_DISTRICT_THEATER] 극장가는 법전과 함께 이용할 수 있습니다. 측천무후는 고유 유닛인 연노와 고유 빌딩인 제지소가 있습니다. 궁전에는 4개의 추가적인 저서걸작 [ICON_GreatWork_Writing] 슬롯이 있습니다.</Text>
+		</Row>
+
+
+
+
+		<Row Tag="LOC_LEADER_GEDEMO_WUZETIAN" Language="en_US">
+			<Text>측천무후</Text>
+		</Row>
+		
+		<Row Tag="LOC_LOADING_INFO_LEADER_GEDEMO_WUZETIAN" Language="en_US">
+			<Text>하늘의 축복이 찾아옵니다. 중국의 가장 아름답고 도도한 통치자 측천무후! 그녀의 그림자로 인해 꽃이 만발하고 강은 흐릅니다! 그녀는 중국 인류 역사상 가장 오래되고 위대한 문명의 지도자입니다. 교활하고 아름다운 황후여, 천한 첩에서 황후의 지위에 오른 그대여, 대중국은 다시 야만인들에게 포위되었습니다. 당신은 적들을 물리치고 나라를 다시 위대하게 만들 수 있습니까? </Text>
+		</Row>
+		<!--Civilopedia-->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GEDEMO_WUZETIAN_TITLE" Language="en_US">
+			<Text>측천무후</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GEDEMO_WUZETIAN_SUBTITLE" Language="en_US">
+			<Text>황후</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GEDEMO_WUZETIAN_QUOTE" Language="en_US">
+			<Text>이 세상에서 당신이 살아남기를 원한다면, 뛰어난 전략은 일부분일 뿐입니다. 더 중요한 것은 인간본성에 대한 깊은 통찰력입니다.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GEDEMO_WUZETIAN_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>측천무후는 중국 역사상 유일한 황후였습니다. 그녀는 655년부터 705년까지 "신성한 최고의 황제"라는 이름으로 자신의 왕조, 주나라를 세웠습니다. 이 시대는 중국에서 여성들이 비교적 자유로운 시기였습니다. 소녀들은 그림,시,문학 예술뿐만 아니라 정치도 배울 수 있었습니다. 황후 또한 고전작품,회화,무용,음악,시 등을 접하였습니다. 황후는 큰 불상을 석굴에 새겼는데, 후에 이곳은 유명해졌고 유네스코 문화유산으로 등재되었습니다.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GEDEMO_WUZETIAN_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>끊임없는 야망과 강한 기질을 가진 군벌이었던 그녀는 수십 년 간 당나라를 통치하였습니다. 측천무후는 견고한 수도인 시안에서 통치하며 번영하게 하였고, 실크로드 무역을 발전시켜 중국을 세련된 문명국이자 상업 강국으로 만드는데 기여하였습니다. 황후는 분명 선도적인 여성이었지만 그녀가 권력을 잡을 수 있었던 매혹적인 면을 간과해서는 안됩니다. 당시의 여성들은 미를 위한 모든 것, 특히 화장품과 향수를 사용하였습니다. 궁전과 집무실은 향기가 가득했으며 디퓨저로 황제와 황후의 모든 방에서도 향이 나게했습니다. 당시 가장 귀한 향은 베트남에서 나는 우드,윈난에서 나는 장미,구이린에서 나는 자스민과 구골나무,히말라야에서 나는 사향, 바다에서 온 용연향 등이었습니다. 당시 향수 가루를 만드는 일을 매우 정교한 작업이었습니다. 예를 들어 "건조된" 아이리스 가루는 매일 아침 수백 송이의 꽃을 따고, 용설란 가루에서 향기를 채취하는 고된 작업이었습니다. 이 작업을 20일간하여 매우 정제된 아이리스 가루와 용설란 향수를 얻을 수 있습니다. 이 가루는 마치 목욕 후 활석 가루를 바르는 것처럼 얼굴과 몸을 하얗게 하는데 사용되었고 옷에서 향기가 나게 하였습니다.</Text>
+		</Row>
+
+
+
+ 
+		
+		
+		
+		
+		<!--Diplomacy-->
+		<!--FIRST MEET-->
+		<!--First AI line-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_GEDEMO_WUZETIAN_ANY" Language="en_US">
+			<Text>안녕하세요. 저는 측천무후입니다. 중국은 평화와 발전을 바랍니다. 우릴 건들지 않으면 우리도 당신을 건들지 않을 것입니다.</Text>
+		</Row>
+		<!--AI invitation to visit nearby City-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_GEDEMO_WUZETIAN_ANY" Language="en_US">
+			<Text>번영하는 우리 땅으로 오세요. 우리는 두 팔 벌려 환영할 것입니다.</Text>
+		</Row>
+		<!--AI accepts Human invitation-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_GEDEMO_WUZETIAN_ANY" Language="en_US">
+			<Text>가장 확실해요.</Text>
+		</Row>
+		<!--AI invitation to exchange Capital Information-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_GEDEMO_WUZETIAN_ANY" Language="en_US">
+			<Text>수도의 정보에 대한 세부 사항을 교환합시다.</Text>
+		</Row>
+		<!--GREETINGS-->
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_GEDEMO_WUZETIAN_ANY" Language="en_US">
+			<Text>니 하오! (인사)</Text>
+		</Row>
+		<!--DELEGATION-->
+		<!--AI Accepts-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_GEDEMO_WUZETIAN_ANY" Language="en_US">
+			<Text>우리는 당신의 사절단을 맞이하게 되어 영광입니다.</Text>
+		</Row>
+		<!--AI Rejects-->
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_GEDEMO_WUZETIAN_ANY" Language="en_US">
+			<Text>지금은 당신의 사절단을 환영하지 않습니다.</Text>
+		</Row>
+		<!--AI Requests -->
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_GEDEMO_WUZETIAN_ANY" Language="en_US">
+			<Text>당신에게 대표단을 파견하겠습니다. 우리의 훌륭한 설교자들과 선교사님들, 그리고 최근 수확한 농작물들을 받아주시기 바랍니다.</Text>
+		</Row>
+		<!--OPEN BORDERS-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_GEDEMO_WUZETIAN_ANY" Language="en_US">
+			<Text>매우 감사합니다.</Text>
+		</Row>
+		<!--AI rejects from human-->
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_GEDEMO_WUZETIAN_ANY" Language="en_US">
+			<Text>내가 바보인 줄 아세요?</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_GEDEMO_WUZETIAN_ANY" Language="en_US">
+			<Text>허락해주신다면 우리는 당신의 땅을 지나가고 싶습니다.</Text>
+		</Row>
+		<!--DECLARE FRIENDSHIP-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_GEDEMO_WUZETIAN_ANY" Language="en_US">
+			<Text>이 정도면 괘찮은 것 같아요.</Text>
+		</Row>
+		<!--AI Rejects from human -->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_GEDEMO_WUZETIAN_ANY" Language="en_US">
+			<Text>제가 당신을 친구라고 부르기까지는 시간이 좀 걸릴 것 같습니다.</Text>
+		</Row>
+		<!--AI Requests friendship from human-->
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_GEDEMO_WUZETIAN_ANY" Language="en_US">
+			<Text>당신과의 우호를 원해요. 현명하게 생각해주세요. 우호를 거절한 이들에게 무슨 일이 일어났는지는 들었을거라 생각합니다.</Text>
+		</Row>
+		<!--Human accepts AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_GEDEMO_WUZETIAN_ANY" Language="en_US">
+			<Text>현명한 결정이에요.</Text>
+		</Row>
+		<!--Human rejects AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_GEDEMO_WUZETIAN_ANY" Language="en_US">
+			<Text>어리석네요. 당신을 이것을 후회하게 될 거에요.</Text>
+		</Row>
+		<!--ALLIANCE-->
+		<!--AI Requests an alliance from human-->
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_GEDEMO_WUZETIAN_ANY" Language="en_US">
+			<Text>우리의 우호관계를 강화합시다. 세상은 우리의 동맹아래 산산조각 날 것입니다.</Text>
+		</Row>
+		<!--KUDOS & WARNINGS-->
+		<!--AI Kudos-->
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_GEDEMO_WUZETIAN_ANY" Language="en_US">
+			<Text>당신의 신앙에 대한 헌신은 존경스러워요. 다른 이들이 저대신 따르는 것을 보니 기쁘군요.</Text>
+		</Row>
+		<!--AI Warnings-->
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_GEDEMO_WUZETIAN_ANY" Language="en_US">
+			<Text>왜 위대한 인재들을 당신네 땅으로 데려가려 하는거죠? 그들은 이 위대한 측천무후 궁정에 속해있어요.</Text>
+		</Row>
+		<!--AI warns player for border troops-->
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_GEDEMO_WUZETIAN_ANY" Language="en_US">
+			<Text>당신은 지금 불장난을 하고 있어요. 당장 군대를 철수시키세요.</Text>
+		</Row>
+		<!--TRADE-->
+		<!--AI Accepts Deal-->
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_GEDEMO_WUZETIAN_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_GEDEMO_WUZETIAN_ANY}</Text>
+		</Row>
+		<!--AI Rejects Deal-->
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_GEDEMO_WUZETIAN_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_GEDEMO_WUZETIAN_ANY}</Text>
+		</Row>
+		<!--DENOUNCE-->
+		<!--From Human-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_GEDEMO_WUZETIAN_ANY" Language="en_US">
+			<Text>내가 자비롭다면 당신은 이를 후회하게 될 거에요(당신을 비난합니다).</Text>
+		</Row>
+		<!--From AI-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_GEDEMO_WUZETIAN_ANY" Language="en_US">
+			<Text>당신은 나의 길을 너무 많이 지났어요(당신을 비난합니다).</Text>
+		</Row>
+		<!--DECLARE WAR-->
+		<!--Human Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_GEDEMO_WUZETIAN_ANY" Language="en_US">
+			<Text>당신이 처음 시작한 것을 칭찬해요. 당신의 마지막은 내가 장식할 거에요.</Text>
+		</Row>
+		<!--AI Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_GEDEMO_WUZETIAN_ANY" Language="en_US">
+			<Text>나는 이런 기회를 놓쳐서 제 자리에 오르지 못했습니다. 힘을 얻기 위해 죽을때까지 권력을 행사할 겁니다.</Text>
+		</Row>
+		<!--MAKE PEACE-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_GEDEMO_WUZETIAN_ANY" Language="en_US">
+			<Text>당분간은 평화에 동의할 수 있습니다.</Text>
+		</Row>
+		<!--AI refuses human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_GEDEMO_WUZETIAN_ANY" Language="en_US">
+			<Text>내가 그냥 무기를 내려놓을 것 같아요? 당신을 뭉개버릴 거에요!</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_GEDEMO_WUZETIAN_ANY" Language="en_US">
+			<Text>지속할 수 있는 기간동안은 이 평화 제의를 받아들일게요.</Text>
+		</Row>
+		<!--DEFEAT-->
+		<!--AI is Defeated-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_GEDEMO_WUZETIAN_ANY" Language="en_US">
+			<Text>당신은 교활하고 유능한 적수가 맞군요. 당신의 승리를 축하해요.</Text>
+		</Row>
+		<!--Human is Defeated (will see this in hotseat)-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_GEDEMO_WUZETIAN_ANY" Language="en_US">
+			<Text>[LOC_DIPLO_DEFEAT_FROM_AI_LEADER_GEDEMO_WUZETIAN_ANY]</Text>
+		</Row>
+
+		
+
+
+		<Row Tag="LOC_AGENDA_GEDEMO_WUZETIAN_NAME" Language="en_US">
+			<Text>귀중한 영광의 모음</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_GEDEMO_WUZETIAN_DESCRIPTION" Language="en_US">
+			<Text>가능한 한 많은 걸작을 모으려고 노력하고, 그것을 그녀에게 넘겨주는 사람들을 좋아합니다. 걸작이 많은 문명을 싫어합니다.</Text>
+		</Row>
+
+
+
+
+
+
+
+
+		<Row Tag="LOC_ABILITY_CHUKONUATTACK_NAME" Language="en_US">
+			<Text>연노 능력</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_CHUKONUATTACK_DESCRIPTION" Language="en_US">
+			<Text>두 번 공격 가능.</Text>
+		</Row>
+
+		<Row Tag="LOC_ABILITY_CHUKONUATTACK_NAME" Language="fr_FR">
+			<Text>Chu Ko Nu</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_CHUKONUATTACK_DESCRIPTION" Language="fr_FR">
+			<Text>Peut attaquer 2 fois.</Text>
+		</Row>
+
+		<Row Tag="LOC_BUILDING_GEDEMO_PAPERMAKER_NAME" Language="en_US">
+			<Text>제지소</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_GEDEMO_PAPERMAKER_DESCRIPTION" Language="en_US">
+			<Text>그 무엇도 대체할 수 없는 측천무후의 독특한 건물입니다. 기념비와 상호 배타적이며 +2 [ICON_SCIENCE] 과학을 제공합니다.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_BUILDING_GEDEMO_PAPERMAKER_NAME" Language="en_US">
+			<Text>측천무후의 고유 건물 : 제지소</Text>
+		</Row>
+
+		<Row Tag="LOC_BUILDING_GEDEMO_PAPERMAKER_NAME" Language="fr_FR">
+			<Text>Fabrique de Papier</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_GEDEMO_PAPERMAKER_DESCRIPTION" Language="fr_FR">
+			<Text>Bâtiment Unique de Wu Zetian: Génère +2 [ICON_SCIENCE] et est mutuellement exclusif avec le Monument.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_BUILDING_GEDEMO_PAPERMAKER_NAME" Language="fr_FR">
+			<Text>Bâtiment unique de Wu Zetian: Fabrique de Papier</Text>
+		</Row>
+
+
+		<Row Tag="LOC_UNIT_GEDEMO_CHUKONU_NAME" Language="en_US">
+			<Text>연노</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_GEDEMO_CHUKONU_DESCRIPTION" Language="en_US">
+			<Text>석궁병을 대체하는 측천무후의 고유 유닛입니다. 더 비싼 이유는 두 번 공격할 수 있기 때문입니다.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_UNIT_GEDEMO_CHUKONU_NAME" Language="en_US">
+			<Text>측천무후의 고유 유닛 : 연노</Text>
+		</Row>
+
+		<Row Tag="LOC_UNIT_GEDEMO_CHUKONU_NAME" Language="fr_FR">
+			<Text>Chu-Ko-Nu|Chu-Ko-Nus</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1|2</Plurality>
+		</Row>
+		<Row Tag="LOC_UNIT_GEDEMO_CHUKONU_DESCRIPTION" Language="fr_FR">
+			<Text>Exclusive à Wu Zetian, cette unité remplace l'Arbaletrier. Cette Unité est plus chère mais peut attaquer 2 fois.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_UNIT_GEDEMO_CHUKONU_NAME" Language="fr_FR">
+			<Text>Unité exclusive à Wu Zetian: Chu-Ko-Nu</Text>
+		</Row>
+		
+		
+		
+		
+		
+		<Row Tag="LOC_AGENDA_GEDEMO_WUZETIAN_NAME" Language="fr_FR">
+			<Text>Collection de Gloires Précieuses</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_GEDEMO_WUZETIAN_DESCRIPTION" Language="fr_FR">
+			<Text>Essaie de collecter autant de grandes œuvres que possible, et aime ceux qui lui laissent. N'aime pas les civilisations avec de nombreuses grandes œuvres.</Text>
+		</Row>
+		
+
+
+		<Row Tag="LOC_TRAIT_LEADER_GEDEMO_WUZETIAN_NAME"  Language="fr_FR" >
+			<Text>North Gate Scholars</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_GEDEMO_WUZETIAN_DESCRIPTION"  Language="fr_FR" >
+			<Text>Le [ICON_DISTRICT_THEATER] Théatre est disponible avec la découverte du Code Juridique. Wu Zetian possède une Unité Unique le Chu-Ko-Nu et un Bâtiment Unique, la Fabrique de Papier. Son Palais possède 4 Emplacements additionnels pour des [ICON_GreatWork_Writing] Chefs-d'Oeuvre Littéraires.</Text>
+		</Row>
+
+
+		
+		
+		<Row Tag="LOC_LEADER_GEDEMO_WUZETIAN" Language="fr_FR">
+			<Text>Wu Zetian</Text>
+		</Row>
+		
+		<Row Tag="LOC_LOADING_INFO_LEADER_GEDEMO_WUZETIAN" Language="fr_FR">
+			<Text>Que les bénédictions du ciel soient sur vous. Impératrice Wu Zetian, vous êtes le plus beau et hautain souverain de Chine! Oh grande Impératrice, dont l'ombre fait fleurir les fleurs et fait couler les rivières! Vous êtes le dirigeant des Chinois, la plus ancienne et la plus grande civilisation que l'humanité ait jamais produite. L'histoire de la Chine remonte dans la nuit des temps, son peuple accomplissant beaucoup de grandes choses bien avant même la naissance des autres civilisations. Les contributions de la Chine aux arts et aux sciences sont trop nombreuses et trop merveilleuses pour en faire l'inventaire - l'imprimerie, la poudre à canon, les œuvres de Confucius - ce ne sont que quelques-uns des cadeaux que la Chine a faits à un monde qui ne le mérite pas!</Text>
+		</Row>
+
+		<!--Civilopedia french-->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GEDEMO_WUZETIAN_TITLE" Language="fr_FR">
+			<Text>Wu Zetian</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GEDEMO_WUZETIAN_SUBTITLE" Language="fr_FR">
+			<Text>Impératrice Régnante</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GEDEMO_WUZETIAN_QUOTE" Language="fr_FR">
+			<Text>Dans ce monde, si vous voulez gagner dans n'importe quelle compétition d'intérêts, la superbe stratégie n'en est qu'une partie. Le plus important ou le plus nécessaire est la connaissance approfondie de la nature humaine.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GEDEMO_WUZETIAN_CHAPTER_HISTORY_PARA_1" Language="fr_FR">
+			<Text>Wu Zetian, fut la seule impératrice régnante de toute l’histoire de Chine. Elle fonda sa propre dynastie, la dynastie Zhou, dont elle fut la seule monarque, sous le nom d’« empereur saint et suprême » de 655 à 705. Cette époque était une période relativement libre pour les femmes de Chine. La culture et l’éducation se transmettaient plus généreusement aux filles, lesquelles pouvaient alors se consacrer aux arts picturaux, poétiques, littéraires mais également à la politique. L’impératrice chinoise avait d’ailleurs été elle-même initiée aux œuvres classiques, à la peinture, la danse, la musique et à la poésie. Elle fit sculpter dans les grottes de Longmen, de grandes statues de bouddhas qui participeront par la suite à la renommée du lieu et furent classées au patrimoine de l’UNESCO.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GEDEMO_WUZETIAN_CHAPTER_HISTORY_PARA_2" Language="fr_FR">
+			<Text>Chef de guerre, dotée d’une ambition constante et d’un tempérament fort, elle régna des décennies sur la Chine des Tang. Wu Zetian gouverna de sa capitale Xian, un état solide, prospère et contribuera à faire de la Chine, une civilisation raffinée et une puissance commerciale en développant les échanges sur la route de la soie.  L’Impératrice fut certes une femme de tête, mais il ne faudrait pas négliger la dimension séductrice qui lui permit de gravir les échelons du pouvoir. Une femme de cette époque devait en effet user de tous les artifices de la beauté et notamment des cosmétiques et des parfums. N’oublions pas non plus le cadre de vie : le palais était chauffé par des émanations parfumées, les bureaux étaient également chauffés et parfumés, les brûle parfums permettaient d'aromatiser chaque pièce, jusqu'à la couche des empereurs et impératrices. En ce temps-là, les parfums les plus précieux : oud du Viet Nam, rose du Yunnan, jasmin et osmanthus de Guilin, musc de l’Himalaya, ambre maritime sont prisés et coûtent fort cher. À cette époque les pratiques sont d’un raffinement extrême comme l'enfleurage "à sec" de la poudre d'Iris avec la tubéreuse : chaque matin on cueille des centaines de fleurs et on y introduit de la poudre d'ris qui capte l'odeur de la tubéreuse. En renouvelant l'opération durant une vingtaine de jours on dispose d'une poudre d'Iris hautement saturée en parfum de tubéreuse. Cette poudre est utilisée par l'Impératrice pour se blanchir le visage et le corps, comme talc après le bain, pour parfumer ses habits...</Text>
+		</Row>
+
+
+
+		
+		
+		
+		<!--Diplomacy french-->
+		<!--FIRST MEET french-->
+		<!--First AI line french-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_GEDEMO_WUZETIAN_ANY" Language="fr_FR">
+			<Text>Salutations, je suis l'impératrice Wu Zetian. La Chine souhaite la paix et le développement. Vous nous laissez seuls, nous vous laisserons seuls.</Text>
+		</Row>
+		<!--AI invitation to visit nearby City french-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_GEDEMO_WUZETIAN_ANY" Language="fr_FR">
+			<Text>Bienvenue étranger! As-tu déjà visité notre grand pays?</Text>
+		</Row>
+		<!--AI accepts Human invitation french-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_GEDEMO_WUZETIAN_ANY" Language="fr_FR">
+			<Text>je te remercie.</Text>
+		</Row>
+		<!--AI invitation to exchange Capital Information french -->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_GEDEMO_WUZETIAN_ANY" Language="fr_FR">
+			<Text>Mon ministre des Affaires Etrangères vous invite à échanger des informations sur nos capitales respectives.</Text>
+		</Row>
+		<!--GREETINGS french-->
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_GEDEMO_WUZETIAN_ANY" Language="fr_FR">
+			<Text>Nǐ hǎo (Salutations)!</Text>
+		</Row>
+		<!--DELEGATION french-->
+		<!--AI Accepts french-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_GEDEMO_WUZETIAN_ANY" Language="fr_FR">
+			<Text>C'est avec privilège que nous accueillons votre délégation.</Text>
+		</Row>
+		<!--AI Rejects french-->
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_GEDEMO_WUZETIAN_ANY" Language="fr_FR">
+			<Text>Non, malheureusement.</Text>
+		</Row>
+		<!--AI Requests french-->
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_GEDEMO_WUZETIAN_ANY" Language="fr_FR">
+			<Text>Je vous envoie une délégation de prêcheurs et autres missionnaires. Quelques récoltes de la précédente moisson les accompagnent.</Text>
+		</Row>
+		<!--OPEN BORDERS french-->
+		<!--AI accepts from human french-->
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_GEDEMO_WUZETIAN_ANY" Language="fr_FR">
+			<Text>C'est avec plaisir que j'ouvre mes frontières à vos unités.</Text>
+		</Row>
+		<!--AI rejects from human french-->
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_GEDEMO_WUZETIAN_ANY" Language="fr_FR">
+			<Text>Je ne suis pas intéressés pour l'instant.</Text>
+		</Row>
+		<!--AI requests from human french-->
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_GEDEMO_WUZETIAN_ANY" Language="fr_FR">
+			<Text>Cela nous serait trés agréable si vous permettiez à nos unités de traverser votre territoire?</Text>
+		</Row>
+		<!--DECLARE FRIENDSHIP french-->
+		<!--AI accepts from human french-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_GEDEMO_WUZETIAN_ANY" Language="fr_FR">
+			<Text>J'accepte de declarer publiquement notre amitié.</Text>
+		</Row>
+		<!--AI Rejects from human french-->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_GEDEMO_WUZETIAN_ANY" Language="fr_FR">
+			<Text>Je n'ai pas envie d'afficher notre amitié pour le moment.</Text>
+		</Row>
+		<!--AI Requests friendship from human french-->
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_GEDEMO_WUZETIAN_ANY" Language="fr_FR">
+			<Text>Cela serait dans votre interet que d'accepter cette proposition d'amitié.</Text>
+		</Row>
+		<!--Human accepts AI requests, AI responds french-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_GEDEMO_WUZETIAN_ANY" Language="fr_FR">
+			<Text>Je vous remercie.</Text>
+		</Row>
+		<!--Human rejects AI requests, AI responds french-->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_GEDEMO_WUZETIAN_ANY" Language="fr_FR">
+			<Text>C'est dommageable.</Text>
+		</Row>
+		<!--ALLIANCE-->
+		<!--AI Requests an alliance from human french-->
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_GEDEMO_WUZETIAN_ANY" Language="fr_FR">
+			<Text>Aimerais-tu former une alliance avec la Chine Eternelle?</Text>
+		</Row>
+		<!--KUDOS & WARNINGS french-->
+		<!--AI Kudos-->
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_GEDEMO_WUZETIAN_ANY" Language="fr_FR">
+			<Text>Quelles prouesses!</Text>
+		</Row>
+		<!--AI Warnings french-->
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_GEDEMO_WUZETIAN_ANY" Language="fr_FR">
+			<Text>Les grands esprits sont destinés à l'Empire du Milieu.</Text>
+		</Row>
+		<!--AI warns player for border troops french-->
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_GEDEMO_WUZETIAN_ANY" Language="fr_FR">
+			<Text>Vous jouez là avec le feu, rappelez vos troupes immédiatement!</Text>
+		</Row>
+		<!--TRADE french-->
+		<!--AI Accepts Deal french-->
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_GEDEMO_WUZETIAN_ANY" Language="fr_FR">
+			<Text>{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_GEDEMO_WUZETIAN_ANY}</Text>
+		</Row>
+		<!--AI Rejects Deal french-->
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_GEDEMO_WUZETIAN_ANY" Language="fr_FR">
+			<Text>{LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_GEDEMO_WUZETIAN_ANY}</Text>
+		</Row>
+		<!--DENOUNCE french-->
+		<!--From Human french-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_GEDEMO_WUZETIAN_ANY" Language="fr_FR">
+			<Text>Vous allez regretter tout cela! (Dénonciation).</Text>
+		</Row>
+		<!--From AI french-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_GEDEMO_WUZETIAN_ANY" Language="fr_FR">
+			<Text>Vous complotez dans mon dos. Soyez assuré que je vais prevenir les autres! (Dénonciation).</Text>
+		</Row>
+		<!--DECLARE WAR french-->
+		<!--Human Declares War french-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_GEDEMO_WUZETIAN_ANY" Language="fr_FR">
+			<Text>Je vous en prie, faites le premier mouvement, je m'assurerais que cela soit aussi le dernier!</Text>
+		</Row>
+		<!--AI Declares War french-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_GEDEMO_WUZETIAN_ANY" Language="fr_FR">
+			<Text>Je n'ai pas atteint ma position aujourd'hui en laissant passer des opportunités pareilles! Et je continuerais jusqu'à ma mort!</Text>
+		</Row>
+		<!--MAKE PEACE french-->
+		<!--AI accepts from human french-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_GEDEMO_WUZETIAN_ANY" Language="fr_FR">
+			<Text>Nous acceptons de faire la paix, pour l'instant.</Text>
+		</Row>
+		<!--AI refuses human french-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_GEDEMO_WUZETIAN_ANY" Language="fr_FR">
+			<Text>Naturellement non. j'ai bien l'intention de vous écraser!</Text>
+		</Row>
+		<!--AI requests from human french-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_GEDEMO_WUZETIAN_ANY" Language="fr_FR">
+			<Text>Je te propose une trève, mais cette offre à une durée limitée...</Text>
+		</Row>
+		<!--DEFEAT french-->
+		<!--AI is Defeated french-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_GEDEMO_WUZETIAN_ANY" Language="fr_FR">
+			<Text>Vous vous êtes avéré être un adversaire rusé et compétent. Je vous félicite pour votre victoire.</Text>
+		</Row>
+		<!--Human is Defeated (will see this in hotseat) french-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_GEDEMO_WUZETIAN_ANY" Language="fr_FR">
+			<Text>[LOC_DIPLO_DEFEAT_FROM_AI_LEADER_GEDEMO_WUZETIAN_ANY]</Text>
+		</Row>
+
+		
+
+	
+
+		
+
+		
+	</LocalizedText>
+</GameData>

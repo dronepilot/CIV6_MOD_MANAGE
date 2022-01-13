@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- GameData1 -->
+<!-- Author: user -->
+<!-- DateCreated: 2/16/2018 11:22:33 AM -->
+<GameData>
+	<MomentIllustrations>
+		<!-- Units -->
+		<Row MomentIllustrationType="MOMENT_ILLUSTRATION_UNIQUE_UNIT" MomentDataType="MOMENT_DATA_UNIT" GameDataType="UNIT_GEDEMO_CHUKONU" Texture="HistoricMomentChukonu.dds"/>
+
+		<Row MomentIllustrationType="MOMENT_ILLUSTRATION_UNIQUE_BUILDING" MomentDataType="MOMENT_DATA_BUILDING" GameDataType="BUILDING_GEDEMO_PAPERMAKER" Texture="HistoricMomentPapermaker.dds"/>
+	</MomentIllustrations>
+</GameData>

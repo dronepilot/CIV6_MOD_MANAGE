@@ -45,6 +45,7 @@ Merrick's Flanders - 티에리 : 플랑드르
 Merrick's Joan (Flanders) - 조안 : 플랑드르 
 [GS] Ryukyu Kingdom - 쇼신 왕 : 류큐 문명
 Republic of Belarus Lukashenko -루카셴코 벨라루스 : 벨라루스
+Sukritact's Vercingetorix (Gaul)- 베스킨게토릭스 : 갈리아
 =========================================
 =========================================
 * Leader, Civilization Mode
@@ -88,10 +89,9 @@ Radiant Samurais - 사무라이 진급 기능 바뀌구 진급 아니콘도 변�
 auto build roads with units - 건설자,공병이 자동으로 길 생성 (아직 검증 안됨)
 Envoy Quest List (검증안됨)
 Right Click Close Leader 
-
 Sukritact's Oceans - 바다에 자원 추가 (한글화가 안됨..)
-More Maritime: Seaside Sectors - 해안 특수지구 2개 추가! 워터프론트 방파제 산책로 해군기지 
-Better Rome
+More Maritime: Seaside Sectors - 바다에 특수지구 2개 추가 모드 
+Better Rome - 로마 리메이크 
 
 
 =========================================

@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+		<!--MOD-->
+		<Row Tag="LOC_MOD_JFD_WALES_LLYWELYN_DESCRIPTION" Language="en_US">
+			<Text>[NEWLINE][NEWLINE]------------------------------------[NEWLINE]지도자 -- 흐루웰린[NEWLINE][NEWLINE]특성 -- 아베르더피 공의회[NEWLINE]우호적인 영토 내에서 카이르 완공 시 인접 타일에 문화 폭탄을 투여합니다. 주둔군이 위치한 카이르가 턴마다 [ICON_ENVOY]영향력 +2를 제공합니다.[NEWLINE][NEWLINE]아젠다 - 토치우스 노르월리 프린쳅스[NEWLINE]도시의 방어를 강화하길 좋아하며, 자신과 같은 일을 하는 문명을 좋아합니다. 같은 도시국가를 두고 경쟁하는 문명을 싫어합니다.</Text>
+		</Row>
+		<!--LEADER-->
+		<Row Tag="LOC_LEADER_JFD_LLYWELYN_NAME" Language="en_US">
+			<Text>흐루웰린</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JFD_ABERGWYNGREGYN" Language="en_US">
+			<Text>아베르군그헤군</Text>
+		</Row>
+		<!--Agenda-->
+		<Row Tag="LOC_AGENDA_JFD_PRINCE_WALES_NAME" Language="en_US">
+			<Text>토치우스 노르월리 프린쳅스</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_JFD_PRINCE_WALES_DESCRIPTION" Language="en_US">
+			<Text>도시의 방어를 강화하길 좋아하며, 자신과 같은 일을 하는 문명을 좋아합니다. 같은 도시국가를 두고 경쟁하는 문명을 싫어합니다.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_JFD_PRINCE_WALES_REASON_COMPETING_MINORS" Language="en_US">
+			<Text>(당신은 도시국가를 두고 경쟁하고 있습니다.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_AGENDA_JFD_PRINCE_WALES_COMPETING_MINORS" Language="en_US">
+			<Text>흐루웰린은 자신의 정치적 야망에 대한 당신의 간섭에 화가 났습니다.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_JFD_PRINCE_WALES_REASON_HAS_CASTLES" Language="en_US">
+			<Text>(당신은 더 나은 성을 위해 연구하고 있습니다.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_AGENDA_JFD_PRINCE_WALES_HAS_CASTLES" Language="en_US">
+			<Text>흐루웰린은 당신의 뛰어난 성을 보고서 감명을 받았습니다.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_JFD_PRINCE_WALES_REASON_HAS_MASONRY" Language="en_US">
+			<Text>(당신은 석조 기술을 발전시키기 위해 연구하고 있습니다.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_AGENDA_JFD_PRINCE_WALES_HAS_MASONRY" Language="en_US">
+			<Text>흐루웰린은 당신의 놀라운 성벽을 보고서 감명을 받았습니다.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_JFD_PRINCE_WALES_REASON_HAS_SIEGE_TACTICS" Language="en_US">
+			<Text>(당신은 보다 뛰어난 공성 전략에 대해 연구하고 있습니다.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_AGENDA_JFD_PRINCE_WALES_HAS_SIEGE_TACTICS" Language="en_US">
+			<Text>흐루웰린은 당신의 위대한 요새를 보고서 감명을 받았습니다.</Text>
+		</Row>
+		<!--DOM-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_JFD_LLYWELYN" Language="en_US">
+			<Text>흐루웰린 압 이오웨르스시여, 지금의 세상은 분열되었으나, 그렇기에 이곳엔 희망이 아직 남아있습니다. 동맹을 중개하고 법들을 엮어내시길, 분명 당신은 이 기회를 헛되이 보내선 안 된다는 것을 알고 있으실 것입니다. 사람들을 불러모으고 앞으로 나아가 우위를 점하십시오. 어서 나아가십시오, 귀네드의 군주이자, 웨일스의 군주시여.</Text>
+		</Row>
+		<!--Traits-->
+		<Row Tag="LOC_TRAIT_LEADER_JFD_COUNCIL_ABERDYFI_NAME" Language="en_US">
+			<Text>아베르더피 공의회</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_JFD_COUNCIL_ABERDYFI_DESCRIPTION" Language="en_US">
+			<Text>우호적인 영토 내에서 카이르 완공 시 인접 타일에 문화 폭탄을 투여합니다. 주둔군이 위치한 카이르가 턴마다 [ICON_ENVOY]영향력 +2를 제공합니다.</Text>
+		</Row>
+		<!--Civilopedia-->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_LLYWELYN_TITLE" Language="en_US">
+			<Text>흐루웰린</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_LLYWELYN_SUBTITLE" Language="en_US">
+			<Text>귀네드의 군주</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_LLYWELYN_QUOTE" Language="en_US">
+			<Text>나라의 군주.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_LLYWELYN_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Llywelyn Ap Iorwerth, byname Llywelyn The Great, (died April 11, 1240, Aberconway, Gwynedd, Wales), was a Welsh prince; the most outstanding native ruler to appear in Wales before the region came under English rule in 1283.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_LLYWELYN_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Llywelyn was the grandson of Owain Gwynedd (d. 1170), a powerful ruler of Gwynedd in northern Wales. While still a child, Llywelyn was exiled by his uncle, David. He deposed David in 1194 and by 1202 had brought most of northern Wales under his control. In 1205 he married Joan, the illegitimate daughter of England’s King John (reigned 1199–1216). Nevertheless, when Llywelyn’s attempts to extend his authority into southern Wales threatened English possessions, John invaded Wales (1211) and overran most of Gwynedd. The prince soon won back his lands. He secured his position by allying with John’s powerful baronial opponents, and his actions helped the barons influence the king’s signing of Magna Carta (1215).</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_LLYWELYN_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>Two years after the accession of King Henry III (reigned 1216–72), the English acknowledged that Llywelyn controlled almost all of Wales, but by 1223 they had forced him to withdraw to the north behind a boundary between Cardigan, Dyfed, and Builth, Powys. Many Welsh princes in the south, however, still accepted his overlordship. In his last years the aged Llywelyn turned his government over to his son David (prince of Gwynedd). When Llywelyn died, a chronicler described him as prince of Wales, which he was in fact, if not in law.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_LLYWELYN_CHAPTER_CAPSULE_BODY" Language="en_US">
+			<Text>Honoured with fine prose, Llywelyn exerts a position of strength and influence from behind his fortresses.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_LLYWELYN_CHAPTER_DETAILED_BODY" Language="en_US">
+			<Text>With their UA "The Mabinogion" and the Caer unique districts, Wales defends her lands through both verse and mighty castles. From this impregnable position, Llywelyn's "Council of Aberdyfi" ability enables him to grow his influence over his neighbours, allowing him in particular to pursue any domination or cultural victories.</Text>
+		</Row>
+		<!--Diplomacy-->
+		<!--FIRST MEET-->
+		<!--First AI line-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_JFD_LLYWELYN_ANY" Language="en_US">
+			<Text>안녕하세요. 나는 흐루웰린 압 요르웨르스, 간단히 흐루웰린 바우르라고 부르시오. 나는 강한 군대와 천혜의 자연을 이용해 웨일스를 정복했소. 당신은 누구시오?</Text>
+		</Row>
+		<!--AI invitation to visit nearby City-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_JFD_LLYWELYN_ANY" Language="en_US">
+			<Text>근방에 있는 나의 도시를 방문해 보시겠소? 극진히 대접하리다.</Text>
+		</Row>
+		<!--AI accepts Human invitation-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_JFD_LLYWELYN_ANY" Language="en_US">
+			<Text>당신의 제안에 동의합니다.</Text>
+		</Row>
+		<!--AI invitation to exchange Capital Information-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_JFD_LLYWELYN_ANY" Language="en_US">
+			<Text>서로 수도의 위치를 공유하는 것은 우호를 발전시키기 위해 필요합니다. 괜찮으시다면 정보를 공유 부탁드립니다.</Text>
+		</Row>
+		<!--GREETINGS-->
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_JFD_LLYWELYN_ANY" Language="en_US">
+			<Text>나에게서 무엇을 원하시오?</Text>
+		</Row>
+		<!--DELEGATION-->
+		<!--AI Accepts-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_JFD_LLYWELYN_ANY" Language="en_US">
+			<Text>좋소. 받아들이겠소.</Text>
+		</Row>
+		<!--AI Rejects-->
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_JFD_LLYWELYN_ANY" Language="en_US">
+			<Text>서로의 우호를 발전시키기 위해 내가 전적으로 동의한다는 것은 이해하실 겁니다. 하지만 아직 당신을 완전히 믿을 수가 없군요. 당신의 대표단을 받아들일 수 없습니다. </Text>
+		</Row>
+		<!--AI Requests -->
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_JFD_LLYWELYN_ANY" Language="en_US">
+			<Text>신선한 재료로 웨일스 요리를 대접할 뛰어난 요리사들을 대표단과 함께 당신의 왕국으로 보냈습니다. 뒤따르는 이들은 제 왕국에서 가장 뛰어난 시인들과 연설가들입니다. 당신에게 해를 가하지 않을 자들이니 잘 대접해 주시기를 바랍니다. 만일 당신이 이 결정에 대해 분노를 느낀다면 그들을 벌하지 마십시오. 그들은 제 소중한 백성들입니다.</Text>
+		</Row>
+		<!--OPEN BORDERS-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_JFD_LLYWELYN_ANY" Language="en_US">
+			<Text>아주 좋소.</Text>
+		</Row>
+		<!--AI rejects from human-->
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_JFD_LLYWELYN_ANY" Language="en_US">
+			<Text>미안하지만, 거절하겠습니다.</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_JFD_LLYWELYN_ANY" Language="en_US">
+			<Text>우리 백성들에게 국경을 열어주길 바랍니다. 당신의 왕국을 방문하는 것은 그들에게 큰 기쁨이 될 것입니다. 저의 제안을 받아주시겠습니까?</Text>
+		</Row>
+		<!--DECLARE FRIENDSHIP-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_JFD_LLYWELYN_ANY" Language="en_US">
+			<Text>당연합니다! </Text>
+		</Row>
+		<!--AI Rejects from human -->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_JFD_LLYWELYN_ANY" Language="en_US">
+			<Text>미안하지만 이 제안을 받아들일 수 없습니다. 개인적인 사정은 아니니 염려 마십시오.</Text>
+		</Row>
+		<!--AI Requests friendship from human-->
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_JFD_LLYWELYN_ANY" Language="en_US">
+			<Text>나는 우호관계를 맺는 것이 통치자들 사이에서만 좋은 거라고 생각치 않습니다. 우리 시민들은 더 안전하게 느낄 것이며 거래를 더 쉽게 하고 여행도 자유롭게 다닐 것입니다. 이는 우리가 평화로 가는 첫 걸음입니다. 제안을 받아주시겠습니까?</Text>
+		</Row>
+		<!--Human accepts AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_JFD_LLYWELYN_ANY" Language="en_US">
+			<Text>매우 감사합니다! 저를 매우 행복하게 해주시는군요.</Text>
+		</Row>
+		<!--Human rejects AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_JFD_LLYWELYN_ANY" Language="en_US">
+			<Text>...어째서? 어째서 이 제안을 거부하는 겁니까? 어차피 벌어진 일이긴 하지만...</Text>
+		</Row>
+		<!--ALLIANCE-->
+		<!--AI Requests an alliance from human-->
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_JFD_LLYWELYN_ANY" Language="en_US">
+			<Text>동맹을 제안하고 싶습니다. 이는 우리에게 도움이 될 것입니다. 동맹으로서 세계를 함께 정복해 나갑시다! 제 진심어린 제안입니다. 동의하지 않을 이유가 없지 않습니까?</Text>
+		</Row>
+		<!--KUDOS & WARNINGS-->
+		<!--AI Kudos-->
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_JFD_LLYWELYN_ANY" Language="en_US">
+			<Text>당신의 성벽의 힘으로 오랫동안 버틸 수 있을 거라 확신합니다.</Text>
+		</Row>
+		<!--AI Warnings-->
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_JFD_LLYWELYN_ANY" Language="en_US">
+			<Text>당신이 속하지 않은 일에 계속 간섭한다면 당신은 빠르게 적을 만들 것입니다.</Text>
+		</Row>
+		<!--AI warns player for border troops-->
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_JFD_LLYWELYN_ANY" Language="en_US">
+			<Text>당신의 병사들이 내 땅을 향해 진군해 온다면 좋은 표적이 될 것입니다. 우리는 실수하지 않습니다. 군대를 물리시기를 바랍니다.</Text>
+		</Row>
+		<!--TRADE-->
+		<!--AI Accepts Deal-->
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_JFD_LLYWELYN_ANY" Language="en_US">
+			<Text>그 제안은 괜찮아 보이는군요. 받아들이겠습니다.</Text>
+		</Row>
+		<!--AI Rejects Deal-->
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_JFD_LLYWELYN_ANY" Language="en_US">
+			<Text>당신에게만 유리해 보이는 제안은 받아들일 수 없습니다. 입장바꿔서 생각해보고 거래를 제안해주시오. </Text>
+		</Row>
+		<!--DENOUNCE-->
+		<!--From Human-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_JFD_LLYWELYN_ANY" Language="en_US">
+			<Text>그렇군요. 가만히 있지 않겠습니다.</Text>
+		</Row>
+		<!--From AI-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_JFD_LLYWELYN_ANY" Language="en_US">
+			<Text>저는 매너없는 사람을 좋아하지 않습니다. 하지만 이러한 상황에서 예외이군요. 당신은 내가 믿어온 것 이상으로 나의 신뢰를 배신하였습니다.웨일스의 이름으로 당신을 비난하겠소! (공개비난)</Text>
+		</Row>
+		<!--Rationale-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_JFD_PRINCE_WALES_COMPETING_MINORS" Language="en_US">
+			<Text>(당신은 같은 도시국가를 두고 경쟁하고 있습니다.)</Text>
+		</Row>
+		<!--DECLARE WAR-->
+		<!--Human Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_JFD_LLYWELYN_ANY" Language="en_US">
+			<Text>위험을 감수하는 것은 좋은 삶의 자세입니다. 하지만 때때로 감수하고 싶지 않은 위험들이 있습니가. 바로 지금이오.</Text>
+		</Row>
+		<!--AI Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_JFD_LLYWELYN_ANY" Language="en_US">
+			<Text>나는 일반적으로 장황한 설명을 늘어놓습니다만, 이번엔 직설적으로 말해야겠군요. 당신은 끔찍한 지도자입니다. 당신과의 전쟁을 선언합니다!  </Text>
+		</Row>
+		<!--MAKE PEACE-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_JFD_LLYWELYN_ANY" Language="en_US">
+			<Text>음, 좋은 거래군요.</Text>
+		</Row>
+		<!--AI refuses human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_JFD_LLYWELYN_ANY" Language="en_US">
+			<Text>곧 평화가 올 것입니다...당신이 죽을 때 평화가 오고 당신의 왕국은 내 것이 될 것이오!</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_JFD_LLYWELYN_ANY" Language="en_US">
+			<Text>왜 싸워야 합니까? 우리는 평화롭게 지내야합니다.</Text>
+		</Row>
+		<!--DEFEAT-->
+		<!--AI is Defeated-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_JFD_LLYWELYN_ANY" Language="en_US">
+			<Text>나를 물리치다니 대단한 솜씨군요...당신은 잘 싸웠습니다.</Text>
+		</Row>
+		<!--Human is Defeated (will see this in hotseat)-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_JFD_LLYWELYN_ANY" Language="en_US">
+			<Text>[LOC_DIPLO_DEFEAT_FROM_AI_LEADER_JFD_LLYWELYN_ANY]</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

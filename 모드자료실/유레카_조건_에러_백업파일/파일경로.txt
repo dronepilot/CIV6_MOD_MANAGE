@@ -1,0 +1,13 @@
+방금 수정해봤는데 일단 텍스트는 정상적으로 나오는 것을 확인했습니다.
+
+텍스트만 수정이라 게임 중 오류는 없을 듯 하지만 혹시 오류가 생긴다면 댓글 남겨주세요.
+
+​
+
+C:\Program Files (x86)\Steam\steamapps\common\Sid Meier's Civilization VI\Base\Assets\Text
+
+​
+
+위 폴더에 덮어쓰기 하시면 됩니다.
+
+기존 파일은 백업 해두시구요.
