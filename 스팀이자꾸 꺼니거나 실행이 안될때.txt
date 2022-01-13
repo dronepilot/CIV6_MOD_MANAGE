@@ -1,0 +1,6 @@
+겜이 자꾸 꺼지거나 실행이 안될 때 방법 
+
+2K 런처 안키고 바로 겜키는 방법
+스팀이면 라이브러리 우클릭 속성 고급설정탭에 스팀설치폴더 찾아서 
+"STEAM\steamapps\common\Sid Meier's Civilization VI\Base\Binaries\Win64Steam\CivilizationVI.exe" %command% 입력해
+글고 게임 무결성이나 그래픽카드 업데이트 해봐
