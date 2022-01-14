@@ -2,7 +2,7 @@
    한글화 https://cafe.naver.com/civilization4/275060
    문명 더 확장해서 재미있게 해줌
 
-2. real strategy
+2. real strategy - AI들이 정형화 된 행동에서 벗어남
    real eurekas
    real 시리즈 by infixo
 
@@ -11,3 +11,7 @@
 
 4. Steel and Thunder
   -- 이미 반영된걸로 보여서 보류중 
+
+batter balanced starts : AI, 플레이어와 공평한 영토에서 스타팅
+better balanced game : 문명 너프,버프 먹여서 밸런스 균형 맞추는 모드 
+
