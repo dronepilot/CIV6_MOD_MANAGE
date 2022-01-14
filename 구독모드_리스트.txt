@@ -93,6 +93,7 @@ Sukritact's Oceans - 바다에 자원 추가 (한글화가 안됨..)
 More Maritime: Seaside Sectors - 바다에 특수지구 2개 추가 모드 
 Better Rome - 로마 리메이크 
 Better Balanced Starts(BBS) - 스타팅 위치 좋게 해줌(도시간 간격,자원,문명특성 등)
+3x Slower Global Warming - 기후변화 3배 느리게하는 모드 
 
 
 =========================================
