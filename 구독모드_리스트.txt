@@ -44,8 +44,10 @@ Wales: Llywelyn - 흐루웰린 : 웨일스
 Merrick's Flanders - 티에리 : 플랑드르 
 Merrick's Joan (Flanders) - 조안 : 플랑드르 
 [GS] Ryukyu Kingdom - 쇼신 왕 : 류큐 문명
-Republic of Belarus Lukashenko -루카셴코 벨라루스 : 벨라루스
+Republic of Belarus Lukashenko -루카셴코 벨라루스 : 벨라루스 - 제외
 Sukritact's Vercingetorix (Gaul)- 베스킨게토릭스 : 갈리아
+Sukritact's Hadrian (Rome) - 하드리아누스 : 로마 
+CIVITAS Gajah Mada - 가자 마다 : 인도네시아 
 =========================================
 =========================================
 * Leader, Civilization Mode
@@ -119,6 +121,7 @@ Unique Improvement: Castrum (Rome) - 로마 요새를 이쁘게 해줌
 검사를 대체하는 로마 특유의 고전 시대 근접 유닛입니다. 카스트룸을 지을 수 있습니다. (로마 군단병을 말하는듯)
 Tsunami Waves: Lite Version - 살아있는 파도 라이트 버전
 CIVILIZATION VI: KINKAKU-JI - 금각사 불가사의 추가 
+Sukritact's Fuji- 후지산 원더(자연경관) 추가 
 
 =========================================
 =========================================
