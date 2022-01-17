@@ -96,6 +96,9 @@ More Maritime: Seaside Sectors - 바다에 특수지구 2개 추가 모드
 Better Rome - 로마 리메이크 
 Better Balanced Starts(BBS) - 스타팅 위치 좋게 해줌(도시간 간격,자원,문명특성 등)
 3x Slower Global Warming - 기후변화 3배 느리게하는 모드 
+Natural Gas - 천연가스 자원 추가 모드 
+real strategy - AI들이 정형화 된 행동에서 벗어남
+
 
 
 =========================================
@@ -122,11 +125,13 @@ Unique Improvement: Castrum (Rome) - 로마 요새를 이쁘게 해줌
 Tsunami Waves: Lite Version - 살아있는 파도 라이트 버전
 CIVILIZATION VI: KINKAKU-JI - 금각사 불가사의 추가 
 Sukritact's Fuji- 후지산 원더(자연경관) 추가 
+Unearthed: Artifacts and Relics Expansion - 유물, 성유물 추가 모드 
 
 =========================================
 =========================================
 * More Units
-Steel and Thunder: Unique Units
+Steel and Thunder: Unique Units - 유니크 유닛 추가 모드 
+Steel and Thunder: Unit Expansion - 유닛 추가 모드 
 
 =========================================
 =========================================
