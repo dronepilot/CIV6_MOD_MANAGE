@@ -63,8 +63,8 @@ CIVITAS Gajah Mada - 가자 마다 : 인도네시아
 * UI
 Real great People (UI)
 Better Report Screen (UI)
-Colonized Historic Moments
-Better Civilization Icons
+Colonized Historic Moments  2021년 4월 6일
+Better Civilization Icons  2021년 3월 28일
 Quick Deals
 Better Loading Screen(UI)
 Better Religion Window (UI)
@@ -83,21 +83,23 @@ Surburban Roads - 도로가 더욱 선명하게 해줌
 Unique District Icons - 문명 고유 특수지역 유니콘 바꿔줌
 Detailed Map Tacks - 맵에 핀박는거 더 쉽게 
 What Did I Promise? - 문명 간 약속한 거 보여줌
-Tomatekh's Historical Religions - 종교 종류 많아지고 고증에 맞게 바꿔줌
-No Embark Air Units - 공중유닛이 바다에 가도 배로 안바뀜
-Build Wonders on Mountains - 포탈라 궁, 예수상 등이 산에 설치가능
+Tomatekh's Historical Religions - 종교 종류 많아지고 고증에 맞게 바꿔줌  2021년 6월 15일
+No Embark Air Units - 공중유닛이 바다에 가도 배로 안바뀜  2021년 5월 24일
+Build Wonders on Mountains - 포탈라 궁, 예수상 등이 산에 설치가능 2020년 11월 19일
 Expanded Initial Vision - 처음 맵이 더 넓게 보임
 Radiant Samurais - 사무라이 진급 기능 바뀌구 진급 아니콘도 변경
-auto build roads with units - 건설자,공병이 자동으로 길 생성 (아직 검증 안됨)
-Envoy Quest List (검증안됨)
+auto build roads with units - 건설자,공병이 자동으로 길 생성 (아직 검증 안됨) 2021년 8월 1일
+Envoy Quest List 	2021년 7월 13일
 Right Click Close Leader 
-Sukritact's Oceans - 바다에 자원 추가 (한글화가 안됨..)
-More Maritime: Seaside Sectors - 바다에 특수지구 2개 추가 모드 
-Better Rome - 로마 리메이크 
-Better Balanced Starts(BBS) - 스타팅 위치 좋게 해줌(도시간 간격,자원,문명특성 등)
-3x Slower Global Warming - 기후변화 3배 느리게하는 모드 
-Natural Gas - 천연가스 자원 추가 모드 
-real strategy - AI들이 정형화 된 행동에서 벗어남
+Sukritact's Oceans - 바다에 자원 추가 (한글화가 안됨..) 2021년 8월 15일
+More Maritime: Seaside Sectors - 바다에 특수지구 2개 추가 모드  2021년 9월 27일
+Better Rome - 로마 리메이크 2021년 8월 11일
+Better Balanced Starts(BBS) - 스타팅 위치 좋게 해줌(도시간 간격,자원,문명특성 등)  2021년 8월 18일
+3x Slower Global Warming - 기후변화 3배 느리게하는 모드 2020년 7월 4일	
+Natural Gas - 천연가스 자원 추가 모드 2021년 8월 17일	
+real strategy - AI들이 정형화 된 행동에서 벗어남  2021년 6월 27일
+Bargain Barbarian Clans - 야만인부족 가격 50%할인 게시일 2021년 2월 26일 오전 4시 22분
+
 
 
 
@@ -130,8 +132,8 @@ Unearthed: Artifacts and Relics Expansion - 유물, 성유물 추가 모드
 =========================================
 =========================================
 * More Units
-Steel and Thunder: Unique Units - 유니크 유닛 추가 모드 
-Steel and Thunder: Unit Expansion - 유닛 추가 모드 
+Steel and Thunder: Unique Units - 유니크 유닛 추가 모드  2021년 9월 21일
+Steel and Thunder: Unit Expansion - 유닛 추가 모드  2021년 6월 29일
 
 =========================================
 =========================================
