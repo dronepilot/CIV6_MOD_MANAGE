@@ -36,6 +36,7 @@ Sukritact's Bayinnaung (Burma) - 바인나웅 : 버마(미얀마)
 Macedon: Philip II - 필리포프 2세 : 마케도니아 추가지도자
 Yi Sun-sin - 이순신 : 한국 
 Korea: Myeongseong - 명성황후 : 한국
+[GS] Goguryeo Kingdom - 장수왕 : 한국(고구려)
 CIVITAS Askiya - 아스키아 : 송가이 제국
 [GS] Leugi's Getulio Vargas (Brazil) - 제툴리우 바르가스 (브라질)
 Merrick's Ashanti - 오세이 투투1세 (아샨티 제국)
@@ -96,11 +97,11 @@ More Maritime: Seaside Sectors - 바다에 특수지구 2개 추가 모드  2021
 Better Rome - 로마 리메이크 2021년 8월 11일
 Better Balanced Starts(BBS) - 스타팅 위치 좋게 해줌(도시간 간격,자원,문명특성 등)  2021년 8월 18일
 3x Slower Global Warming - 기후변화 3배 느리게하는 모드 2020년 7월 4일	
-Natural Gas - 천연가스 자원 추가 모드 2021년 8월 17일	
-real strategy - AI들이 정형화 된 행동에서 벗어남  2021년 6월 27일
+Natural Gas - 천연가스 자원 추가 모드 2021년 8월 17일 - 좀 이상함
+real strategy - AI들이 정형화 된 행동에서 벗어남  2021년 6월 27일 - 제외
 Bargain Barbarian Clans - 야만인부족 가격 50%할인 게시일 2021년 2월 26일 오전 4시 22분
 
-
+Extended Diplomacy Ribbon - 외교 간단하게 볼 수 있는 모드 
 
 
 =========================================
@@ -128,6 +129,8 @@ Tsunami Waves: Lite Version - 살아있는 파도 라이트 버전
 CIVILIZATION VI: KINKAKU-JI - 금각사 불가사의 추가 
 Sukritact's Fuji- 후지산 원더(자연경관) 추가 
 Unearthed: Artifacts and Relics Expansion - 유물, 성유물 추가 모드 
+CIVILIZATION VI: ST PETERS BASILICA - 성베드로대성당 불가사의 추가
+Itsukushima Shrine (World Wonder) - 이쓰쿠시마 신사 불가사의 추가
 
 =========================================
 =========================================

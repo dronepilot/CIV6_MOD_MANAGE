@@ -21,11 +21,7 @@ great works ++ : 걸작 강화 모드
 
 Customization VI : 게임 커스터마이징 강화 하는 모드 
 
-CIVILIZATION VI: ST PETERS BASILICA : 성 베드로 대성당 불가사의 추가
-
--- warfare 모드는 그래픽 크래시로 일단 구독 보류
-Warfare Expanded (Pack 1): Reloaded - 유닛 추가 모드  2,3 더 있음, 중세 유닛 추가 모드도 있음 
-Warfare Expanded: Medieval - 중세 유닛 추가 모드 
+CIVILIZATION VI: CITY LIGHTS : 심시티하는 모드 
 ===================================================================
 추가된 모드 
 batter balanced starts : AI, 플레이어와 공평한 영토에서 스타팅
