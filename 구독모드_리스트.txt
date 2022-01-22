@@ -131,7 +131,9 @@ Sukritact's Fuji- 후지산 원더(자연경관) 추가
 Unearthed: Artifacts and Relics Expansion - 유물, 성유물 추가 모드 
 CIVILIZATION VI: ST PETERS BASILICA - 성베드로대성당 불가사의 추가
 Itsukushima Shrine (World Wonder) - 이쓰쿠시마 신사 불가사의 추가
-
+Burj Khalifa (World Wonder)
+Leaning Tower of Pisa (World Wonder)
+CIVILIZATION VI: EMPIRE STATE BUILDING
 =========================================
 =========================================
 * More Units
