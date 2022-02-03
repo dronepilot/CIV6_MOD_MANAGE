@@ -193,13 +193,13 @@
 		</Replace>
 		<!--Agenda-->
 		<Replace Tag="LOC_DIPLO_TCS_AGENDA_LEPER_KING_SAME_RELIGION" Language="en_US">
-			<Text>보두앵은 당신이 같은 종교를 공유해서 기뻐합니다.</Text>
+			<Text>(보두앵은 당신이 같은 종교를 공유해서 기뻐합니다.)</Text>
 		</Replace>
 		<Replace Tag="LOC_DIPLO_TCS_AGENDA_LEPER_KING_RELIGIOUS_FRIEND" Language="en_US">
-			<Text>보두앵은 당신이 당신의 충실한 형제들과 우정을 나누게 되어 기쁩니다.</Text>
+			<Text>(보두앵은 당신이 당신의 충실한 형제들과 우정을 나누게 되어 기쁩니다.)</Text>
 		</Replace>
 		<Replace Tag="LOC_DIPLO_TCS_AGENDA_LEPER_KING_DIFFERENT_RELIGION_FOUNDER" Language="en_US">
-			<Text>보두앵은 당신이 다른 종교를 창시한 것에 분노합니다.</Text>
+			<Text>(보두앵은 당신이 다른 종교를 창시한 것에 분노합니다.)</Text>
 		</Replace>
 		<Replace Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_TCS_AGENDA_LEPER_KING_DIFFERENT_RELIGION_FOUNDER" Language="en_US">
 			<Text>(당신은 다른 종교를 창시하였소.)</Text>

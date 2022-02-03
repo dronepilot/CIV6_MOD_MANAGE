@@ -105,7 +105,7 @@
 			<Text>수도회 영지</Text>
 		</Replace>
 		<Replace Tag="LOC_TCS_TRAIT_CIVILIZATION_BUILDING_CHAPTER_COMMANDERY_DESCRIPTION" Language="en_US">
-			<Text>예루살렘의 고유 건물: 수도회의 영지</Text>
+			<Text>예루살렘의 고유 건물: 수도회 영지</Text>
 		</Replace>
 		<Replace Tag="LOC_TCS_JERUSALEM_ENCAMPMENT_FAITH_ADJACENCY" Language="en_US">
 			<Text>인접한 주둔지에서의 [ICON_Faith]신앙 +{1_num}</Text>
