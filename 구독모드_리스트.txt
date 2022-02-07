@@ -78,6 +78,7 @@ Better Trade Screen
 Great Works Viewer
 Sukritact's Civ Selection Screen (가끔 클릭이 안되는 버그있음)
 Better Tech Tree (UI)
+Better World Rankings (UI) 
 
 =========================================
 =========================================
