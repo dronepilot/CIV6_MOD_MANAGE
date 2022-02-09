@@ -77,8 +77,8 @@ Enhanced Mod Manager
 Better Trade Screen
 Great Works Viewer
 Sukritact's Civ Selection Screen (가끔 클릭이 안되는 버그있음)
-Better Tech Tree (UI)
-Better World Rankings (UI) 
+Better Tech Tree (UI) 2020년 11월 30일
+Better World Rankings (UI)  2021년 6월 9일
 
 =========================================
 =========================================
@@ -107,7 +107,7 @@ real strategy - AI들이 정형화 된 행동에서 벗어남  2021년 6월 27�
 Bargain Barbarian Clans - 야만인부족 가격 50%할인 게시일 2021년 2월 26일 오전 4시 22분
 
 Extended Diplomacy Ribbon - 외교 간단하게 볼 수 있는 모드 
-
+Resourceful 2 (NFP compatible) - 자원추가모드 2021년 12월 24일
 
 =========================================
 =========================================
