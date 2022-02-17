@@ -1,0 +1,584 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<GameData>
+  <LocalizedText>
+    <!--Product Creation Projects-->
+    <Row Tag="LOC_PROJECT_CREATE_CORPORATION_PRODUCT_LAPIS_NAME" Language="en_US">
+      <Text>[ICON_RESOURCE_LAPIS] 청금석 기업: 신제품 생성</Text>
+    </Row>
+    <Row Tag="LOC_PROJECT_CREATE_CORPORATION_PRODUCT_LAPIS_SHORT_NAME" Language="en_US">
+      <Text>[ICON_RESOURCE_LAPIS] 새로운 청금석 제품 생성</Text>
+    </Row>
+    <Row Tag="LOC_PROJECT_CREATE_CORPORATION_PRODUCT_LAPIS_DESCRIPTION" Language="en_US">
+      <Text>[ICON_RESOURCE_LAPIS] 청금석 자원을 기반으로 세계를 위한 신제품을 만들어보세요. {LOC_INDUSTRY_FAITH_YIELD_BONUS_DESCRIPTION}</Text>
+    </Row>
+    <Row Tag="LOC_PROJECT_CREATE_CORPORATION_PRODUCT_PLATINUM_NAME" Language="en_US">
+      <Text>[ICON_RESOURCE_PLATINUM] 백금 기업: 신제품 생성</Text>
+    </Row>
+    <Row Tag="LOC_PROJECT_CREATE_CORPORATION_PRODUCT_PLATINUM_SHORT_NAME" Language="en_US">
+      <Text>[ICON_RESOURCE_PLATINUM] 새로운 백금 제품 생성</Text>
+    </Row>
+    <Row Tag="LOC_PROJECT_CREATE_CORPORATION_PRODUCT_PLATINUM_DESCRIPTION" Language="en_US">
+      <Text>[ICON_RESOURCE_PLATINUM] 백금 자원을 기반으로 세계를 위한 신제품을 만들어보세요. {LOC_INDUSTRY_GOLD_YIELD_BONUS_DESCRIPTION}</Text>
+    </Row>
+    <Row Tag="LOC_PROJECT_CREATE_CORPORATION_PRODUCT_RUBY_NAME" Language="en_US">
+      <Text>[ICON_RESOURCE_RUBY] 루비 기업: 신제품 생성</Text>
+    </Row>
+    <Row Tag="LOC_PROJECT_CREATE_CORPORATION_PRODUCT_RUBY_SHORT_NAME" Language="en_US">
+      <Text>[ICON_RESOURCE_RUBY] 새로운 루비 제품 생성</Text>
+    </Row>
+    <Row Tag="LOC_PROJECT_CREATE_CORPORATION_PRODUCT_RUBY_DESCRIPTION" Language="en_US">
+      <Text>[ICON_RESOURCE_RUBY] 루비 자원을 기반으로 세계를 위한 신제품을 만들어보세요.{LOC_INDUSTRY_GOLD_YIELD_BONUS_DESCRIPTION}</Text>
+    </Row>
+    <Row Tag="LOC_PROJECT_CREATE_CORPORATION_PRODUCT_SANDALWOOD_NAME" Language="en_US">
+      <Text>[ICON_RESOURCE_SANDALWOOD] 백단향 기업: 신제품 생성</Text>
+    </Row>
+    <Row Tag="LOC_PROJECT_CREATE_CORPORATION_PRODUCT_SANDALWOOD_SHORT_NAME" Language="en_US">
+      <Text>[ICON_RESOURCE_SANDALWOOD] 새로운 백단향 제품 생성</Text>
+    </Row>
+    <Row Tag="LOC_PROJECT_CREATE_CORPORATION_PRODUCT_SANDALWOOD_DESCRIPTION" Language="en_US">
+      <Text>[ICON_RESOURCE_SANDALWOOD] 백단향 자원을 기반으로 세계를 위한 신제품을 만들어보세요.  {LOC_INDUSTRY_FAITH_YIELD_BONUS_DESCRIPTION}</Text>
+    </Row>
+    <Row Tag="LOC_PROJECT_CREATE_CORPORATION_PRODUCT_MAPLE_NAME" Language="en_US">
+      <Text>[ICON_RESOURCE_MAPLE] 설탕단풍나무 기업: 신제품 생성</Text>
+    </Row>
+    <Row Tag="LOC_PROJECT_CREATE_CORPORATION_PRODUCT_MAPLE_SHORT_NAME" Language="en_US">
+      <Text>[ICON_RESOURCE_MAPLE] 새로운 설탕단풍나무 제품 생성</Text>
+    </Row>
+    <Row Tag="LOC_PROJECT_CREATE_CORPORATION_PRODUCT_MAPLE_DESCRIPTION" Language="en_US">
+      <Text>[ICON_RESOURCE_MAPLE] 설탕단풍나무 자원을 기반으로 세계를 위한 신제품을 만들어보세요.  {LOC_INDUSTRY_CITY_GROWTH_DISCOUNT_DESCRIPTION}</Text>
+    </Row>
+    <Row Tag="LOC_PROJECT_CREATE_CORPORATION_PRODUCT_POPPIES_NAME" Language="en_US">
+      <Text>[ICON_RESOURCE_POPPIES] 양귀비 기업: 신제품 생성</Text>
+    </Row>
+    <Row Tag="LOC_PROJECT_CREATE_CORPORATION_PRODUCT_POPPIES_SHORT_NAME" Language="en_US">
+      <Text>[ICON_RESOURCE_POPPIES] 새로운 양귀비 제품 생성</Text>
+    </Row>
+    <Row Tag="LOC_PROJECT_CREATE_CORPORATION_PRODUCT_POPPIES_DESCRIPTION" Language="en_US">
+      <Text>[ICON_RESOURCE_POPPIES] 양귀비 자원을 기반으로 세계를 위한 신제품을 만들어보세요.  {LOC_INDUSTRY_CIVILIAN_UNIT_DISCOUNT_DESCRIPTION}</Text>
+    </Row>
+    <Row Tag="LOC_PROJECT_CREATE_CORPORATION_PRODUCT_CAVIAR_NAME" Language="en_US">
+      <Text>[ICON_RESOURCE_CAVIAR] 캐비어 기업: 신제품 생성</Text>
+    </Row>
+    <Row Tag="LOC_PROJECT_CREATE_CORPORATION_PRODUCT_CAVIAR_SHORT_NAME" Language="en_US">
+      <Text>[ICON_RESOURCE_CAVIAR] 새로운 캐비어 제품 생성</Text>
+    </Row>
+    <Row Tag="LOC_PROJECT_CREATE_CORPORATION_PRODUCT_CAVIAR_DESCRIPTION" Language="en_US">
+      <Text>[ICON_RESOURCE_CAVIAR] 캐비어 자원을 기반으로 세계를 위한 신제품을 만들어보세요.  {LOC_INDUSTRY_GOLD_YIELD_BONUS_DESCRIPTION}</Text>
+    </Row>
+    <Row Tag="LOC_PROJECT_CREATE_CORPORATION_PRODUCT_CORAL_NAME" Language="en_US">
+      <Text>[ICON_RESOURCE_CORAL] 산호 기업: 신제품 생성</Text>
+    </Row>
+    <Row Tag="LOC_PROJECT_CREATE_CORPORATION_PRODUCT_CORAL_SHORT_NAME" Language="en_US">
+      <Text>[ICON_RESOURCE_CORAL] 새로운 산호 제품 생성</Text>
+    </Row>
+    <Row Tag="LOC_PROJECT_CREATE_CORPORATION_PRODUCT_CORAL_DESCRIPTION" Language="en_US">
+      <Text>[ICON_RESOURCE_CORAL] 산호 자원을 기반으로 세계를 위한 신제품을 만들어보세요. {LOC_INDUSTRY_CULTURE_YIELD_BONUS_DESCRIPTION}</Text>
+    </Row>
+    <Row Tag="LOC_PROJECT_CREATE_CORPORATION_PRODUCT_BAMBOO_NAME" Language="en_US">
+      <Text>[ICON_RESOURCE_BAMBOO] 대나무 기업: 신제품 생성</Text>
+    </Row>
+    <Row Tag="LOC_PROJECT_CREATE_CORPORATION_PRODUCT_BAMBOO_SHORT_NAME" Language="en_US">
+      <Text>[ICON_RESOURCE_BAMBOO] 새로운 대나무 제품 생성</Text>
+    </Row>
+    <Row Tag="LOC_PROJECT_CREATE_CORPORATION_PRODUCT_BAMBOO_DESCRIPTION" Language="en_US">
+      <Text>[ICON_RESOURCE_BAMBOO] 대나무 자원을 기반으로 세계를 위한 신제품을 만들어보세요. {LOC_INDUSTRY_BUILDING_DISCOUNT_DESCRIPTION}</Text>
+    </Row>
+    <Row Tag="LOC_PROJECT_CREATE_CORPORATION_PRODUCT_EBONY_NAME" Language="en_US">
+      <Text>[ICON_RESOURCE_EBONY] 흑단 기업: 신제품 생성</Text>
+    </Row>
+    <Row Tag="LOC_PROJECT_CREATE_CORPORATION_PRODUCT_EBONY_SHORT_NAME" Language="en_US">
+      <Text>[ICON_RESOURCE_EBONY] 새로운 흑단 제품 생성</Text>
+    </Row>
+    <Row Tag="LOC_PROJECT_CREATE_CORPORATION_PRODUCT_EBONY_DESCRIPTION" Language="en_US">
+      <Text>[ICON_RESOURCE_EBONY] 흑단 자원을 기반으로 세계를 위한 신제품을 만들어보세요.{LOC_INDUSTRY_CIVILIAN_UNIT_DISCOUNT_DESCRIPTION}</Text>
+    </Row>
+    <Row Tag="LOC_PROJECT_CREATE_CORPORATION_PRODUCT_SAKURA_NAME" Language="en_US">
+      <Text>[ICON_RESOURCE_SAKURA] 벚나무 기업: 신제품 생성</Text>
+    </Row>
+    <Row Tag="LOC_PROJECT_CREATE_CORPORATION_PRODUCT_SAKURA_SHORT_NAME" Language="en_US">
+      <Text>[ICON_RESOURCE_SAKURA] 새로운 벚나무 제품 생성</Text>
+    </Row>
+    <Row Tag="LOC_PROJECT_CREATE_CORPORATION_PRODUCT_SAKURA_DESCRIPTION" Language="en_US">
+      <Text>[ICON_RESOURCE_SAKURA] 벚나무 자원을 기반으로 세계를 위한 신제품을 만들어보세요.  {LOC_INDUSTRY_CULTURE_YIELD_BONUS_DESCRIPTION}</Text>
+    </Row>
+    <Row Tag="LOC_PROJECT_CREATE_CORPORATION_PRODUCT_CASHMERE_NAME" Language="en_US">
+      <Text>[ICON_RESOURCE_CASHMERE] 캐시미어 기업: 신제품 생성</Text>
+    </Row>
+    <Row Tag="LOC_PROJECT_CREATE_CORPORATION_PRODUCT_CASHMERE_SHORT_NAME" Language="en_US">
+      <Text>[ICON_RESOURCE_CASHMERE] 새로운 캐시미어 제품 생성</Text>
+    </Row>
+    <Row Tag="LOC_PROJECT_CREATE_CORPORATION_PRODUCT_CASHMERE_DESCRIPTION" Language="en_US">
+      <Text>[ICON_RESOURCE_CASHMERE] 캐시미어 자원을 기반으로 세계를 위한 신제품을 만들어보세요.  {LOC_INDUSTRY_CIVILIAN_UNIT_DISCOUNT_DESCRIPTION}</Text>
+    </Row>
+    <Row Tag="LOC_PROJECT_CREATE_CORPORATION_PRODUCT_TRAVERTINE_NAME" Language="en_US">
+      <Text>[ICON_RESOURCE_TRAVERTINE] 트래버틴 기업: 신제품 생성</Text>
+    </Row>
+    <Row Tag="LOC_PROJECT_CREATE_CORPORATION_PRODUCT_TRAVERTINE_SHORT_NAME" Language="en_US">
+      <Text>[ICON_RESOURCE_TRAVERTINE] 새로운 트래버틴 제품 생성</Text>
+    </Row>
+    <Row Tag="LOC_PROJECT_CREATE_CORPORATION_PRODUCT_TRAVERTINE_DESCRIPTION" Language="en_US">
+      <Text>[ICON_RESOURCE_TRAVERTINE] 트래버틴 자원을 기반으로 세계를 위한 신제품을 만들어보세요.  {LOC_INDUSTRY_BUILDING_DISCOUNT_DESCRIPTION}</Text>
+    </Row>
+    <Row Tag="LOC_PROJECT_CREATE_CORPORATION_PRODUCT_ALABASTER_NAME" Language="en_US">
+      <Text>[ICON_RESOURCE_ALABASTER] 대리석 기업: 신제품 생성</Text>
+    </Row>
+    <Row Tag="LOC_PROJECT_CREATE_CORPORATION_PRODUCT_ALABASTER_SHORT_NAME" Language="en_US">
+      <Text>[ICON_RESOURCE_ALABASTER] 새로운 대리석 제품 생성</Text>
+    </Row>
+    <Row Tag="LOC_PROJECT_CREATE_CORPORATION_PRODUCT_ALABASTER_DESCRIPTION" Language="en_US">
+      <Text>[ICON_RESOURCE_ALABASTER] 대리석 자원을 기반으로 세계를 위한 신제품을 만들어보세요.  {LOC_INDUSTRY_BUILDING_DISCOUNT_DESCRIPTION}</Text>
+    </Row>
+    <Row Tag="LOC_PROJECT_CREATE_CORPORATION_PRODUCT_GOLD2_NAME" Language="en_US">
+      <Text>[ICON_RESOURCE_GOLD2] 황금 기업: 신제품 생성</Text>
+    </Row>
+    <Row Tag="LOC_PROJECT_CREATE_CORPORATION_PRODUCT_GOLD2_SHORT_NAME" Language="en_US">
+      <Text>[ICON_RESOURCE_GOLD2] 새로운 황금 제품 생성</Text>
+    </Row>
+    <Row Tag="LOC_PROJECT_CREATE_CORPORATION_PRODUCT_GOLD2_DESCRIPTION" Language="en_US">
+      <Text>[ICON_RESOURCE_GOLD2] 황금 자원을 기반으로 세계를 위한 신제품을 만들어보세요.  {LOC_INDUSTRY_GOLD_YIELD_BONUS_DESCRIPTION}</Text>
+    </Row>
+    <Row Tag="LOC_PROJECT_CREATE_CORPORATION_PRODUCT_SPONGE_NAME" Language="en_US">
+      <Text>[ICON_RESOURCE_SPONGE] 해면동물 기업: 신제품 생성</Text>
+    </Row>
+    <Row Tag="LOC_PROJECT_CREATE_CORPORATION_PRODUCT_SPONGE_SHORT_NAME" Language="en_US">
+      <Text>[ICON_RESOURCE_SPONGE] 새로운 해면동물 제품 생성</Text>
+    </Row>
+    <Row Tag="LOC_PROJECT_CREATE_CORPORATION_PRODUCT_SPONGE_DESCRIPTION" Language="en_US">
+      <Text>[ICON_RESOURCE_SPONGE] 해면동물 자원을 기반으로 세계를 위한 신제품을 만들어보세요.  {LOC_INDUSTRY_SCIENCE_YIELD_BONUS_DESCRIPTION}</Text>
+    </Row>
+    <Row Tag="LOC_PROJECT_CREATE_CORPORATION_PRODUCT_SEA_URCHIN_NAME" Language="en_US">
+      <Text>[ICON_RESOURCE_SEA_URCHIN] 성게 기업: 신제품 생성</Text>
+    </Row>
+    <Row Tag="LOC_PROJECT_CREATE_CORPORATION_PRODUCT_SEA_URCHIN_SHORT_NAME" Language="en_US">
+      <Text>[ICON_RESOURCE_SEA_URCHIN] 새로운 성게 제품 생성</Text>
+    </Row>
+    <Row Tag="LOC_PROJECT_CREATE_CORPORATION_PRODUCT_SEA_URCHIN_DESCRIPTION" Language="en_US">
+      <Text>[ICON_RESOURCE_SEA_URCHIN] 성게 자원을 기반으로 세계를 위한 신제품을 만들어보세요.  {LOC_INDUSTRY_SCIENCE_YIELD_BONUS_DESCRIPTION}</Text>
+    </Row>
+    <Row Tag="LOC_PROJECT_CREATE_CORPORATION_PRODUCT_ORCA_NAME" Language="en_US">
+      <Text>[ICON_RESOURCE_ORCA] 범고래 기업: 신제품 생성</Text>
+    </Row>
+    <Row Tag="LOC_PROJECT_CREATE_CORPORATION_PRODUCT_ORCA_SHORT_NAME" Language="en_US">
+      <Text>[ICON_RESOURCE_ORCA] 새로운 범고래 제품 생성</Text>
+    </Row>
+    <Row Tag="LOC_PROJECT_CREATE_CORPORATION_PRODUCT_ORCA_DESCRIPTION" Language="en_US">
+      <Text>[ICON_RESOURCE_ORCA] 범고래 자원을 기반으로 세계를 위한 신제품을 만들어보세요.   {LOC_INDUSTRY_FAITH_YIELD_BONUS_DESCRIPTION}</Text>
+    </Row>
+    <Row Tag="LOC_PROJECT_CREATE_CORPORATION_PRODUCT_WOLF_NAME" Language="en_US">
+      <Text>[ICON_RESOURCE_WOLF] 늑대 기업: 신제품 생성</Text>
+    </Row>
+    <Row Tag="LOC_PROJECT_CREATE_CORPORATION_PRODUCT_WOLF_SHORT_NAME" Language="en_US">
+      <Text>[ICON_RESOURCE_WOLF] 새로운 늑대 제품 생성</Text>
+    </Row>
+    <Row Tag="LOC_PROJECT_CREATE_CORPORATION_PRODUCT_WOLF_DESCRIPTION" Language="en_US">
+      <Text>[ICON_RESOURCE_WOLF] 늑대 자원을 기반으로 세계를 위한 신제품을 만들어보세요.  {LOC_INDUSTRY_MILITARY_UNIT_DISCOUNT_DESCRIPTION}</Text>
+    </Row>
+    <Row Tag="LOC_PROJECT_CREATE_CORPORATION_PRODUCT_TIGER_NAME" Language="en_US">
+      <Text>[ICON_RESOURCE_TIGER] 호랑이 기업: 신제품 생성</Text>
+    </Row>
+    <Row Tag="LOC_PROJECT_CREATE_CORPORATION_PRODUCT_TIGER_SHORT_NAME" Language="en_US">
+      <Text>[ICON_RESOURCE_TIGER] 새로운 호랑이 제품 생성</Text>
+    </Row>
+    <Row Tag="LOC_PROJECT_CREATE_CORPORATION_PRODUCT_TIGER_DESCRIPTION" Language="en_US">
+      <Text>[ICON_RESOURCE_TIGER] 호랑이 자원을 기반으로 세계를 위한 신제품을 만들어보세요. {LOC_INDUSTRY_MILITARY_UNIT_DISCOUNT_DESCRIPTION}</Text>
+    </Row>
+    <Row Tag="LOC_PROJECT_CREATE_CORPORATION_PRODUCT_LION_NAME" Language="en_US">
+      <Text>[ICON_RESOURCE_LION] 사자 기업: 신제품 생성</Text>
+    </Row>
+    <Row Tag="LOC_PROJECT_CREATE_CORPORATION_PRODUCT_LION_SHORT_NAME" Language="en_US">
+      <Text>[ICON_RESOURCE_LION] 새로운 사자 제품 생성</Text>
+    </Row>
+    <Row Tag="LOC_PROJECT_CREATE_CORPORATION_PRODUCT_LION_DESCRIPTION" Language="en_US">
+      <Text>[ICON_RESOURCE_LION] 사자 자원을 기반으로 세계를 위한 신제품을 만들어보세요.  {LOC_INDUSTRY_MILITARY_UNIT_DISCOUNT_DESCRIPTION}</Text>
+    </Row>
+    <Row Tag="LOC_PROJECT_CREATE_CORPORATION_PRODUCT_TOXINS_NAME" Language="en_US">
+      <Text>[ICON_RESOURCE_TOXINS] 독소 기업: 신제품 생성</Text>
+    </Row>
+    <Row Tag="LOC_PROJECT_CREATE_CORPORATION_PRODUCT_TOXINS_SHORT_NAME" Language="en_US">
+      <Text>[ICON_RESOURCE_TOXINS] 새로운 독소 제품 생성</Text>
+    </Row>
+    <Row Tag="LOC_PROJECT_CREATE_CORPORATION_PRODUCT_TOXINS_DESCRIPTION" Language="en_US">
+      <Text>[ICON_RESOURCE_TOXINS] 독소 자원을 기반으로 세계를 위한 신제품을 만들어보세요.  {LOC_INDUSTRY_SCIENCE_YIELD_BONUS_DESCRIPTION}</Text>
+    </Row>
+    <Row Tag="LOC_PROJECT_CREATE_CORPORATION_PRODUCT_SAFFRON_NAME" Language="en_US">
+      <Text>[ICON_RESOURCE_SAFFRON] 사프란 기업: 신제품 생성</Text>
+    </Row>
+    <Row Tag="LOC_PROJECT_CREATE_CORPORATION_PRODUCT_SAFFRON_SHORT_NAME" Language="en_US">
+      <Text>[ICON_RESOURCE_SAFFRON] 새로운 사프란 제품 생성</Text>
+    </Row>
+    <Row Tag="LOC_PROJECT_CREATE_CORPORATION_PRODUCT_SAFFRON_DESCRIPTION" Language="en_US">
+      <Text>[ICON_RESOURCE_SAFFRON] 사프란 자원을 기반으로 세계를 위한 신제품을 만들어보세요.  {LOC_INDUSTRY_CIVILIAN_UNIT_DISCOUNT_DESCRIPTION}</Text>
+    </Row>
+    <Row Tag="LOC_PROJECT_CREATE_CORPORATION_PRODUCT_STRAWBERRY_NAME" Language="en_US">
+      <Text>[ICON_RESOURCE_STRAWBERRY] 딸기 기업: 신제품 생성</Text>
+    </Row>
+    <Row Tag="LOC_PROJECT_CREATE_CORPORATION_PRODUCT_STRAWBERRY_SHORT_NAME" Language="en_US">
+      <Text>[ICON_RESOURCE_STRAWBERRY] 새로운 딸기 제품 생성</Text>
+    </Row>
+    <Row Tag="LOC_PROJECT_CREATE_CORPORATION_PRODUCT_STRAWBERRY_DESCRIPTION" Language="en_US">
+      <Text>[ICON_RESOURCE_STRAWBERRY] 딸기 자원을 기반으로 세계를 위한 신제품을 만들어보세요.  {LOC_INDUSTRY_CITY_GROWTH_DISCOUNT_DESCRIPTION}</Text>
+    </Row>
+
+    <!--Corporation Product Names-->
+    <Row Tag="LOC_GREATWORK_PRODUCT_LAPIS_1_NAME" Language="en_US">
+      <Text>클랭블루</Text>
+    </Row>
+    <Row Tag="LOC_GREATWORK_PRODUCT_LAPIS_2_NAME" Language="en_US">
+      <Text>황제의 군청</Text>
+    </Row>
+    <Row Tag="LOC_GREATWORK_PRODUCT_LAPIS_3_NAME" Language="en_US">
+      <Text>하늘색 기억 물감</Text>
+    </Row>
+    <Row Tag="LOC_GREATWORK_PRODUCT_LAPIS_4_NAME" Language="en_US">
+      <Text>자하라 원석 공주</Text>
+    </Row>
+    <Row Tag="LOC_GREATWORK_PRODUCT_LAPIS_5_NAME" Language="en_US">
+      <Text>드라코 일렉트릭러스 다이스</Text>
+    </Row>
+    <Row Tag="LOC_GREATWORK_PRODUCT_PLATINUM_1_NAME" Language="en_US">
+      <Text>백조의 노래 보석 디자인</Text>
+    </Row>
+    <Row Tag="LOC_GREATWORK_PRODUCT_PLATINUM_2_NAME" Language="en_US">
+      <Text>프리마 마테리아 석유화학</Text>
+    </Row>
+    <Row Tag="LOC_GREATWORK_PRODUCT_PLATINUM_3_NAME" Language="en_US">
+      <Text>갈릴레이 실험 장비용품</Text>
+    </Row>
+    <Row Tag="LOC_GREATWORK_PRODUCT_PLATINUM_4_NAME" Language="en_US">
+      <Text>애덤스 기폭제</Text>
+    </Row>
+    <Row Tag="LOC_GREATWORK_PRODUCT_PLATINUM_5_NAME" Language="en_US">
+      <Text>킬로그램 데스 아카이브</Text>
+    </Row>
+    <Row Tag="LOC_GREATWORK_PRODUCT_RUBY_1_NAME" Language="en_US">
+      <Text>검은 왕자의 루비</Text>
+    </Row>
+    <Row Tag="LOC_GREATWORK_PRODUCT_RUBY_2_NAME" Language="en_US">
+      <Text>자유의 종</Text>
+    </Row>
+    <Row Tag="LOC_GREATWORK_PRODUCT_RUBY_3_NAME" Language="en_US">
+      <Text>닐란잘리</Text>
+    </Row>
+    <Row Tag="LOC_GREATWORK_PRODUCT_RUBY_4_NAME" Language="en_US">
+      <Text>매직미러 인조보석</Text>
+    </Row>
+    <Row Tag="LOC_GREATWORK_PRODUCT_RUBY_5_NAME" Language="en_US">
+      <Text>블로그 베인 레이저 장치</Text>
+    </Row>
+    <Row Tag="LOC_GREATWORK_PRODUCT_SANDALWOOD_1_NAME" Language="en_US">
+      <Text>쿠스마푸라 우드 아트</Text>
+    </Row>
+    <Row Tag="LOC_GREATWORK_PRODUCT_SANDALWOOD_2_NAME" Language="en_US">
+      <Text>추억의 꽃 향기</Text>
+    </Row>
+    <Row Tag="LOC_GREATWORK_PRODUCT_SANDALWOOD_3_NAME" Language="en_US">
+      <Text>모리화 화장품</Text>
+    </Row>
+    <Row Tag="LOC_GREATWORK_PRODUCT_SANDALWOOD_4_NAME" Language="en_US">
+      <Text>구스 페어 파빌리온</Text>
+    </Row>
+    <Row Tag="LOC_GREATWORK_PRODUCT_SANDALWOOD_5_NAME" Language="en_US">
+      <Text>비앤블룸 백단향 비누</Text>
+    </Row>
+    <Row Tag="LOC_GREATWORK_PRODUCT_MAPLE_1_NAME" Language="en_US">
+      <Text>노들랜드 메이플 시럽</Text>
+    </Row>
+    <Row Tag="LOC_GREATWORK_PRODUCT_MAPLE_2_NAME" Language="en_US">
+      <Text>작은 아이의 아이스크림</Text>
+    </Row>
+    <Row Tag="LOC_GREATWORK_PRODUCT_MAPLE_3_NAME" Language="en_US">
+      <Text>반다리 악기</Text>
+    </Row>
+    <Row Tag="LOC_GREATWORK_PRODUCT_MAPLE_4_NAME" Language="en_US">
+      <Text>자유로운 방랑자의 야구 방망이</Text>
+    </Row>
+    <Row Tag="LOC_GREATWORK_PRODUCT_MAPLE_5_NAME" Language="en_US">
+      <Text>테네시 위스키</Text>
+    </Row>
+    <Row Tag="LOC_GREATWORK_PRODUCT_POPPIES_1_NAME" Language="en_US">
+      <Text>아편틴크</Text>
+    </Row>
+    <Row Tag="LOC_GREATWORK_PRODUCT_POPPIES_2_NAME" Language="en_US">
+      <Text>돌란틴</Text>
+    </Row>
+    <Row Tag="LOC_GREATWORK_PRODUCT_POPPIES_3_NAME" Language="en_US">
+      <Text>자연의 씨앗 샐러드 오일</Text>
+    </Row>
+    <Row Tag="LOC_GREATWORK_PRODUCT_POPPIES_4_NAME" Language="en_US">
+      <Text>에버스프링 인조 꽃</Text>
+    </Row>
+    <Row Tag="LOC_GREATWORK_PRODUCT_POPPIES_5_NAME" Language="en_US">
+      <Text>사계절 원예용품</Text>
+    </Row>
+    <Row Tag="LOC_GREATWORK_PRODUCT_CAVIAR_1_NAME" Language="en_US">
+      <Text>대서양 셰프</Text>
+    </Row>
+    <Row Tag="LOC_GREATWORK_PRODUCT_CAVIAR_2_NAME" Language="en_US">
+      <Text>차르 표트르 대제의 선택</Text>
+    </Row>
+    <Row Tag="LOC_GREATWORK_PRODUCT_CAVIAR_3_NAME" Language="en_US">
+      <Text>프로시스터 캐비어</Text>
+    </Row>
+    <Row Tag="LOC_GREATWORK_PRODUCT_CAVIAR_4_NAME" Language="en_US">
+      <Text>제독의 어장</Text>
+    </Row>
+    <Row Tag="LOC_GREATWORK_PRODUCT_CAVIAR_5_NAME" Language="en_US">
+      <Text>벨루가 퀸</Text>
+    </Row>
+    <Row Tag="LOC_GREATWORK_PRODUCT_CORAL_1_NAME" Language="en_US">
+      <Text>바나클베이 아쿠아스카핑</Text>
+    </Row>
+    <Row Tag="LOC_GREATWORK_PRODUCT_CORAL_2_NAME" Language="en_US">
+      <Text>울트라블루 수족관 보급품</Text>
+    </Row>
+    <Row Tag="LOC_GREATWORK_PRODUCT_CORAL_3_NAME" Language="en_US">
+      <Text>인어공주 다이빙 센터</Text>
+    </Row>
+    <Row Tag="LOC_GREATWORK_PRODUCT_CORAL_4_NAME" Language="en_US">
+      <Text>레무리아 해양 유물</Text>
+    </Row>
+    <Row Tag="LOC_GREATWORK_PRODUCT_CORAL_5_NAME" Language="en_US">
+      <Text>붉은 산호 가루</Text>
+    </Row>
+    <Row Tag="LOC_GREATWORK_PRODUCT_BAMBOO_1_NAME" Language="en_US">
+      <Text>빨간색 승마용 후드 버스킷</Text>
+    </Row>
+    <Row Tag="LOC_GREATWORK_PRODUCT_BAMBOO_2_NAME" Language="en_US">
+      <Text>판다 셰프 젓가락</Text>
+    </Row>
+    <Row Tag="LOC_GREATWORK_PRODUCT_BAMBOO_3_NAME" Language="en_US">
+      <Text>대나무 파이 티슈</Text>
+    </Row>
+    <Row Tag="LOC_GREATWORK_PRODUCT_BAMBOO_4_NAME" Language="en_US">
+      <Text>MNG 인쇄 용지</Text>
+    </Row>
+    <Row Tag="LOC_GREATWORK_PRODUCT_BAMBOO_5_NAME" Language="en_US">
+      <Text>시옌쭈리</Text>
+    </Row>
+    <Row Tag="LOC_GREATWORK_PRODUCT_EBONY_1_NAME" Language="en_US">
+      <Text>MrM 숲</Text>
+    </Row>
+    <Row Tag="LOC_GREATWORK_PRODUCT_EBONY_2_NAME" Language="en_US">
+      <Text>엠마누엘 무어 피아노</Text>
+    </Row>
+    <Row Tag="LOC_GREATWORK_PRODUCT_EBONY_3_NAME" Language="en_US">
+      <Text>스톤튼 체스</Text>
+    </Row>
+    <Row Tag="LOC_GREATWORK_PRODUCT_EBONY_4_NAME" Language="en_US">
+      <Text>웨장루 가구</Text>
+    </Row>
+    <Row Tag="LOC_GREATWORK_PRODUCT_EBONY_5_NAME" Language="en_US">
+      <Text>라이징 스타 기타</Text>
+    </Row>
+    <Row Tag="LOC_GREATWORK_PRODUCT_SAKURA_1_NAME" Language="en_US">
+      <Text>소메이 요시노</Text>
+    </Row>
+    <Row Tag="LOC_GREATWORK_PRODUCT_SAKURA_2_NAME" Language="en_US">
+      <Text>카와즈 자쿠라</Text>
+    </Row>
+    <Row Tag="LOC_GREATWORK_PRODUCT_SAKURA_3_NAME" Language="en_US">
+      <Text>프루누스 칸잔</Text>
+    </Row>
+    <Row Tag="LOC_GREATWORK_PRODUCT_SAKURA_4_NAME" Language="en_US">
+      <Text>쿠리콜라 벚꽃</Text>
+    </Row>
+    <Row Tag="LOC_GREATWORK_PRODUCT_SAKURA_5_NAME" Language="en_US">
+      <Text>벗나무소다 제2공장</Text>
+    </Row>
+    <Row Tag="LOC_GREATWORK_PRODUCT_CASHMERE_1_NAME" Language="en_US">
+      <Text>레지네 패션</Text>
+    </Row>
+    <Row Tag="LOC_GREATWORK_PRODUCT_CASHMERE_2_NAME" Language="en_US">
+      <Text>작은 스카프 소녀</Text>
+    </Row>
+    <Row Tag="LOC_GREATWORK_PRODUCT_CASHMERE_3_NAME" Language="en_US">
+      <Text>남극 보온 속옷</Text>
+    </Row>
+    <Row Tag="LOC_GREATWORK_PRODUCT_CASHMERE_4_NAME" Language="en_US">
+      <Text>화이언 자수법</Text>
+    </Row>
+    <Row Tag="LOC_GREATWORK_PRODUCT_CASHMERE_5_NAME" Language="en_US">
+      <Text>아기 고양이 남매 털실</Text>
+    </Row>
+    <Row Tag="LOC_GREATWORK_PRODUCT_TRAVERTINE_1_NAME" Language="en_US">
+      <Text>피라미드 석조</Text>
+    </Row>
+    <Row Tag="LOC_GREATWORK_PRODUCT_TRAVERTINE_2_NAME" Language="en_US">
+      <Text>가이아 선축설계</Text>
+    </Row>
+    <Row Tag="LOC_GREATWORK_PRODUCT_TRAVERTINE_3_NAME" Language="en_US">
+      <Text>그리언 & 그렉 건설</Text>
+    </Row>
+    <Row Tag="LOC_GREATWORK_PRODUCT_TRAVERTINE_4_NAME" Language="en_US">
+      <Text>로렐 가든 부동산</Text>
+    </Row>
+    <Row Tag="LOC_GREATWORK_PRODUCT_TRAVERTINE_5_NAME" Language="en_US">
+      <Text>바웨이 석회화</Text>
+    </Row>
+    <Row Tag="LOC_GREATWORK_PRODUCT_ALABASTER_1_NAME" Language="en_US">
+      <Text>줄리어스 조각상</Text>
+    </Row>
+    <Row Tag="LOC_GREATWORK_PRODUCT_ALABASTER_2_NAME" Language="en_US">
+      <Text>치절 & 비트 구호</Text>
+    </Row>
+    <Row Tag="LOC_GREATWORK_PRODUCT_ALABASTER_3_NAME" Language="en_US">
+      <Text>클레이 코뮌 홈 장식</Text>
+    </Row>
+    <Row Tag="LOC_GREATWORK_PRODUCT_ALABASTER_4_NAME" Language="en_US">
+      <Text>한바이유(대리석의 일종)</Text>
+    </Row>
+    <Row Tag="LOC_GREATWORK_PRODUCT_ALABASTER_5_NAME" Language="en_US">
+      <Text>일곱 난쟁이 석고인형</Text>
+    </Row>
+    <Row Tag="LOC_GREATWORK_PRODUCT_GOLD2_1_NAME" Language="en_US">
+      <Text>푹셍왕</Text>
+    </Row>
+    <Row Tag="LOC_GREATWORK_PRODUCT_GOLD2_2_NAME" Language="en_US">
+      <Text>엘도라도 보석</Text>
+    </Row>
+    <Row Tag="LOC_GREATWORK_PRODUCT_GOLD2_3_NAME" Language="en_US">
+      <Text>비너스 일렉트로닉스</Text>
+    </Row>
+    <Row Tag="LOC_GREATWORK_PRODUCT_GOLD2_4_NAME" Language="en_US">
+      <Text>비너 필하모니커</Text>
+    </Row>
+    <Row Tag="LOC_GREATWORK_PRODUCT_GOLD2_5_NAME" Language="en_US">
+      <Text>슬래그 메탈</Text>
+    </Row>
+    <Row Tag="LOC_GREATWORK_PRODUCT_SPONGE_1_NAME" Language="en_US">
+      <Text>아드레스티아 천연 해면동물</Text>
+    </Row>
+    <Row Tag="LOC_GREATWORK_PRODUCT_SPONGE_2_NAME" Language="en_US">
+      <Text>세뇨르 클린 수세미</Text>
+    </Row>
+    <Row Tag="LOC_GREATWORK_PRODUCT_SPONGE_3_NAME" Language="en_US">
+      <Text>큐-매직 곤약 해면동물</Text>
+    </Row>
+    <Row Tag="LOC_GREATWORK_PRODUCT_SPONGE_4_NAME" Language="en_US">
+      <Text>스태그 도어 매트리스</Text>
+    </Row>
+    <Row Tag="LOC_GREATWORK_PRODUCT_SPONGE_5_NAME" Language="en_US">
+      <Text>스폰지밥 네모바지</Text>
+    </Row>
+    <Row Tag="LOC_GREATWORK_PRODUCT_SEA_URCHIN_1_NAME" Language="en_US">
+      <Text>여의방비</Text>
+    </Row>
+    <Row Tag="LOC_GREATWORK_PRODUCT_SEA_URCHIN_2_NAME" Language="en_US">
+      <Text>오브라 딘 해산물 레스토랑</Text>
+    </Row>
+    <Row Tag="LOC_GREATWORK_PRODUCT_SEA_URCHIN_3_NAME" Language="en_US">
+      <Text>페이롱팅</Text>
+    </Row>
+    <Row Tag="LOC_GREATWORK_PRODUCT_SEA_URCHIN_4_NAME" Language="en_US">
+      <Text>크라켄의 배</Text>
+    </Row>
+    <Row Tag="LOC_GREATWORK_PRODUCT_SEA_URCHIN_5_NAME" Language="en_US">
+      <Text>앰브로즈 레스토랑</Text>
+    </Row>
+    <Row Tag="LOC_GREATWORK_PRODUCT_ORCA_1_NAME" Language="en_US">
+      <Text>바다 수족관</Text>
+    </Row>
+    <Row Tag="LOC_GREATWORK_PRODUCT_ORCA_2_NAME" Language="en_US">
+      <Text>오세아노그라픽</Text>
+    </Row>
+    <Row Tag="LOC_GREATWORK_PRODUCT_ORCA_3_NAME" Language="en_US">
+      <Text>챙롱 오션 킹덤</Text>
+    </Row>
+    <Row Tag="LOC_GREATWORK_PRODUCT_ORCA_4_NAME" Language="en_US">
+      <Text>아쿠아돔 씨 라이프</Text>
+    </Row>
+    <Row Tag="LOC_GREATWORK_PRODUCT_ORCA_5_NAME" Language="en_US">
+      <Text>로스트 챔버스 수족관</Text>
+    </Row>
+    <Row Tag="LOC_GREATWORK_PRODUCT_WOLF_1_NAME" Language="en_US">
+      <Text>치와와</Text>
+    </Row>
+    <Row Tag="LOC_GREATWORK_PRODUCT_WOLF_2_NAME" Language="en_US">
+      <Text>그레이트데인</Text>
+    </Row>
+    <Row Tag="LOC_GREATWORK_PRODUCT_WOLF_3_NAME" Language="en_US">
+      <Text>허스키</Text>
+    </Row>
+    <Row Tag="LOC_GREATWORK_PRODUCT_WOLF_4_NAME" Language="en_US">
+      <Text>달마시안</Text>
+    </Row>
+    <Row Tag="LOC_GREATWORK_PRODUCT_WOLF_5_NAME" Language="en_US">
+      <Text>히말라야 마스티프</Text>
+    </Row>
+    <Row Tag="LOC_GREATWORK_PRODUCT_TIGER_1_NAME" Language="en_US">
+      <Text>로로파크</Text>
+    </Row>
+    <Row Tag="LOC_GREATWORK_PRODUCT_TIGER_2_NAME" Language="en_US">
+      <Text>테마이켄 동물원</Text>
+    </Row>
+    <Row Tag="LOC_GREATWORK_PRODUCT_TIGER_3_NAME" Language="en_US">
+      <Text>페어리 다이자</Text>
+    </Row>
+    <Row Tag="LOC_GREATWORK_PRODUCT_TIGER_4_NAME" Language="en_US">
+      <Text>우에노 동물원</Text>
+    </Row>
+    <Row Tag="LOC_GREATWORK_PRODUCT_TIGER_5_NAME" Language="en_US">
+      <Text>라 팔미어 동물원</Text>
+    </Row>
+    <Row Tag="LOC_GREATWORK_PRODUCT_LION_1_NAME" Language="en_US">
+      <Text>움브웰의 여행 야생동물</Text>
+    </Row>
+    <Row Tag="LOC_GREATWORK_PRODUCT_LION_2_NAME" Language="en_US">
+      <Text>바넘 & 베일리의 위대한 쇼</Text>
+    </Row>
+    <Row Tag="LOC_GREATWORK_PRODUCT_LION_3_NAME" Language="en_US">
+      <Text>메드라노 서커스</Text>
+    </Row>
+    <Row Tag="LOC_GREATWORK_PRODUCT_LION_4_NAME" Language="en_US">
+      <Text>Al G. 반스 서커스</Text>
+    </Row>
+    <Row Tag="LOC_GREATWORK_PRODUCT_LION_5_NAME" Language="en_US">
+      <Text>위대한 정오의 국제 서커스</Text>
+    </Row>
+    <Row Tag="LOC_GREATWORK_PRODUCT_TOXINS_1_NAME" Language="en_US">
+      <Text>보툴리눔 독소</Text>
+    </Row>
+    <Row Tag="LOC_GREATWORK_PRODUCT_TOXINS_2_NAME" Language="en_US">
+      <Text>페니실린</Text>
+    </Row>
+    <Row Tag="LOC_GREATWORK_PRODUCT_TOXINS_3_NAME" Language="en_US">
+      <Text>파클리탁셀</Text>
+    </Row>
+    <Row Tag="LOC_GREATWORK_PRODUCT_TOXINS_4_NAME" Language="en_US">
+      <Text>트리세녹스</Text>
+    </Row>
+    <Row Tag="LOC_GREATWORK_PRODUCT_TOXINS_5_NAME" Language="en_US">
+      <Text>반코마이신</Text>
+    </Row>
+    <Row Tag="LOC_GREATWORK_PRODUCT_SAFFRON_1_NAME" Language="en_US">
+      <Text>코스로우 사프란</Text>
+    </Row>
+    <Row Tag="LOC_GREATWORK_PRODUCT_SAFFRON_2_NAME" Language="en_US">
+      <Text>푸위안탕사프란</Text>
+    </Row>
+    <Row Tag="LOC_GREATWORK_PRODUCT_SAFFRON_3_NAME" Language="en_US">
+      <Text>스칼렛 레드 사프란</Text>
+    </Row>
+    <Row Tag="LOC_GREATWORK_PRODUCT_SAFFRON_4_NAME" Language="en_US">
+      <Text>알타메리 사프란</Text>
+    </Row>
+    <Row Tag="LOC_GREATWORK_PRODUCT_SAFFRON_5_NAME" Language="en_US">
+      <Text>키부 고메 사프란</Text>
+    </Row>
+    <Row Tag="LOC_GREATWORK_PRODUCT_STRAWBERRY_1_NAME" Language="en_US">
+      <Text>파고다 생과일</Text>
+    </Row>
+    <Row Tag="LOC_GREATWORK_PRODUCT_STRAWBERRY_2_NAME" Language="en_US">
+      <Text>세마리 햄스터의 말린 딸기</Text>
+    </Row>
+    <Row Tag="LOC_GREATWORK_PRODUCT_STRAWBERRY_3_NAME" Language="en_US">
+      <Text>큐피드 딸기잼</Text>
+    </Row>
+    <Row Tag="LOC_GREATWORK_PRODUCT_STRAWBERRY_4_NAME" Language="en_US">
+      <Text>안나 오차드 주스</Text>
+    </Row>
+    <Row Tag="LOC_GREATWORK_PRODUCT_STRAWBERRY_5_NAME" Language="en_US">
+      <Text>멜티블리스 딸기 초콜릿</Text>
+    </Row>
+  </LocalizedText>
+</GameData>
